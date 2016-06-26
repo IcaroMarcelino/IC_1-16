@@ -1,0 +1,1271 @@
+Antecedentes; ; ; ; ; ; ; ;Consequentes; ; ; ; ; ; ; ;Suporte;Confianca
+Estado;Agravo;Sexo;RacaCor;Agente;Antibiotico;Resistencia;FaixaEtaria;Estado;Agravo;Sexo;RacaCor;Agente;Antibiotico;Resistencia;FaixaEtaria
+ ; ; ; ; ; ; ; ; ; ; ; ; ; ;R; ;0;0
+ ; ; ; ; ; ; ; ; ; ; ; ; ; ;R;13;0;0
+ ; ; ; ; ; ; ; ; ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae; ;I; ;0;0
+ ; ; ; ; ; ; ; ; ; ; ;NA; ; ; ;13;X;0
+ ; ; ; ; ; ; ; ; ; ; ;NA; ; ;R; ;0;0
+ ; ; ; ; ; ; ; ; ; ; ;NA; ; ;R;13;0;0
+ ; ; ; ; ; ; ; ; ; ; ;NA; ;Cefepime; ;13;X;0
+ ; ; ; ; ; ; ; ; ; ;M; ;Klebsiella pneumoniae subsp. pneumoniae; ; ;13;X;0
+ ; ; ; ; ; ; ; ; ; ;M;NA; ;Sulfametoxazol/trimetoprim; ; ;0;0
+ ; ; ; ; ; ; ; ; ;0; ; ; ; ; ; ;0;0
+ ; ; ; ; ; ; ; ; ;0; ; ; ; ; ;13;0;0
+ ; ; ; ; ; ; ; ; ;0; ; ; ; ;R; ;0;0
+ ; ; ; ; ; ; ; ; ;0; ; ; ; ;R;13;0;0
+ ; ; ; ; ; ; ; ; ;0; ; ; ;Nitrofurantoina; ; ;X;0
+ ; ; ; ; ; ; ; ; ;0; ; ; ;Tobramicina;R; ;0;0
+ ; ; ; ; ; ; ; ; ;0; ; ;Klebsiella pneumoniae subsp. pneumoniae; ;R; ;X;0
+ ; ; ; ; ; ; ; ; ;0; ; ;Klebsiella pneumoniae subsp. pneumoniae;Ampicilina;R;13;X;0
+ ; ; ; ; ; ; ; ; ;0; ;NA; ; ; ; ;0;0
+ ; ; ; ; ; ; ; ; ;0; ;NA; ; ; ;13;0;0
+ ; ; ; ; ; ; ; ; ;0; ;NA; ; ;R; ;0;0
+ ; ; ; ; ; ; ; ; ;0; ;NA; ; ;R;13;X;0
+ ; ; ; ; ; ; ; ; ;0; ;NA; ;Cefoxitina;R;13;X;0
+ ; ; ; ; ; ; ; ; ;0; ;NA; ;Ertapenem; ; ;0;0
+ ; ; ; ; ; ; ; ; ;0; ;NA; ;Nitrofurantoina;R; ;X;0
+ ; ; ; ; ; ; ; ; ;0; ;NA;Klebsiella pneumoniae subsp. pneumoniae; ;R; ;0;0
+ ; ; ; ; ; ; ; ; ;0;F;NA; ;Cefazolina; ; ;X;0
+ ; ; ; ; ; ; ; ; ;0;F;NA;Acinetobacter baumannii;Meropenem; ;10;0;0
+ ; ; ; ; ; ; ; ; ;0;F;NA;Klebsiella pneumoniae subsp. pneumoniae; ; ;13;X;0
+ ; ; ; ; ; ; ; ; ;0;M; ; ; ; ; ;0;0
+ ; ; ; ; ; ; ; ; ;0;M;NA; ; ; ; ;0;0
+ ; ; ; ; ; ; ; ;AC; ;M; ;Acinetobacter sp.;Imipenem; ;1;0;0
+ ; ; ; ; ; ; ; ;PR;0; ; ;Klebsiella pneumoniae subsp. pneumoniae;Ertapenem; ; ;X;0
+ ; ; ; ; ; ; ; ;PR;0;F; ; ;Tobramicina; ;13;0;0
+ ; ; ; ; ; ; ; ;RS; ; ; ;Klebsiella pneumoniae subsp. pneumoniae; ; ; ;0;0
+ ; ; ; ; ; ; ; ;RS; ; ; ;Klebsiella pneumoniae subsp. pneumoniae; ; ;13;X;0
+ ; ; ; ; ; ; ; ;RS; ; ;NA; ; ;R;13;X;0
+ ; ; ; ; ; ; ; ;RS; ;M; ;Klebsiella pneumoniae subsp. pneumoniae;Ampicilina; ; ;X;0
+ ; ; ; ; ; ; ; ;RS;0; ; ; ; ;R; ;0;0
+ ; ; ; ; ; ; ; ;RS;0; ; ; ; ;R; ;X;0
+ ; ; ; ; ; ; ;1; ;0; ; ; ; ; ; ;0;0
+ ; ; ; ; ; ; ;13; ; ; ;NA; ; ;R; ;39.1;78.68
+ ; ; ; ; ; ; ;13; ;0; ; ; ; ; ; ;49.43;99.58
+ ; ; ; ; ; ; ;13; ;0; ; ; ; ;R; ;X;78.38
+ ; ; ; ; ; ; ;13; ;0; ; ; ;Cefoxitina;R; ;X;3.22
+ ; ; ; ; ; ; ;13; ;0; ; ; ;Trimetoprim/Sulfametoxazol;R; ;X;3.03
+ ; ; ; ; ; ; ;13; ;0;M; ;Acinetobacter baumannii; ; ; ;7.15;14.4
+ ; ; ; ; ; ; ;13;RS;0;M; ; ; ;R; ;X;28.39
+ ; ; ; ; ; ;R; ; ; ; ; ; ; ; ; ;0;0
+ ; ; ; ; ; ;R; ; ; ; ; ; ;Cefazolina; ;13;X;1.18
+ ; ; ; ; ; ;R; ; ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae; ; ; ;46.03;62.1
+ ; ; ; ; ; ;R; ; ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae; ; ; ;46.05;62.1
+ ; ; ; ; ; ;R; ; ; ; ;NA; ; ; ; ;0;0
+ ; ; ; ; ; ;R; ; ; ;F; ;Klebsiella pneumoniae subsp. pneumoniae;Cefepime; ;13;0.76;1.03
+ ; ; ; ; ; ;R; ; ;0; ; ; ; ; ; ;73.45;99.08
+ ; ; ; ; ; ;R; ; ;0; ; ; ; ; ; ;73.46;99.08
+ ; ; ; ; ; ;R; ; ;0; ; ; ; ; ; ;73.47;99.08
+ ; ; ; ; ; ;R; ; ;0; ; ; ; ; ; ;73.48;99.08
+ ; ; ; ; ; ;R; ; ;0; ; ; ; ; ; ;73.49;99.08
+ ; ; ; ; ; ;R; ; ;0; ; ; ; ; ; ;73.5;99.08
+ ; ; ; ; ; ;R; ; ;0; ; ; ; ; ; ;73.51;99.08
+ ; ; ; ; ; ;R; ; ;0; ; ; ; ; ; ;73.52;99.08
+ ; ; ; ; ; ;R; ; ;0; ; ; ; ; ; ;73.55;99.08
+ ; ; ; ; ; ;R; ; ;0; ; ; ; ; ; ;73.56;99.08
+ ; ; ; ; ; ;R; ; ;0; ; ; ; ; ; ;73.57;99.08
+ ; ; ; ; ; ;R; ; ;0; ; ; ; ; ; ;74.18;99.08
+ ; ; ; ; ; ;R; ; ;0; ; ; ; ; ; ;X;99.08
+ ; ; ; ; ; ;R; ; ;0; ; ; ; ; ;13;38.9;52.46
+ ; ; ; ; ; ;R; ; ;0; ; ; ;Meropenem; ; ;5.21;7.02
+ ; ; ; ; ; ;R; ; ;0; ;NA; ; ; ; ;73.45;99.08
+ ; ; ; ; ; ;R; ; ;0; ;NA; ; ; ; ;73.46;99.08
+ ; ; ; ; ; ;R; ; ;0; ;NA; ; ; ; ;73.47;99.08
+ ; ; ; ; ; ;R; ; ;0; ;NA; ; ; ; ;73.48;99.08
+ ; ; ; ; ; ;R; ; ;0; ;NA; ; ; ; ;73.49;99.08
+ ; ; ; ; ; ;R; ; ;0; ;NA; ; ; ; ;73.5;99.08
+ ; ; ; ; ; ;R; ; ;0; ;NA; ; ; ; ;73.51;99.08
+ ; ; ; ; ; ;R; ; ;0; ;NA; ; ; ; ;73.52;99.08
+ ; ; ; ; ; ;R; ; ;0; ;NA; ; ; ; ;73.56;99.08
+ ; ; ; ; ; ;R; ; ;0; ;NA; ; ; ; ;73.57;99.08
+ ; ; ; ; ; ;R; ; ;0; ;NA; ; ; ;13;38.91;52.46
+ ; ; ; ; ; ;R; ; ;0; ;NA; ; ; ;13;38.92;52.46
+ ; ; ; ; ; ;R; ; ;0; ;NA;Klebsiella pneumoniae subsp. pneumoniae;Ciprofloxacina; ;13;X;2.47
+ ; ; ; ; ; ;R; ; ;0;F; ; ; ; ; ;30.16;40.67
+ ; ; ; ; ; ;R; ; ;0;F; ; ; ; ; ;30.2;40.67
+ ; ; ; ; ; ;R; ; ;0;M; ; ; ; ; ;43.15;58.18
+ ; ; ; ; ; ;R; ;PR;0; ; ; ; ; ; ;13.93;18.78
+ ; ; ; ; ; ;R; ;RS; ; ; ; ; ; ;13;X;34.35
+ ; ; ; ; ; ;R; ;RS; ; ; ;Klebsiella pneumoniae subsp. pneumoniae; ; ; ;32.44;43.74
+ ; ; ; ; ; ;R; ;RS; ; ;NA;Complexo Acinetobacter baumannii;Tigeciclina; ; ;0;0
+ ; ; ; ; ; ;R; ;RS; ;M; ; ;Ampicilina; ; ;X;1.8
+ ; ; ; ; ; ;R; ;RS;0; ; ; ; ; ; ;43.65;58.84
+ ; ; ; ; ; ;R; ;RS;0; ;NA; ; ; ; ;43.62;58.84
+ ; ; ; ; ; ;R;1; ;0; ; ; ; ; ; ;0;0
+ ; ; ; ; ; ;R;10;GO;0;F;NA;Acinetobacter baumannii;Imipenem; ; ;0.01;0.26
+ ; ; ; ; ; ;R;12; ;0; ; ; ;Cefotaxima; ; ;0.35;2.96
+ ; ; ; ; ; ;R;13; ; ; ; ; ; ; ; ;0;0
+ ; ; ; ; ; ;R;13; ; ; ; ; ; ; ; ;X;0
+ ; ; ; ; ; ;R;13; ;0; ; ; ; ; ; ;38.89;99.62
+ ; ; ; ; ; ;R;13; ;0; ; ; ; ; ; ;38.91;99.62
+ ; ; ; ; ; ;R;13; ;0; ; ; ; ; ; ;38.92;99.62
+ ; ; ; ; ; ;R;13; ;0; ; ; ; ; ; ;X;99.62
+ ; ; ; ; ; ;R;13; ;0; ; ; ;Cefoxitina; ; ;X;4.09
+ ; ; ; ; ; ;R;13; ;0; ; ; ;Imipenem; ; ;2.56;6.56
+ ; ; ; ; ; ;R;13; ;0; ; ;Klebsiella pneumoniae subsp. pneumoniae; ; ; ;X;67.6
+ ; ; ; ; ; ;R;13; ;0; ; ;Klebsiella pneumoniae subsp. pneumoniae;Meropenem; ; ;X;4.41
+ ; ; ; ; ; ;R;13; ;0; ;NA; ; ; ; ;38.92;99.62
+ ; ; ; ; ; ;R;13; ;0; ;NA;Complexo Acinetobacter baumannii; ; ; ;0.88;2.24
+ ; ; ; ; ; ;R;13;MG;0;F; ;Acinetobacter sp.; ; ; ;0.06;0.14
+ ; ; ; ; ; ;R;13;RS;0; ; ; ;Piperacilina/Tazobactam; ; ;1.84;4.71
+ ; ; ; ; ; ;R;13;RS;0;F; ; ;Trimetoprim/Sulfametoxazol; ; ;0.62;1.59
+ ; ; ; ; ; ;R;13;RS;0;F;NA;Klebsiella pneumoniae subsp. pneumoniae;Amoxacilina/Acido Clavulanico; ; ;0.57;1.46
+ ; ; ; ; ; ;R;13;RS;0;M;NA;Klebsiella pneumoniae subsp. pneumoniae;Amoxacilina/Acido Clavulanico; ; ;0.66;1.71
+ ; ; ; ; ; ;S; ; ;0;M; ; ; ; ; ;13.12;57.08
+ ; ; ; ; ;Amicacina; ;13; ;0; ; ; ; ;R; ;0.95;29.63
+ ; ; ; ; ;Ampicilina; ; ;PR; ; ;NA;Klebsiella pneumoniae subsp. pneumoniae; ; ;13;0.4;9.65
+ ; ; ; ; ;Ampicilina; ;13; ;0; ; ; ; ;R; ;X;98.97
+ ; ; ; ; ;Ampicilina; ;13;PR;0;M;NA;Klebsiella pneumoniae subsp. pneumoniae; ;R; ;0.23;10.59
+ ; ; ; ; ;Ampicilina;R; ;RS;0; ; ;Klebsiella pneumoniae subsp. pneumoniae; ; ; ;X;55.47
+ ; ; ; ; ;Ampicilina/Sulbactam; ; ;RS; ;F;NA; ; ;S; ;0.0;0.02
+ ; ; ; ; ;Aztreonam;R; ;RS;0; ; ;Klebsiella pneumoniae subsp. pneumoniae; ; ; ;X;0.48
+ ; ; ; ; ;Cefepime; ;13; ; ; ; ; ; ;I; ;0;0
+ ; ; ; ; ;Cefepime; ;5;RN;0;F;PARDA;Acinetobacter lwoffii; ;S; ;0.0;2.02
+ ; ; ; ; ;Cefepime;R; ; ;0; ; ; ; ; ;13;X;51.52
+ ; ; ; ; ;Cefepime;R;13; ;0; ; ;Klebsiella pneumoniae subsp. pneumoniae; ; ; ;X;60.33
+ ; ; ; ; ;Cefepime;R;7;RS;0;M; ; ; ; ; ;0.05;28.52
+ ; ; ; ; ;Cefotaxima;R; ;RS; ; ; ; ; ; ; ;X;64.48
+ ; ; ; ; ;Cefoxitina; ; ; ; ; ; ; ; ; ; ;X;0
+ ; ; ; ; ;Cefoxitina; ; ; ; ; ; ; ; ;R; ;X;81.25
+ ; ; ; ; ;Cefoxitina; ; ;RS; ;F;NA;Klebsiella pneumoniae subsp. pneumoniae; ;R;9;0.03;0.75
+ ; ; ; ; ;Cefoxitina; ;13; ;0; ; ; ; ; ; ;X;99.86
+ ; ; ; ; ;Cefoxitina; ;13; ;0; ; ; ; ;R; ;X;83.82
+ ; ; ; ; ;Cefoxitina;R; ; ; ;F; ; ; ; ; ;X;43.34
+ ; ; ; ; ;Cefoxitina;R; ; ;0; ; ; ; ; ; ;X;99.81
+ ; ; ; ; ;Cefoxitina;R;13; ;0; ; ; ; ; ; ;X;99.96
+ ; ; ; ; ;Cefoxitina;R;13; ;0; ;NA; ; ; ; ;X;99.96
+ ; ; ; ; ;Ceftazidima; ; ; ; ; ; ;Acinetobacter baumannii; ; ;11;0.23;6.11
+ ; ; ; ; ;Ceftazidima; ;13;PR;0;F;NA;Klebsiella pneumoniae subsp. pneumoniae; ;R; ;0.17;10.66
+ ; ; ; ; ;Ceftriaxona; ; ; ;0; ; ; ; ; ; ;X;98.9
+ ; ; ; ; ;Ceftriaxona; ;13;RS;0;M; ; ; ; ; ;0.98;38.07
+ ; ; ; ; ;Ceftriaxona; ;13;RS;0;M;NA;Klebsiella pneumoniae subsp. pneumoniae; ;R; ;0.67;26.04
+ ; ; ; ; ;Cefuroxima; ;12;PR; ; ;NA; ; ;R; ;0.02;7.13
+ ; ; ; ; ;Ciprofloxacina; ; ; ;0; ;NA; ; ; ;13;3.19;48.76
+ ; ; ; ; ;Ciprofloxacina; ; ;RS;0; ; ; ; ; ; ;X;49.51
+ ; ; ; ; ;Ciprofloxacina; ;11;PA;0;M;NA;Acinetobacter lwoffii; ;S; ;0.0;0.1
+ ; ; ; ; ;Ciprofloxacina; ;13; ;0; ; ; ; ; ; ;X;99.65
+ ; ; ; ; ;Ciprofloxacina; ;13; ;0; ; ;Klebsiella pneumoniae subsp. pneumoniae; ; ; ;X;61.21
+ ; ; ; ; ;Ciprofloxacina;R; ; ;0; ;NA; ; ; ; ;5.45;99.18
+ ; ; ; ; ;Ciprofloxacina;R;13; ;0; ; ; ; ; ; ;X;99.69
+ ; ; ; ; ;Ertapenem; ; ; ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae; ; ; ;X;89.83
+ ; ; ; ; ;Ertapenem; ; ; ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae; ;R; ;X;80.66
+ ; ; ; ; ;Ertapenem; ; ; ; ; ;NA; ; ; ; ;X;0
+ ; ; ; ; ;Ertapenem;R; ; ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae; ; ; ;X;92.48
+ ; ; ; ; ;Ertapenem;R; ; ;0; ; ; ; ; ; ;3.22;99.94
+ ; ; ; ; ;Ertapenem;R; ; ;0; ; ; ; ; ; ;X;99.94
+ ; ; ; ; ;Ertapenem;R; ; ;0; ; ;Klebsiella pneumoniae subsp. pneumoniae; ; ; ;X;92.46
+ ; ; ; ; ;Ertapenem;R; ; ;0; ;NA; ; ; ; ;3.22;99.94
+ ; ; ; ; ;Gentamicina; ;13; ; ;F;NA;Complexo Acinetobacter baumannii; ;R; ;0.02;0.8
+ ; ; ; ; ;Imipenem;R;13; ;0;M; ;Acinetobacter baumannii; ; ; ;0.44;17.38
+ ; ; ; ; ;Isoniazida;S;8; ;0;M;NA;Mycobacterium sp.; ; ; ;0.05;87.21
+ ; ; ; ; ;Levofloxacina; ; ; ;0; ; ; ; ; ; ;4.29;98.96
+ ; ; ; ; ;Levofloxacina; ;13; ; ; ;NA;Klebsiella pneumoniae subsp. pneumoniae; ; ; ;X;60.55
+ ; ; ; ; ;Meropenem;R; ; ; ; ; ; ; ; ;1;0;0
+ ; ; ; ; ;Meropenem;R; ; ;0;F; ; ; ; ; ;2.09;39.83
+ ; ; ; ; ;Meropenem;R;13; ;0; ; ; ; ; ; ;2.75;99.67
+ ; ; ; ; ;Meropenem;R;13; ;0; ; ; ; ; ; ;X;99.67
+ ; ; ; ; ;Nitrofurantoina; ; ; ;0; ; ; ; ; ; ;X;99.93
+ ; ; ; ; ;Nitrofurantoina; ; ; ;0; ;NA; ; ; ; ;X;99.93
+ ; ; ; ; ;Piperacilina/Tazobactam; ; ; ;0;F;NA;Klebsiella pneumoniae subsp. pneumoniae; ;R;13;0.82;14.21
+ ; ; ; ; ;Tobramicina; ;13; ;0; ; ;Klebsiella pneumoniae subsp. pneumoniae; ; ; ;X;60.24
+ ; ; ; ; ;Trimetoprim/Sulfametoxazol; ;13; ;0;M; ; ; ;R; ;X;45.11
+ ; ; ; ; ;Trimetoprim/Sulfametoxazol;R; ; ;0; ; ; ; ; ;13;X;57.49
+ ; ; ; ; ;Trimetoprim/Sulfametoxazol;R; ; ;0; ;NA; ; ; ;13;X;57.49
+ ; ; ; ; ;Trimetoprim/Sulfametoxazol;R;13; ;0; ; ; ; ; ; ;X;99.96
+ ; ; ; ; ;Trimetoprim/Sulfametoxazol;R;13; ;0; ;NA; ; ; ; ;X;99.96
+ ; ; ; ; ;Trimetoprim/Sulfametoxazol;R;13;RS;0; ; ; ; ; ; ;X;95.63
+ ; ; ; ;Acinetobacter baumannii; ; ; ; ; ; ;NA; ; ;R; ;19.87;72.28
+ ; ; ; ;Acinetobacter baumannii; ; ; ; ;0;M; ; ; ; ;13;7.15;25.89
+ ; ; ; ;Acinetobacter baumannii; ;R; ;PR; ;F; ; ;Ampicilina/Sulbactam; ; ;0.02;0.1
+ ; ; ; ;Acinetobacter baumannii; ;R;13;RS;0;F;BRANCA; ;Amicacina; ; ;0.05;0.54
+ ; ; ; ;Acinetobacter baumannii;Ampicilina/Sulbactam;R;12;RS;0;F;BRANCA; ; ; ; ;0.01;6.9
+ ; ; ; ;Acinetobacter baumannii;Cefepime; ;1;AP;0;I; ; ; ;R; ;0;0
+ ; ; ; ;Acinetobacter baumannii;Colistin; ; ;AP;0;M;NA; ; ;S;13;0.01;2.76
+ ; ; ; ;Acinetobacter baumannii;Colistin; ;6;AP;0;M;NA; ; ;S; ;0.0;19.23
+ ; ; ; ;Acinetobacter baumannii;Gentamicina; ; ;GO;0;F; ; ; ;S;7;0.0;0.1
+ ; ; ; ;Acinetobacter baumannii;Meropenem;R;13;AC;0;M;AMARELA; ; ; ; ;0.0;0.49
+ ; ; ; ;Acinetobacter baumannii;Tetraciclina; ;8;RJ; ; ; ; ; ; ; ;0.0;6.76
+ ; ; ; ;Acinetobacter baumannii;Tigeciclina; ; ; ;0;F;NA; ; ; ; ;0.19;37.31
+ ; ; ; ;Acinetobacter baumannii;Trimetoprim/Sulfametoxazol;R; ;RS;0;M;BRANCA; ; ; ;12;0.03;3.45
+ ; ; ; ;Complexo Acinetobacter baumannii;Tobramicina;R;12;PR;0;M;NA; ; ; ; ;0.01;68.75
+ ; ; ; ;Klebsiella oxytoca; ; ;12; ;0;M; ; ; ;R; ;0.28;43.51
+ ; ; ; ;Klebsiella oxytoca; ;R;13; ;0; ; ; ; ; ; ;X;0
+ ; ; ; ;Klebsiella oxytoca; ;R;13; ;0; ;NA; ; ; ; ;X;0
+ ; ; ; ;Klebsiella oxytoca;Levofloxacina;S;3;TO;0;M;NA; ; ; ; ;0.0;50.0
+ ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae; ; ; ; ; ; ; ; ; ; ; ;0;0
+ ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae; ; ; ; ; ; ; ; ; ; ; ;X;0
+ ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae; ; ; ; ; ; ; ; ; ; ;13;X;56.23
+ ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae; ; ; ; ; ; ; ; ; ;R;13;X;45.63
+ ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae; ; ; ; ;0; ; ; ; ; ; ;57.68;99.62
+ ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae; ; ; ; ;0; ; ; ; ; ; ;X;99.62
+ ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae; ; ; ; ;0; ; ; ; ; ;13;X;56.16
+ ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae; ; ; ; ;0; ;NA; ; ; ; ;X;99.62
+ ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae; ; ; ; ;0; ;NA; ; ; ;13;X;56.16
+ ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae; ; ; ; ;0; ;NA; ; ;R; ;X;79.38
+ ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae; ; ; ; ;0; ;NA; ;Ampicilina;R; ;X;5.85
+ ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae; ; ; ; ;0; ;NA; ;Ciprofloxacina;R; ;X;5.41
+ ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae; ; ; ;PR; ;F; ; ;Imipenem; ;13;0.18;0.31
+ ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae; ; ; ;RS;0; ; ; ; ; ; ;X;67.94
+ ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae; ; ;10;RS; ;M; ; ;Aztreonam;R; ;X;0
+ ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae; ; ;12;RS;0;M;NA; ;Cefepime;R; ;0.19;2.06
+ ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae; ; ;13; ; ; ; ; ;Cefoxitina; ; ;X;5.0
+ ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae; ; ;13; ;0; ; ; ; ; ; ;X;99.88
+ ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae; ; ;13; ;0; ; ; ; ;R; ;X;81.09
+ ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae; ; ;13; ;0; ;NA; ; ; ; ;X;99.88
+ ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae; ; ;9;RS;0;M;NA; ;Amoxacilina/Acido Clavulanico;R; ;0.04;2.23
+ ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae; ;R; ; ; ; ; ; ; ; ; ;X;0
+ ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae; ;R; ; ; ; ;NA; ; ; ; ;X;0
+ ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae; ;R; ; ; ;F;NA; ;Ampicilina; ; ;X;3.21
+ ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae; ;R; ; ;0; ; ; ; ; ; ;45.97;99.81
+ ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae; ;R; ; ;0; ; ; ; ; ; ;45.99;99.81
+ ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae; ;R; ; ;0; ; ; ; ; ; ;X;99.81
+ ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae; ;R; ; ;0; ; ; ; ; ;13;X;57.33
+ ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae; ;R; ; ;0; ;NA; ; ; ; ;45.96;99.81
+ ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae; ;R; ; ;0; ;NA; ; ; ; ;45.97;99.81
+ ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae; ;R; ;RS; ;M;NA; ; ; ;13;10.39;22.56
+ ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae; ;R; ;RS;0; ; ; ; ; ;13;X;42.02
+ ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae; ;R; ;RS;0; ;NA; ; ; ; ;32.23;70.3
+ ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae; ;R; ;RS;0;M; ; ; ; ; ;X;38.99
+ ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae; ;R; ;RS;0;M;BRANCA; ;Trimetoprim/Sulfametoxazol; ;9;0.01;0.02
+ ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae; ;R; ;RS;0;M;NA; ; ; ; ;X;38.99
+ ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae; ;R; ;RS;0;M;NA; ;Cefazolina; ;13;0.44;0.95
+ ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae; ;R;13; ; ; ; ; ; ; ; ;X;0
+ ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae; ;R;13; ;0; ; ; ; ; ; ;X;99.92
+ ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae; ;R;13; ;0; ; ; ;Cefepime; ; ;X;6.39
+ ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae; ;R;13; ;0; ;NA; ; ; ; ;X;99.92
+ ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae; ;R;13; ;0;M; ; ; ; ; ;X;54.18
+ ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae; ;R;13;RS; ;F;NA; ;Imipenem; ; ;0.51;1.93
+ ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae; ;S;11; ;0;M;BRANCA; ;Tobramicina; ; ;0.0;0.23
+ ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae;Ampicilina; ; ; ; ; ; ; ; ; ;13;X;55.91
+ ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae;Ampicilina; ; ; ; ; ; ; ; ;R; ;X;99.94
+ ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae;Ampicilina; ;13; ; ; ; ; ; ; ; ;X;0
+ ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae;Ampicilina; ;13; ;0; ; ; ; ;R; ;X;99.79
+ ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae;Ampicilina; ;13;RS;0; ; ; ; ; ; ;X;70.81
+ ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae;Ampicilina;R; ;RS; ; ; ; ; ; ; ;X;66.95
+ ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae;Ampicilina;R; ;RS;0; ; ; ; ; ;13;X;39.59
+ ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae;Cefalotina;R; ; ;0; ; ; ; ; ; ;0;0
+ ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae;Cefepime; ;13; ;0; ; ; ; ; ; ;X;99.86
+ ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae;Cefepime; ;13;PR;0;F;NA; ; ;R; ;0.2;10.64
+ ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae;Cefepime;R;13; ; ; ; ; ; ; ; ;X;0
+ ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae;Cefepime;R;13; ;0; ; ; ; ; ; ;X;99.92
+ ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae;Cefepime;R;13; ;0; ;NA; ; ; ; ;X;99.92
+ ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae;Cefotaxima;R;12;RS;0;M;NA; ; ; ; ;0.12;52.33
+ ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae;Cefoxitina; ;13; ;0; ; ; ; ;R; ;X;83.14
+ ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae;Ceftriaxona; ; ;RS;0; ; ; ; ; ;13;1.27;44.19
+ ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae;Ceftriaxona; ;13; ;0; ; ; ; ; ; ;X;99.92
+ ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae;Ciprofloxacina; ; ; ;0; ; ; ; ; ;13;X;55.58
+ ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae;Ciprofloxacina;R; ; ;0; ; ; ; ; ; ;X;99.75
+ ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae;Ciprofloxacina;R;13; ; ; ; ; ; ; ; ;X;0
+ ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae;Ciprofloxacina;R;13; ;0; ; ; ; ; ; ;X;99.93
+ ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae;Ciprofloxacina;R;13; ;0; ;NA; ; ; ; ;X;99.93
+ ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae;Ertapenem; ; ; ;0; ;NA; ; ; ; ;X;99.69
+ ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae;Ertapenem; ;11; ;0; ; ; ; ;R; ;X;89.66
+ ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae;Ertapenem;R; ; ;0; ; ; ; ; ; ;X;99.98
+ ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae;Ertapenem;R; ; ;0; ;NA; ; ; ; ;X;99.98
+ ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae;Gentamicina;S;13; ;0;F;NA; ; ; ; ;0.26;47.47
+ ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae;Imipenem;R;13;RS;0;M;NA; ; ; ; ;0.6;38.44
+ ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae;Meropenem; ; ;CE;0;F;NA; ; ;R;13;0.01;0.27
+ ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae;Meropenem; ;12;RS;0; ;NA; ; ;R; ;0.33;59.19
+ ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae;Tobramicina;S;13;RS;0;F;NA; ; ; ; ;0.05;44.32
+ ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae;Trimetoprim/Sulfametoxazol;R; ;RS; ; ; ; ; ; ; ;X;98.37
+ ; ; ; ;Mycobacterium sp.;Etambutol;S;6;MS;0;F;NA; ; ; ; ;0.01;50.0
+ ; ; ;AMARELA;Acinetobacter sp.; ;S; ;CE;0;F; ; ;Ceftazidima; ;8;0.0;5.88
+ ; ; ;BRANCA; ; ; ; ;RS; ;F; ;Acinetobacter baumannii;Ciprofloxacina;R;9;0.0;0.03
+ ; ; ;BRANCA; ; ;R; ;ES;0;M; ;Acinetobacter sp.;Aztreonam; ;13;0.0;0.02
+ ; ; ;BRANCA; ;Amicacina;S;11;RS;0;M; ;Klebsiella pneumoniae subsp. pneumoniae; ; ; ;0.02;35.23
+ ; ; ;BRANCA; ;Cefoxitina;R; ;RS; ; ; ;Klebsiella pneumoniae subsp. pneumoniae; ; ;10;0.01;1.75
+ ; ; ;BRANCA;Klebsiella pneumoniae subsp. pneumoniae; ; ; ;RS; ;F; ; ;Imipenem;R;11;0.02;0.23
+ ; ; ;BRANCA;Klebsiella pneumoniae subsp. pneumoniae; ; ; ;RS;0;F; ; ;Cefuroxima;R;13;0.06;0.76
+ ; ; ;BRANCA;Klebsiella pneumoniae subsp. pneumoniae; ; ; ;RS;0;M; ; ;Cefepime;R;13;0.1;1.28
+ ; ; ;BRANCA;Klebsiella pneumoniae subsp. pneumoniae; ;R;6;RS;0; ; ; ;Imipenem; ; ;0.01;5.33
+ ; ; ;NA; ; ; ; ; ; ; ; ; ; ;R; ;0;0
+ ; ; ;NA; ; ; ; ; ; ; ; ; ; ;R; ;X;0
+ ; ; ;NA; ; ; ; ; ; ; ; ; ;Cefalotina;R; ;0;0
+ ; ; ;NA; ; ; ; ; ; ; ; ; ;Cefoxitina; ;13;X;0
+ ; ; ;NA; ; ; ; ; ; ;F; ; ;Ciprofloxacina; ; ;X;0
+ ; ; ;NA; ; ; ; ; ;0; ; ; ; ; ; ;0;0
+ ; ; ;NA; ; ; ; ; ;0; ; ; ; ;R; ;0;0
+ ; ; ;NA; ; ; ; ; ;0; ; ; ;Ciprofloxacina; ;13;0;0
+ ; ; ;NA; ; ; ; ; ;0; ; ;Klebsiella pneumoniae subsp. pneumoniae; ; ;13;X;0
+ ; ; ;NA; ; ; ; ; ;0; ; ;Klebsiella pneumoniae subsp. pneumoniae; ;R; ;X;0
+ ; ; ;NA; ; ; ; ;PR;0;F; ; ;Ciprofloxacina; ;12;0;0
+ ; ; ;NA; ; ; ; ;RS; ; ; ; ; ;R;13;X;0
+ ; ; ;NA; ; ; ; ;RS;0; ; ; ; ; ; ;0;0
+ ; ; ;NA; ; ; ; ;RS;0;M; ; ;Cefoxitina; ;11;0;0
+ ; ; ;NA; ; ; ;12; ; ; ; ; ; ;R; ;11.66;77.04
+ ; ; ;NA; ; ; ;12;RS;0;F; ;Klebsiella pneumoniae subsp. pneumoniae;Trimetoprim/Sulfametoxazol;R; ;0.11;0.74
+ ; ; ;NA; ; ; ;13; ; ; ; ; ; ; ; ;0;0
+ ; ; ;NA; ; ; ;13; ; ; ; ; ; ;R; ;39.1;78.68
+ ; ; ;NA; ; ; ;13; ; ; ; ; ;Cefepime; ; ;X;6.32
+ ; ; ;NA; ; ; ;13; ; ; ; ; ;Cefoxitina;R; ;X;3.22
+ ; ; ;NA; ; ; ;13; ; ;M; ;Klebsiella pneumoniae subsp. pneumoniae; ; ; ;X;35.54
+ ; ; ;NA; ; ; ;13; ;0; ; ; ;Meropenem; ; ;3.16;6.37
+ ; ; ;NA; ; ; ;13; ;0; ; ;Klebsiella pneumoniae subsp. pneumoniae; ;R; ;X;53.19
+ ; ; ;NA; ; ; ;13; ;0;F; ;Klebsiella pneumoniae subsp. pneumoniae; ;R; ;X;24.33
+ ; ; ;NA; ; ; ;13;PA; ; ; ; ;Nitrofurantoina; ; ;0.01;0.01
+ ; ; ;NA; ; ;R; ; ; ; ; ; ; ; ; ;0;0
+ ; ; ;NA; ; ;R; ; ; ; ; ; ; ; ;13;X;52.66
+ ; ; ;NA; ; ;R; ; ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae;Ertapenem; ; ;X;4.02
+ ; ; ;NA; ; ;R; ; ;0; ; ; ; ; ; ;73.45;99.08
+ ; ; ;NA; ; ;R; ; ;0; ; ; ; ; ; ;73.46;99.08
+ ; ; ;NA; ; ;R; ; ;0; ; ; ; ; ; ;73.47;99.08
+ ; ; ;NA; ; ;R; ; ;0; ; ; ; ; ; ;73.48;99.08
+ ; ; ;NA; ; ;R; ; ;0; ; ; ; ; ; ;73.49;99.08
+ ; ; ;NA; ; ;R; ; ;0; ; ; ; ; ; ;73.5;99.08
+ ; ; ;NA; ; ;R; ; ;0; ; ; ; ; ; ;73.51;99.08
+ ; ; ;NA; ; ;R; ; ;0; ; ; ; ; ; ;73.52;99.08
+ ; ; ;NA; ; ;R; ; ;0; ; ; ; ; ; ;73.55;99.08
+ ; ; ;NA; ; ;R; ; ;0; ; ; ; ; ; ;73.56;99.08
+ ; ; ;NA; ; ;R; ; ;0; ; ; ; ; ; ;74.18;99.08
+ ; ; ;NA; ; ;R; ; ;0; ; ; ; ; ; ;X;99.08
+ ; ; ;NA; ; ;R; ; ;0; ; ; ;Ceftriaxona; ;13;X;3.31
+ ; ; ;NA; ; ;R; ; ;0; ; ;Klebsiella pneumoniae subsp. pneumoniae; ; ; ;45.96;61.98
+ ; ; ;NA; ; ;R; ; ;0; ; ;Klebsiella pneumoniae subsp. pneumoniae; ; ; ;X;61.98
+ ; ; ;NA; ; ;R; ; ;0;M; ; ; ; ; ;43.14;58.18
+ ; ; ;NA; ; ;R; ; ;0;M; ; ; ; ;13;21.66;29.2
+ ; ; ;NA; ; ;R; ;MS; ; ; ;Mycobacterium sp.; ; ;9;X;0.02
+ ; ; ;NA; ; ;R;12;RS;0;F; ;Klebsiella pneumoniae subsp. pneumoniae;Cefepime; ; ;0.12;1.04
+ ; ; ;NA; ; ;R;13; ;0; ; ; ; ; ; ;X;99.62
+ ; ; ;NA; ; ;R;13;RS; ; ; ; ; ; ; ;X;65.22
+ ; ; ;NA; ; ;R;13;RS; ;M; ;Klebsiella pneumoniae subsp. pneumoniae; ; ; ;X;26.6
+ ; ; ;NA; ;Amicacina; ; ;RS;0; ; ; ; ;S;13;1.35;20.92
+ ; ; ;NA; ;Ampicilina;R;13; ; ; ; ; ; ; ; ;X;0
+ ; ; ;NA; ;Cefazolina;R; ; ;0; ; ; ; ; ;13;X;57.72
+ ; ; ;NA; ;Cefazolina;R;13;RS;0;F; ;Klebsiella pneumoniae subsp. pneumoniae; ; ; ;0.37;42.69
+ ; ; ;NA; ;Cefepime; ; ;RS;0;M; ;Klebsiella pneumoniae subsp. pneumoniae; ;R; ;1.05;16.36
+ ; ; ;NA; ;Cefoxitina;R; ; ; ; ; ; ; ; ; ;X;0
+ ; ; ;NA; ;Cefoxitina;R;13; ;0; ; ; ; ; ; ;X;99.96
+ ; ; ;NA; ;Ceftriaxona; ; ;RS; ; ; ; ; ;R;13;X;33.8
+ ; ; ;NA; ;Ceftriaxona; ; ;RS; ;M; ; ; ;R;13;X;18.73
+ ; ; ;NA; ;Ceftriaxona;R; ;RS; ; ; ; ; ; ;13;X;37.37
+ ; ; ;NA; ;Ciprofloxacina;R; ; ;0; ; ; ; ; ;10;0.21;3.79
+ ; ; ;NA; ;Colistin;S; ; ;0;M; ;Klebsiella pneumoniae subsp. pneumoniae; ; ;12;0.13;5.8
+ ; ; ;NA; ;Gentamicina;R;13;PR; ;M; ; ; ; ; ;0.25;11.51
+ ; ; ;NA; ;Gentamicina;R;13;RS;0;M; ;Klebsiella pneumoniae subsp. pneumoniae; ; ; ;0.54;24.47
+ ; ; ;NA; ;Imipenem; ; ;RS;0;M; ;Klebsiella pneumoniae subsp. pneumoniae; ;R;12;0.19;3.11
+ ; ; ;NA; ;Levofloxacina; ;13;RS;0;M; ;Klebsiella pneumoniae subsp. pneumoniae; ;S; ;0.06;2.82
+ ; ; ;NA; ;Meropenem; ; ; ;0; ; ; ; ; ; ;6.33;98.83
+ ; ; ;NA; ;Nitrofurantoina;R; ; ;0; ; ; ; ; ; ;0.81;99.92
+ ; ; ;NA; ;Tobramicina;R; ;RS; ;M; ; ; ; ; ;0.84;49.79
+ ; ; ;NA; ;Trimetoprim/Sulfametoxazol;R;13; ;0; ; ; ; ; ; ;X;99.96
+ ; ; ;NA; ;Trimetoprim/Sulfametoxazol;R;13; ;0; ; ;Klebsiella pneumoniae subsp. pneumoniae; ; ; ;X;68.15
+ ; ; ;NA;Acinetobacter baumannii; ; ;4;AC;0;M; ; ;Polimixina B;S; ;0.0;0.21
+ ; ; ;NA;Acinetobacter baumannii; ;R; ;RS;0;M; ; ;Ceftriaxona; ;13;0.24;1.2
+ ; ; ;NA;Acinetobacter baumannii; ;R;13;AC;0;F; ; ;Meropenem; ; ;0.03;0.28
+ ; ; ;NA;Acinetobacter baumannii; ;R;13;RS;0;M; ; ;Ceftriaxona; ; ;0.24;2.55
+ ; ; ;NA;Acinetobacter baumannii; ;R;13;RS;0;M; ; ;Tobramicina; ; ;0.11;1.14
+ ; ; ;NA;Klebsiella pneumoniae subsp. pneumoniae; ; ; ; ; ; ; ; ;Ertapenem;R; ;X;5.15
+ ; ; ;NA;Klebsiella pneumoniae subsp. pneumoniae; ; ; ; ;0; ; ; ; ; ; ;57.69;99.62
+ ; ; ;NA;Klebsiella pneumoniae subsp. pneumoniae; ; ; ; ;0; ; ; ; ; ; ;X;99.62
+ ; ; ;NA;Klebsiella pneumoniae subsp. pneumoniae; ; ; ; ;0; ; ; ; ; ;13;X;56.16
+ ; ; ;NA;Klebsiella pneumoniae subsp. pneumoniae; ; ; ; ;0; ; ; ; ;R; ;45.96;79.38
+ ; ; ;NA;Klebsiella pneumoniae subsp. pneumoniae; ; ; ;PR;0;F; ; ;Meropenem;R;13;0.19;0.33
+ ; ; ;NA;Klebsiella pneumoniae subsp. pneumoniae; ; ; ;PR;0;M; ; ;Ampicilina/Sulbactam; ;12;0.06;0.11
+ ; ; ;NA;Klebsiella pneumoniae subsp. pneumoniae; ; ; ;RS;0; ; ; ; ; ;13;X;40.48
+ ; ; ;NA;Klebsiella pneumoniae subsp. pneumoniae; ; ;12;PR;0;M; ; ;Ceftriaxona;R; ;0.03;0.37
+ ; ; ;NA;Klebsiella pneumoniae subsp. pneumoniae; ; ;13; ;0; ; ; ; ; ; ;X;99.88
+ ; ; ;NA;Klebsiella pneumoniae subsp. pneumoniae; ; ;13; ;0; ; ; ; ;R; ;X;81.09
+ ; ; ;NA;Klebsiella pneumoniae subsp. pneumoniae; ; ;13;RS;0;F; ; ;Cefepime;R; ;0.52;1.6
+ ; ; ;NA;Klebsiella pneumoniae subsp. pneumoniae; ;R; ; ;0; ; ; ; ; ; ;45.97;99.81
+ ; ; ;NA;Klebsiella pneumoniae subsp. pneumoniae; ;R; ; ;0; ; ; ;Ciprofloxacina; ; ;X;6.8
+ ; ; ;NA;Klebsiella pneumoniae subsp. pneumoniae; ;R; ;RS;0; ; ; ;Ciprofloxacina; ;13;1.27;2.76
+ ; ; ;NA;Klebsiella pneumoniae subsp. pneumoniae; ;R;13; ;0; ; ; ; ; ; ;X;99.92
+ ; ; ;NA;Klebsiella pneumoniae subsp. pneumoniae; ;R;13; ;0;F; ; ; ; ; ;12.02;45.71
+ ; ; ;NA;Klebsiella pneumoniae subsp. pneumoniae; ;S; ; ;0;M; ; ;Imipenem; ;13;0.18;1.83
+ ; ; ;NA;Klebsiella pneumoniae subsp. pneumoniae; ;S; ;RS;0;F; ; ;Colistin; ;12;0.04;0.41
+ ; ; ;NA;Klebsiella pneumoniae subsp. pneumoniae; ;S; ;RS;0;M; ; ;Ceftriaxona; ;13;0.01;0.08
+ ; ; ;NA;Klebsiella pneumoniae subsp. pneumoniae; ;S;11;RN;0;F; ; ;Cefepime; ; ;0.0;0.45
+ ; ; ;NA;Klebsiella pneumoniae subsp. pneumoniae;Amicacina;S;7;RS;0;F; ; ; ; ; ;0.01;19.82
+ ; ; ;NA;Klebsiella pneumoniae subsp. pneumoniae;Ampicilina; ;13; ; ;M; ; ; ;R; ;X;54.35
+ ; ; ;NA;Klebsiella pneumoniae subsp. pneumoniae;Ampicilina; ;13;RS; ; ; ; ; ;R; ;X;70.91
+ ; ; ;NA;Klebsiella pneumoniae subsp. pneumoniae;Ampicilina;R; ; ;0; ; ; ; ; ; ;X;99.62
+ ; ; ;NA;Klebsiella pneumoniae subsp. pneumoniae;Ampicilina;R;13; ; ; ; ; ; ; ; ;X;0
+ ; ; ;NA;Klebsiella pneumoniae subsp. pneumoniae;Cefazolina; ; ;RS;0;F; ; ; ;R;13;0.37;26.44
+ ; ; ;NA;Klebsiella pneumoniae subsp. pneumoniae;Cefepime; ;13; ;0; ; ; ; ;R; ;X;88.17
+ ; ; ;NA;Klebsiella pneumoniae subsp. pneumoniae;Cefepime;R;13; ;0; ; ; ; ; ; ;X;99.92
+ ; ; ;NA;Klebsiella pneumoniae subsp. pneumoniae;Ciprofloxacina;R;13; ;0; ; ; ; ; ; ;X;99.93
+ ; ; ;NA;Klebsiella pneumoniae subsp. pneumoniae;Ertapenem; ;13; ;0; ; ; ; ; ; ;X;99.97
+ ; ; ;NA;Klebsiella pneumoniae subsp. pneumoniae;Ertapenem;R; ; ;0; ; ; ; ; ; ;X;99.98
+ ; ; ;NA;Klebsiella pneumoniae subsp. pneumoniae;Gentamicina; ; ;RS;0;M; ; ; ;R;13;0.53;15.13
+ ; ; ;NA;Klebsiella pneumoniae subsp. pneumoniae;Gentamicina;R; ;RS; ;M; ; ; ; ;13;0.54;21.27
+ ; ; ;NA;Klebsiella pneumoniae subsp. pneumoniae;Gentamicina;S; ;PR;0;M; ; ; ; ;11;0.02;1.71
+ ; ; ;NA;Klebsiella pneumoniae subsp. pneumoniae;Levofloxacina; ;13;RS;0;M; ; ; ;S; ;0.06;4.66
+ ; ; ;NA;Klebsiella pneumoniae subsp. pneumoniae;Levofloxacina;R; ; ;0; ; ; ; ; ; ;2.03;99.9
+ ; ; ;NA;Klebsiella pneumoniae subsp. pneumoniae;Nitrofurantoina; ; ; ;0; ; ; ; ; ;11;0.05;6.96
+ ; ; ;PARDA;Acinetobacter baumannii;Gentamicina; ; ;ES;0;M; ; ; ;S;8;0.0;1.69
+ ; ;F; ; ; ; ; ; ; ; ; ; ;Ciprofloxacina; ; ;X;6.45
+ ; ;F; ; ; ; ; ; ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae;Ampicilina; ; ;X;3.56
+ ; ;F; ; ; ; ; ;PR; ; ;NA;Klebsiella pneumoniae subsp. pneumoniae;Ceftazidima;R;13;0.17;0.42
+ ; ;F; ; ; ; ;13;PR;0; ; ; ;Imipenem;R; ;0.22;1.02
+ ; ;F; ; ; ; ;13;PR;0; ;NA;Complexo Acinetobacter baumannii;Cefoxitina;R; ;0.01;0.04
+ ; ;F; ; ; ;R; ; ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae;Ampicilina; ;13;X;2.85
+ ; ;F; ; ; ;R; ; ;0; ; ; ; ; ; ;30.18;99.13
+ ; ;F; ; ; ;R; ; ;0; ; ;Klebsiella pneumoniae subsp. pneumoniae; ; ; ;20.04;65.84
+ ; ;F; ; ; ;R; ;RS; ; ;NA;Klebsiella pneumoniae subsp. pneumoniae; ; ;12;2.17;7.14
+ ; ;F; ; ; ;R;9;RS;0; ; ;Klebsiella pneumoniae subsp. pneumoniae;Gentamicina; ; ;0.02;1.93
+ ; ;F; ; ; ;S;1;AC;0; ;NA;Acinetobacter sp.;Cloranfenicol; ; ;0;0
+ ; ;F; ; ;Ampicilina; ; ; ; ; ; ; ; ;R; ;X;95.47
+ ; ;F; ; ;Ampicilina; ; ; ; ; ;NA; ; ;R; ;X;95.47
+ ; ;F; ; ;Cefoxitina; ;13;TO;0; ;NA;Klebsiella pneumoniae subsp. pneumoniae; ;R; ;0.01;1.34
+ ; ;F; ; ;Gentamicina; ; ;RS;0; ;BRANCA;Acinetobacter baumannii; ;R;13;0.06;2.17
+ ; ;F; ; ;Imipenem;S;12;RN;0; ;NA;Klebsiella pneumoniae subsp. pneumoniae; ; ; ;0.01;10.0
+ ; ;F; ; ;Levofloxacina;R; ;RS;0; ;BRANCA;Klebsiella pneumoniae subsp. pneumoniae; ; ;13;0.09;6.28
+ ; ;F; ;Acinetobacter baumannii; ; ;13; ;0; ;AMARELA; ;Levofloxacina; ; ;0.0;0.08
+ ; ;F; ;Acinetobacter baumannii; ; ;5;RO;0; ;NA; ; ;S; ;0.01;5.59
+ ; ;F; ;Acinetobacter baumannii; ;R;13;RS;0; ;NA; ;Ampicilina/Sulbactam; ; ;0.1;2.6
+ ; ;F; ;Acinetobacter baumannii;Amicacina;S;5;RO;0; ;NA; ; ; ; ;0.0;12.5
+ ; ;F; ;Acinetobacter sp.; ; ; ;AC;0; ; ; ;Cefoxitina;R;2;0.0;0.18
+ ; ;F; ;Klebsiella oxytoca; ;R; ;RS; ; ;NA; ;Gentamicina; ;12;0.01;0.68
+ ; ;F; ;Klebsiella pneumoniae subsp. pneumoniae; ; ; ; ; ; ; ; ; ;R;12;3.01;11.99
+ ; ;F; ;Klebsiella pneumoniae subsp. pneumoniae; ; ; ; ; ; ;NA; ;Ampicilina;R; ;X;5.84
+ ; ;F; ;Klebsiella pneumoniae subsp. pneumoniae; ; ; ;PR;0; ; ; ;Amicacina; ;13;0.21;0.83
+ ; ;F; ;Klebsiella pneumoniae subsp. pneumoniae; ; ; ;RS; ; ; ; ;Piperacilina/Tazobactam;R;13;0.61;2.4
+ ; ;F; ;Klebsiella pneumoniae subsp. pneumoniae; ; ; ;RS;0; ;BRANCA; ;Ciprofloxacina;R;11;0.02;0.06
+ ; ;F; ;Klebsiella pneumoniae subsp. pneumoniae; ;R; ; ; ; ;BRANCA; ;Imipenem; ;11;0.02;0.08
+ ; ;F; ;Klebsiella pneumoniae subsp. pneumoniae; ;R; ; ;0; ;BRANCA; ;Ampicilina; ;6;0.0;0.02
+ ; ;F; ;Klebsiella pneumoniae subsp. pneumoniae; ;R; ;RS;0; ;NA; ;Ampicilina; ;7;0.02;0.08
+ ; ;F; ;Klebsiella pneumoniae subsp. pneumoniae; ;S;13; ;0; ;NA; ; ; ; ;X;99.33
+ ; ;F; ;Klebsiella pneumoniae subsp. pneumoniae;Ampicilina; ; ; ; ; ; ; ; ;R; ;X;99.96
+ ; ;F; ;Klebsiella pneumoniae subsp. pneumoniae;Ampicilina; ; ; ; ; ;NA; ; ;R; ;X;99.96
+ ; ;F; ;Klebsiella pneumoniae subsp. pneumoniae;Cefalotina;R; ; ; ; ; ; ; ; ; ;0;0
+ ; ;F; ;Klebsiella pneumoniae subsp. pneumoniae;Cefepime; ;4;RS;0; ;NA; ; ;R; ;0.0;36.36
+ ; ;F; ;Klebsiella pneumoniae subsp. pneumoniae;Tigeciclina; ; ;RS;0; ;NA; ; ;I;12;0.56;74.07
+ ; ;F;BRANCA;Klebsiella pneumoniae subsp. pneumoniae; ;R; ;RS;1; ; ; ;Ciprofloxacina; ;13;0;0
+ ; ;F;NA; ; ; ; ;RS;0; ; ;Klebsiella pneumoniae subsp. pneumoniae; ;R; ;X;34.65
+ ; ;F;NA; ; ; ;10;RS;0; ; ;Acinetobacter sp.;Ciprofloxacina;R; ;0.0;0.05
+ ; ;F;NA; ; ;S;11;RJ;0; ; ;Klebsiella pneumoniae subsp. pneumoniae;Meropenem; ; ;0.0;0.08
+ ; ;F;NA; ;Ampicilina; ; ; ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae; ; ; ;X;80.95
+ ; ;F;NA; ;Ampicilina; ; ; ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae; ;R; ;X;80.91
+ ; ;F;NA; ;Ampicilina;R;13;RS;0; ; ;Klebsiella pneumoniae subsp. pneumoniae; ; ; ;X;64.85
+ ; ;F;NA; ;Ciprofloxacina; ;13;RS;0; ; ;Klebsiella pneumoniae subsp. pneumoniae; ; ; ;0.62;44.05
+ ; ;F;NA; ;Ertapenem;R; ; ;0; ; ; ; ; ; ;X;99.86
+ ; ;F;NA; ;Ertapenem;R; ;PR;0; ; ;Klebsiella pneumoniae subsp. pneumoniae; ; ;13;0.18;12.95
+ ; ;F;NA; ;Imipenem;R; ;AC;0; ; ;Acinetobacter baumannii; ; ;6;0.0;0.13
+ ; ;F;NA; ;Levofloxacina; ;12;PB;0; ; ; ; ;S; ;0.0;0.26
+ ; ;F;NA;Acinetobacter baumannii; ;R; ;AC;0; ; ; ;Ceftazidima; ;13;0.03;0.42
+ ; ;F;NA;Acinetobacter baumannii;Cefepime;R;13;RS;0; ; ; ; ; ; ;0.17;47.87
+ ; ;F;NA;Acinetobacter sp.; ; ;13;PE;0; ; ; ;Ceftazidima;S; ;0.0;0.09
+ ; ;F;NA;Klebsiella pneumoniae subsp. pneumoniae; ; ; ;PR;0; ; ; ;Ertapenem;R;13;0.18;0.71
+ ; ;F;NA;Klebsiella pneumoniae subsp. pneumoniae; ; ;13;RS;0; ; ; ;Ertapenem;R; ;0.58;3.9
+ ; ;F;NA;Klebsiella pneumoniae subsp. pneumoniae; ;R; ;PR;0; ; ; ;Amicacina; ;13;0.1;0.52
+ ; ;F;NA;Klebsiella pneumoniae subsp. pneumoniae;Ampicilina; ; ; ; ; ; ; ; ;R; ;X;99.96
+ ; ;F;NA;Klebsiella pneumoniae subsp. pneumoniae;Ampicilina; ; ;RS; ; ; ; ; ;R; ;X;68.27
+ ; ;F;NA;Klebsiella pneumoniae subsp. pneumoniae;Ampicilina; ;13; ;0; ; ; ; ; ; ;X;99.7
+ ; ;F;NA;Klebsiella pneumoniae subsp. pneumoniae;Cefazolina;I; ;RS;0; ; ; ; ; ;11;0.16;4.34
+ ; ;F;NA;Klebsiella pneumoniae subsp. pneumoniae;Cefuroxima;R; ;RS; ; ; ; ; ; ;13;0.27;49.12
+ ; ;F;NA;Klebsiella pneumoniae subsp. pneumoniae;Trimetoprim/Sulfametoxazol;R; ;RS;0; ; ; ; ; ;11;0.06;8.46
+ ; ;M; ; ; ; ; ; ;0; ; ; ; ; ; ;58.47;98.82
+ ; ;M; ; ; ; ; ; ;0; ; ; ; ; ; ;58.5;98.82
+ ; ;M; ; ; ; ; ; ;0; ; ; ; ; ; ;58.62;98.82
+ ; ;M; ; ; ; ; ; ;0; ; ; ; ;R; ;43.15;72.9
+ ; ;M; ; ; ; ; ; ;0; ;NA; ; ; ; ;58.62;98.82
+ ; ;M; ; ; ; ; ; ;0; ;NA; ;Gentamicina;R;1;4.66;7.91
+ ; ;M; ; ; ; ; ;PR;0; ;NA;Klebsiella pneumoniae subsp. pneumoniae;Piperacilina/Tazobactam;R;13;0.22;0.38
+ ; ;M; ; ; ; ; ;RS;0; ;NA;Klebsiella pneumoniae subsp. pneumoniae;Amicacina;I;1;0.01;0.01
+ ; ;M; ; ; ; ; ;TO;0; ;NA; ; ;S;7;0.03;0.05
+ ; ;M; ; ; ; ;12; ;0; ;NA;Klebsiella oxytoca;Levofloxacina;S; ;0.01;0.06
+ ; ;M; ; ; ; ;12;RS;0; ;BRANCA;Klebsiella pneumoniae subsp. pneumoniae;Ciprofloxacina;R; ;0.04;0.45
+ ; ;M; ; ; ; ;12;RS;0; ;NA;Klebsiella oxytoca;Imipenem;I; ;3.77;39.91
+ ; ;M; ; ; ; ;13; ; ; ;NA; ; ;R; ;21.75;78.6
+ ; ;M; ; ; ; ;13; ; ; ;NA; ; ;R; ;X;78.6
+ ; ;M; ; ; ; ;13; ;0; ; ; ;Ceftriaxona;R; ;X;4.93
+ ; ;M; ; ; ; ;13;RS; ; ; ; ; ; ; ;X;60.81
+ ; ;M; ; ; ; ;13;RS; ; ; ;Acinetobacter baumannii;Tobramicina;R; ;0.11;0.39
+ ; ;M; ; ; ; ;13;RS;0; ;NA; ; ; ; ;16.73;60.81
+ ; ;M; ; ; ; ;13;RS;0; ;NA;Klebsiella pneumoniae subsp. pneumoniae;Cefazolina;R; ;0.44;1.58
+ ; ;M; ; ; ;R; ; ; ; ; ; ; ; ; ;0;0
+ ; ;M; ; ; ;R; ; ;0; ; ; ; ; ; ;43.13;99.05
+ ; ;M; ; ; ;R; ; ;0; ; ; ; ; ; ;43.15;99.05
+ ; ;M; ; ; ;R; ; ;0; ; ; ; ; ; ;43.16;99.05
+ ; ;M; ; ; ;R; ; ;0; ; ; ; ; ; ;43.56;99.05
+ ; ;M; ; ; ;R; ; ;0; ;NA; ; ; ; ;43.15;99.05
+ ; ;M; ; ; ;R; ; ;0; ;NA; ; ; ;13;21.66;49.72
+ ; ;M; ; ; ;R; ;RS;0; ;BRANCA; ;Tobramicina; ; ;0.19;0.43
+ ; ;M; ; ; ;R;13; ;0; ; ;Acinetobacter baumannii;Levofloxacina; ; ;0.37;1.7
+ ; ;M; ; ; ;S; ; ;0; ; ; ;Gentamicina; ;8;0.04;0.29
+ ; ;M; ; ; ;S; ; ;0; ;NA;Klebsiella pneumoniae subsp. pneumoniae;Ciprofloxacina; ;12;0.02;0.14
+ ; ;M; ; ; ;S;10;RS;0; ;NA;Klebsiella pneumoniae subsp. pneumoniae;Colistin; ; ;0.02;2.25
+ ; ;M; ; ; ;S;2;PE;0; ;NA;Acinetobacter baumannii;Cefepime; ; ;0.0;0.37
+ ; ;M; ; ;Amicacina; ; ;GO;0; ;NA;Acinetobacter baumannii; ;S;11;0.02;0.41
+ ; ;M; ; ;Ampicilina;R; ;RS;0; ;NA;Klebsiella oxytoca; ; ;13;0.03;1.14
+ ; ;M; ; ;Ampicilina;R;13; ; ; ; ; ; ; ; ;X;0
+ ; ;M; ; ;Cefepime; ; ; ;0; ; ; ; ; ; ;3.74;98.74
+ ; ;M; ; ;Cefoxitina; ; ;RS; ; ;NA; ; ;R;13;0.63;29.88
+ ; ;M; ; ;Cefuroxima;R; ;AL;0; ;NA;Acinetobacter baumannii; ; ;12;0.0;0.2
+ ; ;M; ; ;Cefuroxima;R;6;AP; ; ;NA; ; ; ; ;0.0;18.18
+ ; ;M; ; ;Doxiciclina;S; ;PR;0; ;NA;Complexo Acinetobacter baumannii; ; ;10;0.0;1.51
+ ; ;M; ; ;Ertapenem;R;13; ;0; ;NA;Klebsiella pneumoniae subsp. pneumoniae; ; ; ;0.94;93.74
+ ; ;M; ; ;Gentamicina; ; ; ; ; ; ;Acinetobacter sp.; ;R; ;0.07;1.86
+ ; ;M; ; ;Imipenem;R; ;PR;0; ;NA;Klebsiella pneumoniae subsp. pneumoniae; ; ;5;0.01;0.2
+ ; ;M; ; ;Levofloxacina; ;3;TO;0; ;NA;Klebsiella oxytoca; ;S; ;0.0;5.0
+ ; ;M; ; ;Trimetoprim/Sulfametoxazol;R; ; ; ; ; ; ; ; ; ;X;0
+ ; ;M; ;Acinetobacter baumannii; ; ; ;AC; ; ; ; ;Ceftazidima;R; ;0.09;0.52
+ ; ;M; ;Acinetobacter baumannii; ; ;13;RO;0; ;BRANCA; ;Gentamicina;R; ;0.0;0.02
+ ; ;M; ;Acinetobacter baumannii; ;S; ;AC; ; ; ; ;Cefepime; ;11;0.0;0.07
+ ; ;M; ;Acinetobacter baumannii; ;S;13;AP;0; ;NA; ;Meropenem; ; ;0.0;0.05
+ ; ;M; ;Acinetobacter baumannii;Tetraciclina; ; ; ;0; ; ; ; ; ;8;0.03;4.28
+ ; ;M; ;Klebsiella pneumoniae subsp. pneumoniae; ; ; ;RS;0; ; ; ; ; ;10;X;1.95
+ ; ;M; ;Klebsiella pneumoniae subsp. pneumoniae; ; ;10;RS; ; ; ; ; ; ; ;X;59.08
+ ; ;M; ;Klebsiella pneumoniae subsp. pneumoniae; ;R; ;RS; ; ; ; ; ; ; ;X;69.49
+ ; ;M; ;Klebsiella pneumoniae subsp. pneumoniae; ;R;13;RS;0; ; ; ; ; ; ;X;72.57
+ ; ;M; ;Klebsiella pneumoniae subsp. pneumoniae; ;S;13;RN;0; ;NA; ;Cefuroxima; ; ;0.01;0.23
+ ; ;M; ;Klebsiella pneumoniae subsp. pneumoniae;Ampicilina;R; ; ;0; ;NA; ; ; ;10;0.06;3.26
+ ; ;M; ;Klebsiella pneumoniae subsp. pneumoniae;Ampicilina;R; ; ;0; ;NA; ; ; ;12;X;16.22
+ ; ;M; ;Klebsiella pneumoniae subsp. pneumoniae;Ciprofloxacina; ;13; ;0; ;NA; ; ;R; ;1.0;93.62
+ ; ;M; ;Klebsiella pneumoniae subsp. pneumoniae;Ertapenem;R; ; ; ; ;NA; ; ; ; ;X;0
+ ; ;M; ;Klebsiella pneumoniae subsp. pneumoniae;Gentamicina; ; ;RS;0; ;NA; ; ; ;13;0.72;36.44
+ ; ;M; ;Klebsiella pneumoniae subsp. pneumoniae;Piperacilina/Tazobactam; ; ;RS;0; ;NA; ; ;R;13;0.71;37.27
+ ; ;M;NA; ; ; ; ; ;0; ; ; ; ; ; ;58.47;98.82
+ ; ;M;NA; ; ; ; ; ;0; ; ; ; ; ; ;58.62;98.82
+ ; ;M;NA; ; ; ; ;AP;0; ; ;Klebsiella oxytoca;Sulfametoxazol/trimetoprim;R;1;4.66;7.91
+ ; ;M;NA; ; ; ; ;PR; ; ; ; ;Ertapenem;R;10;0.01;0.03
+ ; ;M;NA; ; ; ; ;PR;0; ; ;Klebsiella pneumoniae subsp. pneumoniae;Imipenem;R;13;0.21;0.35
+ ; ;M;NA; ; ; ; ;RS; ; ; ; ;Ceftriaxona;R;13;X;1.63
+ ; ;M;NA; ; ; ;13; ;0; ; ;Klebsiella pneumoniae subsp. pneumoniae;Cefoxitina;R; ;0.72;2.63
+ ; ;M;NA; ; ; ;13;GO;0; ; ;Acinetobacter baumannii;Piperacilina/Tazobactam;R; ;0.02;0.08
+ ; ;M;NA; ; ;R; ;PR;0; ; ;Klebsiella pneumoniae subsp. pneumoniae;Ampicilina; ;13;0.23;0.52
+ ; ;M;NA; ; ;S; ; ;0; ; ;Klebsiella pneumoniae subsp. pneumoniae; ; ; ;5.5;41.04
+ ; ;M;NA; ;Amicacina; ; ; ;0; ; ;Acinetobacter baumannii; ;R;12;0.11;2.89
+ ; ;M;NA; ;Ampicilina; ;13;RS;0; ; ;Klebsiella pneumoniae subsp. pneumoniae; ;R; ;0.72;61.55
+ ; ;M;NA; ;Imipenem; ; ;PR;0; ; ;Klebsiella pneumoniae subsp. pneumoniae; ;R;13;0.21;5.68
+ ; ;M;NA; ;Tobramicina; ;13;PR;0; ; ;Acinetobacter baumannii; ;R; ;0.01;1.79
+ ; ;M;NA; ;Tobramicina;R;13;RS;0; ; ;Acinetobacter baumannii; ; ; ;0.11;20.53
+ ; ;M;NA;Acinetobacter baumannii; ; ; ;PR;0; ; ; ;Ceftazidima;R;13;0.03;0.18
+ ; ;M;NA;Acinetobacter baumannii; ; ; ;RS;0; ; ; ; ;R;10;0.25;1.46
+ ; ;M;NA;Acinetobacter baumannii; ;R;9;RS; ; ; ; ;Meropenem; ; ;0.02;3.05
+ ; ;M;NA;Acinetobacter baumannii;Amicacina; ; ;RS;0; ; ; ; ;R;10;0.02;1.35
+ ; ;M;NA;Acinetobacter baumannii;Cefepime; ; ;AP; ; ; ; ; ; ; ;0.07;5.78
+ ; ;M;NA;Acinetobacter baumannii;Trimetoprim/Sulfametoxazol; ; ;RS;0; ; ; ; ;R;13;0.23;41.4
+ ; ;M;NA;Klebsiella oxytoca;Cefotaxima;R;13;RS;0; ; ; ; ; ; ;0.02;59.57
+ ; ;M;NA;Klebsiella pneumoniae subsp. pneumoniae; ;R;12;RS; ; ; ; ; ; ; ;3.22;73.83
+ ; ;M;NA;Klebsiella pneumoniae subsp. pneumoniae; ;S; ;RS;0; ; ; ;Colistin; ;13;0.22;4.07
+ ; ;M;NA;Klebsiella pneumoniae subsp. pneumoniae;Ciprofloxacina; ; ;RS;0; ; ; ; ;R;12;0.21;10.67
+ ; ;M;NA;Klebsiella pneumoniae subsp. pneumoniae;Ertapenem; ;13;PR;0; ; ; ; ;R; ;0.22;21.56
+ ;0; ; ; ; ; ; ; ; ; ; ; ; ; ; ;0;0
+ ;0; ; ; ; ; ; ; ; ; ; ; ; ; ;13;X;49.57
+ ;0; ; ; ; ; ; ; ; ; ; ; ; ;R; ;73.47;73.69
+ ;0; ; ; ; ; ; ; ; ; ; ; ; ;R; ;73.48;73.69
+ ;0; ; ; ; ; ; ; ; ; ; ; ; ;R; ;73.49;73.69
+ ;0; ; ; ; ; ; ; ; ; ; ; ; ;R; ;73.5;73.69
+ ;0; ; ; ; ; ; ; ; ; ; ; ;Cefoxitina; ; ;X;3.73
+ ;0; ; ; ; ; ; ; ; ; ; ; ;Ciprofloxacina;R; ;X;5.46
+ ;0; ; ; ; ; ; ; ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae; ; ; ;57.42;57.84
+ ;0; ; ; ; ; ; ; ; ; ;NA; ; ; ; ;0;0
+ ;0; ; ; ; ; ; ; ; ; ;NA; ; ;R; ;73.48;73.69
+ ;0; ; ; ; ; ; ; ; ; ;NA; ; ;R; ;X;73.69
+ ;0; ; ; ; ; ; ; ; ; ;NA;Klebsiella pneumoniae subsp. pneumoniae;Ciprofloxacina; ; ;X;3.52
+ ;0; ; ; ; ; ; ;ES; ;M;NA; ; ;S;4;0.01;0.01
+ ;0; ; ; ; ; ; ;RS; ; ; ; ; ; ; ;52.44;52.59
+ ;0; ; ; ; ; ; ;RS; ; ; ;Klebsiella pneumoniae subsp. pneumoniae;Ampicilina;R;13;X;1.35
+ ;0; ; ; ; ; ; ;RS; ; ;NA; ; ; ; ;X;52.59
+ ;0; ; ; ; ; ; ;RS; ; ;NA;Klebsiella oxytoca; ;R;12;0.3;0.3
+ ;0; ; ; ; ; ; ;RS; ;M;NA;Klebsiella pneumoniae subsp. pneumoniae; ;R;13;10.34;10.42
+ ;0; ; ; ; ; ;1;RN; ;M;NA;Klebsiella pneumoniae subsp. pneumoniae;Ceftriaxona;R; ;0.01;0.28
+ ;0; ; ; ; ; ;1;RS; ; ;NA;Klebsiella pneumoniae subsp. pneumoniae;Tigeciclina;I; ;3.76;80.61
+ ;0; ; ; ; ; ;10;RS; ;M;PRETA;Acinetobacter baumannii;Trimetoprim/Sulfametoxazol;R; ;0.0;0.03
+ ;0; ; ; ; ; ;11;PR; ;F;NA;Complexo Acinetobacter baumannii;Ceftazidima;R; ;0.01;0.05
+ ;0; ; ; ; ; ;13; ; ; ; ; ; ;R; ;38.91;78.72
+ ;0; ; ; ; ; ;13; ; ; ;NA; ;Cefuroxima;R; ;X;1.73
+ ;0; ; ; ; ; ;13; ; ; ;NA;Klebsiella pneumoniae subsp. pneumoniae; ;R; ;X;53.41
+ ;0; ; ; ; ; ;5;AC; ;F;PARDA;Acinetobacter baumannii;Cefoxitina;R; ;0.0;0.12
+ ;0; ; ; ; ; ;6;RS; ;F;NA;Klebsiella pneumoniae subsp. pneumoniae;Amicacina;S; ;0.02;0.81
+ ;0; ; ; ; ; ;8;RS; ;M;NA;Klebsiella pneumoniae subsp. pneumoniae;Ertapenem;R; ;0.03;0.91
+ ;0; ; ; ; ;R; ; ; ; ; ; ; ; ; ;0;0
+ ;0; ; ; ; ;R; ; ; ; ; ; ; ; ;13;38.89;52.95
+ ;0; ; ; ; ;R; ; ; ; ; ; ; ; ;13;38.9;52.95
+ ;0; ; ; ; ;R; ; ; ; ; ; ; ; ;13;38.92;52.95
+ ;0; ; ; ; ;R; ; ; ; ; ; ;Meropenem; ; ;5.21;7.09
+ ;0; ; ; ; ;R; ; ; ; ; ; ;Trimetoprim/Sulfametoxazol; ; ;2.61;3.55
+ ;0; ; ; ; ;R; ; ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae; ; ; ;45.97;62.55
+ ;0; ; ; ; ;R; ; ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae;Ampicilina; ; ;X;4.61
+ ;0; ; ; ; ;R; ; ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae;Ertapenem; ; ;X;4.05
+ ;0; ; ; ; ;R; ; ; ; ;NA; ; ; ; ;0;0
+ ;0; ; ; ; ;R; ; ; ; ;NA; ; ; ;13;38.91;52.95
+ ;0; ; ; ; ;R; ; ; ;M; ; ;Cefoxitina; ; ;1.71;2.33
+ ;0; ; ; ; ;R; ; ; ;M;NA; ; ; ; ;43.15;58.72
+ ;0; ; ; ; ;R; ;PR; ;F;NA;Acinetobacter baumannii;Ceftazidima; ;12;0.01;0.01
+ ;0; ; ; ; ;R; ;PR; ;M;NA; ;Ertapenem; ;8;0.02;0.02
+ ;0; ; ; ; ;R; ;PR; ;M;NA;Complexo Acinetobacter baumannii;Ciprofloxacina; ; ;0.14;0.19
+ ;0; ; ; ; ;R; ;PR; ;M;NA;Klebsiella pneumoniae subsp. pneumoniae;Piperacilina/Tazobactam; ;11;0.05;0.06
+ ;0; ; ; ; ;R; ;RS; ; ; ;Klebsiella pneumoniae subsp. pneumoniae; ; ;13;X;26.33
+ ;0; ; ; ; ;R;11;RS; ;F;NA;Klebsiella pneumoniae subsp. pneumoniae;Ampicilina; ; ;0.08;1.13
+ ;0; ; ; ; ;R;11;RS; ;M;NA;Klebsiella pneumoniae subsp. pneumoniae;Ciprofloxacina; ; ;0.09;1.32
+ ;0; ; ; ; ;R;12;PR; ;F; ; ; ; ; ;0.91;7.86
+ ;0; ; ; ; ;R;13; ; ; ; ; ; ; ; ;X;0
+ ;0; ; ; ; ;R;13; ; ; ; ; ;Cefoxitina; ; ;X;4.11
+ ;0; ; ; ; ;R;13; ; ; ;NA; ; ; ; ;X;0
+ ;0; ; ; ; ;R;13; ; ; ;NA; ;Ceftriaxona; ; ;X;6.31
+ ;0; ; ; ; ;R;13; ; ; ;NA; ;Nitrofurantoina; ; ;0.5;1.3
+ ;0; ; ; ; ;R;13; ; ; ;NA;Klebsiella pneumoniae subsp. pneumoniae; ; ; ;X;67.85
+ ;0; ; ; ; ;S; ;PR; ;F;NA;Klebsiella pneumoniae subsp. pneumoniae;Gentamicina; ;13;0.07;0.29
+ ;0; ; ; ; ;S;13;RN; ; ;NA;Klebsiella pneumoniae subsp. pneumoniae; ; ; ;0.46;5.28
+ ;0; ; ; ; ;S;13;RS; ;F; ;Klebsiella oxytoca;Gentamicina; ; ;0.0;0.05
+ ;0; ; ; ; ;S;3; ; ;M;NA;Klebsiella pneumoniae subsp. pneumoniae; ; ; ;0.02;5.92
+ ;0; ; ; ;Amoxacilina/Acido Clavulanico; ; ; ; ; ; ; ; ;S; ;0.11;4.1
+ ;0; ; ; ;Ampicilina; ; ;PR; ;M;NA;Klebsiella pneumoniae subsp. pneumoniae; ;R;13;0.23;5.42
+ ;0; ; ; ;Ampicilina; ;13; ; ; ; ; ; ; ; ;0;0
+ ;0; ; ; ;Ampicilina; ;13;RS; ;M;BRANCA;Klebsiella pneumoniae subsp. pneumoniae; ;R; ;0.12;5.65
+ ;0; ; ; ;Ampicilina; ;3;PR; ;F;NA;Klebsiella pneumoniae subsp. pneumoniae; ;R; ;0.0;2.22
+ ;0; ; ; ;Ampicilina/Sulbactam; ; ; ; ;F;NA; ; ; ; ;1.19;39.43
+ ;0; ; ; ;Cefepime; ; ; ; ; ; ; ; ;R; ;5.35;84.5
+ ;0; ; ; ;Cefepime;R; ;RS; ; ;NA; ; ; ;13;X;30.48
+ ;0; ; ; ;Cefepime;R; ;RS; ;M;PARDA; ; ; ; ;0.01;0.26
+ ;0; ; ; ;Cefepime;R;6; ; ;M;PARDA;Acinetobacter baumannii; ; ; ;0.0;1.63
+ ;0; ; ; ;Cefoxitina; ; ; ; ; ;NA; ; ;R;13;X;42.9
+ ;0; ; ; ;Cefoxitina; ;13;RS; ;M;NA;Klebsiella pneumoniae subsp. pneumoniae; ;R; ;0.61;32.31
+ ;0; ; ; ;Cefoxitina;R; ; ; ; ; ; ; ; ; ;X;0
+ ;0; ; ; ;Cefoxitina;R;13; ; ; ; ; ; ; ; ;X;0
+ ;0; ; ; ;Ciprofloxacina; ; ;PR; ;M;NA;Klebsiella pneumoniae subsp. pneumoniae; ;R;12;0.07;1.15
+ ;0; ; ; ;Ciprofloxacina;R;13; ; ; ; ; ; ; ; ;X;0
+ ;0; ; ; ;Ertapenem; ; ; ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae; ;R; ;X;80.98
+ ;0; ; ; ;Ertapenem; ; ; ; ;M; ;Klebsiella pneumoniae subsp. pneumoniae; ;R; ;1.68;45.79
+ ;0; ; ; ;Ertapenem; ; ;ES; ; ;NA; ; ;R; ;0.04;1.17
+ ;0; ; ; ;Ertapenem;R; ;RN; ;F;NA;Klebsiella pneumoniae subsp. pneumoniae; ; ;12;0.0;0.1
+ ;0; ; ; ;Gentamicina;R;13;PR; ; ;NA;Klebsiella pneumoniae subsp. pneumoniae; ; ; ;0.34;15.5
+ ;0; ; ; ;Gentamicina;R;13;RS; ;F;NA;Klebsiella pneumoniae subsp. pneumoniae; ; ; ;0.45;20.6
+ ;0; ; ; ;Levofloxacina; ; ;RS; ; ;NA; ; ;R; ;2.91;67.75
+ ;0; ; ; ;Nitrofurantoina; ; ; ; ; ; ; ; ; ; ;X;0
+ ;0; ; ; ;Nitrofurantoina; ; ;RS; ; ; ; ; ; ; ;X;77.87
+ ;0; ; ; ;Trimetoprim/Sulfametoxazol; ;13; ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae; ; ; ;X;70.56
+ ;0; ; ; ;Trimetoprim/Sulfametoxazol;R;13; ; ; ; ; ; ; ; ;X;0
+ ;0; ; ;Acinetobacter baumannii; ; ; ; ; ; ;NA; ; ; ;12;3.97;14.62
+ ;0; ; ;Acinetobacter baumannii; ; ; ;AP; ;F;NA; ;Ciprofloxacina;S;13;0.0;0.01
+ ;0; ; ;Acinetobacter baumannii; ; ; ;RS; ;M;BRANCA; ;Amicacina;I;13;1.8;6.64
+ ;0; ; ;Acinetobacter baumannii; ; ;10; ; ;M;PARDA; ; ;S; ;0.02;1.67
+ ;0; ; ;Acinetobacter baumannii; ; ;11;AC; ;M;PARDA; ;Piperacilina/Tazobactam;R; ;0.0;0.08
+ ;0; ; ;Acinetobacter baumannii; ;R;13;RS; ;M;NA; ;Levofloxacina; ; ;0.25;2.71
+ ;0; ; ;Acinetobacter baumannii;Amicacina; ;10;RS; ;F;NA; ; ;R; ;0.01;5.92
+ ;0; ; ;Acinetobacter baumannii;Cefepime; ;1;AP; ;I;NA; ; ;R; ;0;0
+ ;0; ; ;Acinetobacter sp.; ;R; ;RS; ;M;BRANCA; ;Cefepime; ;9;0.0;0.05
+ ;0; ; ;Complexo Acinetobacter baumannii; ;R; ; ; ; ;NA; ;Tigeciclina; ; ;0.02;0.85
+ ;0; ; ;Complexo Acinetobacter baumannii; ;S; ;PR; ;M;NA; ;Polimixina B; ;7;0.0;0.14
+ ;0; ; ;Complexo Acinetobacter baumannii;Amicacina; ;12;PR; ;M;NA; ; ;R; ;0.01;40.0
+ ;0; ; ;Complexo Acinetobacter baumannii;Tigeciclina; ; ; ; ; ;NA; ; ; ; ;0;0
+ ;0; ; ;Klebsiella oxytoca; ; ;12;TO; ;F;NA; ;Gentamicina; ; ;0.0;0.2
+ ;0; ; ;Klebsiella pneumoniae subsp. pneumoniae; ; ; ; ; ; ; ; ; ;R; ;X;79.69
+ ;0; ; ;Klebsiella pneumoniae subsp. pneumoniae; ; ; ; ; ; ;NA; ; ; ; ;X;0
+ ;0; ; ;Klebsiella pneumoniae subsp. pneumoniae; ; ; ;PR; ;M;NA; ;Piperacilina/Tazobactam;R;13;0.22;0.39
+ ;0; ; ;Klebsiella pneumoniae subsp. pneumoniae; ; ; ;RS; ;F; ; ; ;R; ;X;24.92
+ ;0; ; ;Klebsiella pneumoniae subsp. pneumoniae; ; ;13;RS; ;F;NA; ;Ceftriaxona;R; ;0.58;1.8
+ ;0; ; ;Klebsiella pneumoniae subsp. pneumoniae; ; ;13;RS; ;M;NA; ;Ampicilina;R; ;0.72;2.23
+ ;0; ; ;Klebsiella pneumoniae subsp. pneumoniae; ;R; ; ; ; ; ; ; ; ;13;X;57.44
+ ;0; ; ;Klebsiella pneumoniae subsp. pneumoniae; ;R; ; ; ; ;NA; ; ; ; ;0;0
+ ;0; ; ;Klebsiella pneumoniae subsp. pneumoniae; ;R; ; ; ; ;NA; ;Gentamicina; ;13;1.4;3.05
+ ;0; ; ;Klebsiella pneumoniae subsp. pneumoniae; ;R; ;RN; ;M;NA; ;Gentamicina; ;13;0.02;0.05
+ ;0; ; ;Klebsiella pneumoniae subsp. pneumoniae; ;R;13; ; ; ; ; ; ; ; ;X;0
+ ;0; ; ;Klebsiella pneumoniae subsp. pneumoniae; ;R;13; ; ; ;NA; ; ; ; ;X;0
+ ;0; ; ;Klebsiella pneumoniae subsp. pneumoniae; ;R;13; ; ;M; ; ;Cefoxitina; ; ;0.73;2.75
+ ;0; ; ;Klebsiella pneumoniae subsp. pneumoniae; ;R;13;RS; ; ; ; ; ; ; ;19.26;73.29
+ ;0; ; ;Klebsiella pneumoniae subsp. pneumoniae; ;R;7;RS; ;M;NA; ; ; ; ;0.49;40.28
+ ;0; ; ;Klebsiella pneumoniae subsp. pneumoniae; ;S; ;RO; ;M;NA; ;Ceftriaxona; ;13;0.0;0.02
+ ;0; ; ;Klebsiella pneumoniae subsp. pneumoniae;Amicacina; ; ;RS; ;M;NA; ; ;S;13;0.67;18.94
+ ;0; ; ;Klebsiella pneumoniae subsp. pneumoniae;Amoxacilina/Acido Clavulanico; ;1;RS; ;M;NA; ; ;R; ;0.44;9.31
+ ;0; ; ;Klebsiella pneumoniae subsp. pneumoniae;Ampicilina; ;13;PA; ;M;PARDA; ; ;R; ;0.0;0.07
+ ;0; ; ;Klebsiella pneumoniae subsp. pneumoniae;Ampicilina;R;13;RS; ; ; ; ; ; ; ;X;70.92
+ ;0; ; ;Klebsiella pneumoniae subsp. pneumoniae;Cefazolina;R; ; ; ; ; ; ; ; ;13;X;59.08
+ ;0; ; ;Klebsiella pneumoniae subsp. pneumoniae;Cefuroxima; ;12;RS; ;M;NA; ; ;R; ;0.11;50.15
+ ;0; ; ;Klebsiella pneumoniae subsp. pneumoniae;Cefuroxima;R;13;RS; ;F;NA; ; ; ; ;0.27;37.29
+ ;0; ; ;Klebsiella pneumoniae subsp. pneumoniae;Ciprofloxacina;R; ; ; ;F; ; ; ; ;13;X;26.42
+ ;0; ; ;Klebsiella pneumoniae subsp. pneumoniae;Ciprofloxacina;R;13; ; ; ;NA; ; ; ; ;X;0
+ ;0; ; ;Klebsiella pneumoniae subsp. pneumoniae;Gentamicina;R;13;RS; ;M;NA; ; ; ; ;0.54;38.3
+ ;0; ; ;Klebsiella pneumoniae subsp. pneumoniae;Imipenem;R; ; ; ; ;NA; ; ; ; ;0;0
+ ;0; ; ;Klebsiella pneumoniae subsp. pneumoniae;Trimetoprim/Sulfametoxazol; ; ; ; ; ; ; ; ;R; ;X;77.72
+ ;0; ; ;Klebsiella pneumoniae subsp. pneumoniae;Trimetoprim/Sulfametoxazol;R; ; ; ; ; ; ; ; ;13;X;59.66
+ ;0; ; ;Mycobacterium sp.;Isoniazida; ; ;MS; ;M;NA; ; ;S; ;0.24;72.59
+ ;0; ; ;Streptococcus sp.;Tetraciclina; ;13;CE; ;F;NA; ; ;S; ;0.0;27.27
+ ;0; ;BRANCA; ; ; ;13;RS; ;F; ;Klebsiella pneumoniae subsp. pneumoniae;Cefepime;R; ;0.08;1.02
+ ;0; ;BRANCA; ; ;R; ;RS; ;F; ;Acinetobacter baumannii;Tobramicina; ;13;0.03;0.28
+ ;0; ;BRANCA; ;Ampicilina; ; ;RS; ;F; ;Klebsiella pneumoniae subsp. pneumoniae; ;R;11;0.02;3.57
+ ;0; ;BRANCA; ;Piperacilina/Tazobactam; ;12;RS; ;M; ;Klebsiella pneumoniae subsp. pneumoniae; ;R; ;0.04;31.1
+ ;0; ;BRANCA;Acinetobacter baumannii; ; ; ;RS; ;M; ; ;Imipenem; ;10;0.01;0.18
+ ;0; ;BRANCA;Klebsiella oxytoca; ; ;1;PR; ;M; ; ;Meropenem;R; ;0.01;0.32
+ ;0; ;BRANCA;Klebsiella pneumoniae subsp. pneumoniae; ; ; ;RS; ;M; ; ;Imipenem;R;13;0.1;1.39
+ ;0; ;BRANCA;Klebsiella pneumoniae subsp. pneumoniae; ; ; ;RS; ;M; ; ;Meropenem; ;13;0.12;1.69
+ ;0; ;BRANCA;Klebsiella pneumoniae subsp. pneumoniae; ; ; ;RS; ;M; ; ;Meropenem;R;13;0.11;1.47
+ ;0; ;BRANCA;Klebsiella pneumoniae subsp. pneumoniae; ; ;12;RS; ;M; ; ;Trimetoprim/Sulfametoxazol;R; ;0.04;2.98
+ ;0; ;BRANCA;Klebsiella pneumoniae subsp. pneumoniae;Levofloxacina; ;13;RS; ;F; ; ; ;R; ;0.09;40.29
+ ;0; ;BRANCA;Klebsiella pneumoniae subsp. pneumoniae;Levofloxacina;R;13;RS; ;M; ; ; ; ; ;0.11;54.1
+ ;0; ;NA; ; ; ; ; ; ; ; ; ; ; ;13;49.44;49.57
+ ;0; ;NA; ; ; ; ; ; ; ; ; ; ;R; ;73.5;73.69
+ ;0; ;NA; ; ; ; ; ; ;F; ;Klebsiella pneumoniae subsp. pneumoniae; ; ;13;14.8;14.91
+ ;0; ;NA; ; ; ; ;RS; ; ; ; ; ;R; ;X;43.75
+ ;0; ;NA; ; ; ; ;RS; ;F; ;Klebsiella pneumoniae subsp. pneumoniae;Cefoxitina;S;13;0.06;0.06
+ ;0; ;NA; ; ; ;13; ; ; ; ; ;Meropenem; ; ;3.16;6.4
+ ;0; ;NA; ; ; ;13;PR; ;F; ;Complexo Acinetobacter baumannii;Cefoxitina;R; ;0.01;0.02
+ ;0; ;NA; ; ; ;3;AC; ;M; ;Acinetobacter baumannii;Cefoxitina;R; ;0.0;0.35
+ ;0; ;NA; ; ;R; ; ; ; ; ; ;Cefoxitina; ;13;X;2.17
+ ;0; ;NA; ; ;R; ; ; ; ; ; ;Ciprofloxacina; ; ;5.44;7.41
+ ;0; ;NA; ; ;R; ;CE; ;M; ;Klebsiella pneumoniae subsp. pneumoniae;Meropenem; ;13;0.01;0.01
+ ;0; ;NA; ; ;R; ;GO; ;M; ;Acinetobacter baumannii;Piperacilina/Tazobactam; ;10;0.01;0.01
+ ;0; ;NA; ; ;R; ;PR; ;F; ;Klebsiella oxytoca;Ampicilina/Sulbactam; ;13;0.0;0.0
+ ;0; ;NA; ; ;R; ;PR; ;M; ;Acinetobacter baumannii;Cefotaxima; ;12;0.01;0.01
+ ;0; ;NA; ; ;R; ;PR; ;M; ;Complexo Acinetobacter baumannii;Ampicilina/Sulbactam; ;9;0.0;0.01
+ ;0; ;NA; ; ;R; ;RS; ; ; ; ; ; ; ;43.63;59.38
+ ;0; ;NA; ; ;R; ;RS; ;F; ;Klebsiella pneumoniae subsp. pneumoniae;Ertapenem; ;13;0.58;0.79
+ ;0; ;NA; ; ;R; ;RS; ;M; ;Klebsiella pneumoniae subsp. pneumoniae;Piperacilina/Tazobactam; ;13;0.71;0.97
+ ;0; ;NA; ; ;R;13; ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae;Trimetoprim/Sulfametoxazol; ; ;X;2.63
+ ;0; ;NA; ; ;S; ; ; ;M; ; ; ; ; ;13.12;58.36
+ ;0; ;NA; ; ;S;8;RS; ;M; ;Klebsiella pneumoniae subsp. pneumoniae;Meropenem; ; ;0.0;0.35
+ ;0; ;NA; ;Ampicilina; ;13; ; ; ; ; ; ;R; ;2.12;99.09
+ ;0; ;NA; ;Aztreonam;R;2;AC; ;F; ; ; ; ; ;0.0;30.77
+ ;0; ;NA; ;Cefepime; ;13;RS; ;M; ;Klebsiella pneumoniae subsp. pneumoniae; ;R; ;0.61;19.44
+ ;0; ;NA; ;Cefepime;R; ;RS; ; ; ; ; ; ;13;X;30.48
+ ;0; ;NA; ;Cefepime;R;13;RS; ; ; ; ; ; ; ;X;58.54
+ ;0; ;NA; ;Ceftriaxona; ; ; ; ;M; ;Klebsiella pneumoniae subsp. pneumoniae; ;R;13;0.84;16.44
+ ;0; ;NA; ;Ceftriaxona;I;13;AP; ;M; ;Acinetobacter baumannii; ; ; ;0.25;0.5
+ ;0; ;NA; ;Ciprofloxacina; ; ; ; ; ; ; ; ; ; ;0;0
+ ;0; ;NA; ;Gentamicina;R; ;PR; ;F; ;Klebsiella pneumoniae subsp. pneumoniae; ; ;13;0.14;3.39
+ ;0; ;NA; ;Meropenem;R; ; ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae; ; ;13;1.72;33.08
+ ;0; ;NA; ;Tobramicina; ; ;RS; ;M; ;Klebsiella pneumoniae subsp. pneumoniae; ;S;13;0.06;2.52
+ ;0; ;NA;Acinetobacter baumannii;Ampicilina/Sulbactam; ;10; ; ;M; ; ; ;R; ;0.03;40.54
+ ;0; ;NA;Acinetobacter baumannii;Cefepime; ; ;GO; ;F; ; ; ;R;12;0.01;0.25
+ ;0; ;NA;Acinetobacter baumannii;Ciprofloxacina; ; ;GO; ;M; ; ; ;R;9;0.01;0.25
+ ;0; ;NA;Acinetobacter baumannii;Trimetoprim/Sulfametoxazol;R; ;RS; ;F; ; ; ; ;13;0.14;19.06
+ ;0; ;NA;Complexo Acinetobacter baumannii; ;R; ;PR; ;F; ; ;Ceftazidima; ;13;0.04;1.97
+ ;0; ;NA;Complexo Acinetobacter baumannii;Ceftriaxona; ;13;PR; ;F; ; ; ;R; ;0.04;44.53
+ ;0; ;NA;Klebsiella pneumoniae subsp. pneumoniae; ; ; ; ; ;F; ; ;Cefuroxima;R;12;0.07;0.13
+ ;0; ;NA;Klebsiella pneumoniae subsp. pneumoniae; ; ; ;PR; ;M; ; ;Ampicilina;R;13;0.23;0.39
+ ;0; ;NA;Klebsiella pneumoniae subsp. pneumoniae; ; ; ;RS; ;F; ; ;Cefepime;R;13;0.52;0.9
+ ;0; ;NA;Klebsiella pneumoniae subsp. pneumoniae; ; ; ;TO; ;M; ; ;Imipenem;R;13;0.01;0.02
+ ;0; ;NA;Klebsiella pneumoniae subsp. pneumoniae; ; ;13;RS; ;M; ; ;Ceftriaxona;R; ;0.67;2.07
+ ;0; ;NA;Klebsiella pneumoniae subsp. pneumoniae; ;R; ;RS; ;M; ; ;Tobramicina; ;13;0.33;0.71
+ ;0; ;NA;Klebsiella pneumoniae subsp. pneumoniae; ;S; ;RS; ; ; ; ;Cefoxitina; ;13;0.12;1.24
+ ;0; ;NA;Klebsiella pneumoniae subsp. pneumoniae;Ampicilina;R; ; ; ; ; ; ; ; ;13;1.89;56.04
+ ;0; ;NA;Klebsiella pneumoniae subsp. pneumoniae;Aztreonam;R;10;PR; ;M; ; ; ; ; ;0.01;57.69
+ ;0; ;NA;Klebsiella pneumoniae subsp. pneumoniae;Trimetoprim/Sulfametoxazol;R; ; ; ; ; ; ; ; ;13;X;59.66
+ ;0; ;PARDA;Klebsiella pneumoniae subsp. pneumoniae;Meropenem;S;13;RN; ; ; ; ; ; ; ;0.01;70.59
+ ;0;F; ; ; ; ; ; ; ; ; ; ;Cefoxitina; ;13;0.86;2.12
+ ;0;F; ; ; ; ;12; ; ; ;NA;Klebsiella pneumoniae subsp. pneumoniae; ;R; ;3.01;53.29
+ ;0;F; ; ; ;R; ; ; ; ; ; ; ; ; ;0;0
+ ;0;F; ; ; ;R; ;TO; ; ;NA;Klebsiella pneumoniae subsp. pneumoniae;Ciprofloxacina; ;6;0.0;0.01
+ ;0;F; ; ;Amoxacilina/Acido Clavulanico;R; ;RS; ; ;NA;Klebsiella pneumoniae subsp. pneumoniae; ; ;7;0.01;1.24
+ ;0;F; ; ;Cefepime; ;13;RN; ; ;PRETA; ; ;R; ;0.0;0.05
+ ;0;F; ; ;Ceftazidima;R; ;AP; ; ;NA;Acinetobacter baumannii; ; ; ;0.03;2.29
+ ;0;F; ; ;Ertapenem;R; ; ; ; ; ; ; ; ; ;X;0
+ ;0;F; ; ;Piperacilina/Tazobactam;R;12;RS; ; ;NA;Klebsiella pneumoniae subsp. pneumoniae; ; ; ;0.15;47.92
+ ;0;F; ;Acinetobacter baumannii;Amicacina; ; ;RO; ; ;NA; ; ;S; ;0.01;1.63
+ ;0;F; ;Acinetobacter baumannii;Colistin; ; ;GO; ; ;NA; ; ;S;12;0.0;0.88
+ ;0;F; ;Acinetobacter baumannii;Trimetoprim/Sulfametoxazol;R; ; ; ; ; ; ; ; ; ;0;0
+ ;0;F; ;Klebsiella pneumoniae subsp. pneumoniae; ; ; ;RS; ; ;NA; ;Piperacilina/Tazobactam;R;13;0.6;2.41
+ ;0;F; ;Klebsiella pneumoniae subsp. pneumoniae; ; ;7; ; ; ; ; ;Piperacilina/Tazobactam; ; ;0.03;5.53
+ ;0;F; ;Klebsiella pneumoniae subsp. pneumoniae; ;R;13; ; ; ;NA; ; ; ; ;X;0
+ ;0;F; ;Klebsiella pneumoniae subsp. pneumoniae;Cefepime; ; ;RN; ; ;NA; ; ;S;9;0.0;0.13
+ ;0;F;BRANCA; ; ; ; ;RS; ; ; ; ;Ertapenem;R;13;0.09;1.81
+ ;0;F;BRANCA; ;Gentamicina; ;6;RS; ; ; ; ; ;S; ;0.0;27.27
+ ;0;F;BRANCA; ;Penicilina; ; ;AP; ; ; ; ; ;S; ;0.0;50.0
+ ;0;F;BRANCA;Klebsiella pneumoniae subsp. pneumoniae; ; ; ;RS; ; ; ; ;Cefalotina;R;12;0.0;0.08
+ ;0;F;BRANCA;Klebsiella pneumoniae subsp. pneumoniae; ;R; ; ; ; ; ; ;Cefotaxima; ;13;0.04;1.61
+ ;0;F;BRANCA;Klebsiella pneumoniae subsp. pneumoniae;Amicacina; ;13;PR; ; ; ; ; ;S; ;0.0;3.01
+ ;0;F;NA; ; ; ; ;RS; ; ; ; ; ;R; ;18.34;44.78
+ ;0;F;NA; ; ; ;13; ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae; ; ; ;X;67.97
+ ;0;F;NA; ; ;R;12;AP; ; ; ;Acinetobacter baumannii;Ampicilina; ; ;0.01;0.16
+ ;0;F;NA; ; ;R;13;PR; ; ; ;Complexo Acinetobacter baumannii;Gentamicina; ; ;0.02;0.12
+ ;0;F;NA; ;Ampicilina; ; ;PR; ; ; ; ; ;R;3;0.0;0.04
+ ;0;F;NA; ;Cefoxitina; ;13;RS; ; ; ;Klebsiella pneumoniae subsp. pneumoniae; ;R; ;0.52;60.15
+ ;0;F;NA; ;Nitrofurantoina;R;13;RS; ; ; ;Klebsiella pneumoniae subsp. pneumoniae; ; ; ;0.22;86.98
+ ;0;F;NA;Acinetobacter baumannii; ; ; ;RN; ; ; ; ;Tigeciclina;S;13;0.02;0.24
+ ;0;F;NA;Acinetobacter baumannii; ; ; ;RO; ; ; ; ;Ceftriaxona;R;13;0.01;0.06
+ ;0;F;NA;Acinetobacter baumannii;Levofloxacina;R; ;PR; ; ; ; ; ; ;7;0.0;0.32
+ ;0;F;NA;Klebsiella pneumoniae subsp. pneumoniae; ;R; ;RS; ; ; ; ;Gentamicina; ;13;0.45;2.24
+ ;0;F;NA;Klebsiella pneumoniae subsp. pneumoniae; ;R; ;RS; ; ; ; ;Levofloxacina; ;9;0.02;0.12
+ ;0;F;NA;Klebsiella pneumoniae subsp. pneumoniae; ;R;11;RS; ; ; ; ;Colistin; ; ;0.01;0.37
+ ;0;F;PRETA;Klebsiella pneumoniae subsp. pneumoniae;Ertapenem;R; ;RS; ; ; ; ; ; ;12;0.0;14.81
+ ;0;M; ; ; ; ; ; ; ; ; ; ; ; ; ;0;0
+ ;0;M; ; ; ; ; ;PR; ; ;NA;Acinetobacter baumannii;Imipenem;R;13;0.03;0.05
+ ;0;M; ; ; ; ; ;PR; ; ;NA;Klebsiella pneumoniae subsp. pneumoniae;Ampicilina/Sulbactam;R;11;0.05;0.08
+ ;0;M; ; ; ; ;13; ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae;Gentamicina; ; ;1.07;3.89
+ ;0;M; ; ; ;R; ; ; ; ; ; ; ; ; ;0;0
+ ;0;M; ; ; ;R; ;RS; ; ; ;Klebsiella pneumoniae subsp. pneumoniae; ; ; ;17.87;41.62
+ ;0;M; ; ; ;R;13;RS; ; ;BRANCA;Acinetobacter sp.;Ciprofloxacina; ; ;0.01;0.07
+ ;0;M; ; ; ;S; ;RN; ; ;NA;Acinetobacter baumannii;Tigeciclina; ;12;0.01;0.08
+ ;0;M; ; ;Amoxacilina/Acido Clavulanico; ; ; ; ; ;NA;Klebsiella pneumoniae subsp. pneumoniae; ;R;13;0.68;44.2
+ ;0;M; ; ;Ampicilina; ; ;RS; ; ; ;Klebsiella pneumoniae subsp. pneumoniae; ; ;13;0.72;30.67
+ ;0;M; ; ;Ceftazidima; ;12; ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae; ; ; ;0.08;25.0
+ ;0;M; ; ;Ceftriaxona; ;12;RS; ; ;NA;Klebsiella pneumoniae subsp. pneumoniae; ;R; ;0.21;42.84
+ ;0;M; ; ;Ertapenem;R; ; ; ; ; ; ; ; ; ;X;0
+ ;0;M; ; ;Nitrofurantoina; ; ;RS; ; ;NA;Klebsiella pneumoniae subsp. pneumoniae; ;R;13;0.21;44.8
+ ;0;M; ; ;Piperacilina/Tazobactam; ; ;RS; ; ;BRANCA;Acinetobacter baumannii; ;R;13;0.11;3.38
+ ;0;M; ; ;Piperacilina/Tazobactam; ; ;RS; ; ;NA;Acinetobacter baumannii; ;R;13;0.26;7.58
+ ;0;M; ; ;Tigeciclina; ;13;PR; ; ;NA;Klebsiella pneumoniae subsp. pneumoniae; ;S; ;0.11;15.1
+ ;0;M; ;Acinetobacter baumannii; ; ;13; ; ; ; ; ;Ciprofloxacina; ; ;0.54;7.56
+ ;0;M; ;Acinetobacter baumannii; ; ;9;PI; ; ;NA; ;Amicacina;R; ;0.0;0.17
+ ;0;M; ;Acinetobacter baumannii; ;R; ;RS; ; ;BRANCA; ;Ceftriaxona; ;13;0.11;0.87
+ ;0;M; ;Acinetobacter baumannii;Polimixina B;S; ;AC; ; ;NA; ; ; ;6;0.0;1.03
+ ;0;M; ;Acinetobacter sp.; ;R;11;AC; ; ;NA; ;Piperacilina/Tazobactam; ; ;0.01;4.08
+ ;0;M; ;Complexo Acinetobacter baumannii; ; ; ;PR; ; ;NA; ;Cefoxitina;R;13;0.01;0.52
+ ;0;M; ;Klebsiella oxytoca; ;R;12;RS; ; ;NA; ; ; ; ;0.2;69.27
+ ;0;M; ;Klebsiella oxytoca; ;S;13;RJ; ; ;PRETA; ;Piperacilina/Tazobactam; ; ;0.0;0.25
+ ;0;M; ;Klebsiella pneumoniae subsp. pneumoniae; ; ; ; ; ; ; ; ;Cefuroxima;R;13;X;1.22
+ ;0;M; ;Klebsiella pneumoniae subsp. pneumoniae; ; ; ;RS; ; ;NA; ; ;R; ;17.88;55.42
+ ;0;M; ;Klebsiella pneumoniae subsp. pneumoniae; ; ; ;RS; ; ;NA; ;Piperacilina/Tazobactam;R;13;0.71;2.21
+ ;0;M; ;Klebsiella pneumoniae subsp. pneumoniae; ; ;12;RS; ; ;NA; ;Cefoxitina;R; ;0.19;3.64
+ ;0;M; ;Klebsiella pneumoniae subsp. pneumoniae; ;R; ;RS; ; ;BRANCA; ;Gentamicina; ;13;0.09;0.36
+ ;0;M; ;Klebsiella pneumoniae subsp. pneumoniae; ;R;12;RS; ; ;NA; ;Nitrofurantoina; ; ;0.05;1.15
+ ;0;M; ;Klebsiella pneumoniae subsp. pneumoniae; ;R;6;RS; ; ; ; ; ; ; ;0.27;56.28
+ ;0;M; ;Klebsiella pneumoniae subsp. pneumoniae;Amoxacilina/Acido Clavulanico; ;13; ; ; ;NA; ; ;R; ;0.68;96.25
+ ;0;M; ;Klebsiella pneumoniae subsp. pneumoniae;Ciprofloxacina; ; ;RS; ; ;PARDA; ; ;R;13;0.0;0.07
+ ;0;M; ;Klebsiella pneumoniae subsp. pneumoniae;Ciprofloxacina;R;13; ; ; ;NA; ; ; ; ;X;0
+ ;0;M; ;Klebsiella pneumoniae subsp. pneumoniae;Meropenem;S;13;RN; ; ; ; ; ; ; ;0.03;21.82
+ ;0;M; ;Klebsiella pneumoniae subsp. pneumoniae;Piperacilina/Tazobactam; ; ; ; ; ; ; ; ; ; ;0;0
+ ;0;M; ;Mycobacterium sp.;Isoniazida; ; ;MS; ; ;NA; ; ;R; ;0.03;11.42
+ ;0;M;AMARELA; ;Ampicilina; ;9;RO; ; ; ;Acinetobacter baumannii; ;R; ;0.0;50.0
+ ;0;M;BRANCA;Klebsiella pneumoniae subsp. pneumoniae;Cefazolina;R;13;RS; ; ; ; ; ; ; ;0;0
+ ;0;M;BRANCA;Klebsiella pneumoniae subsp. pneumoniae;Levofloxacina; ;13;RS; ; ; ; ; ;R; ;0.11;87.3
+ ;0;M;NA; ; ; ; ; ; ; ; ; ; ; ; ;0;0
+ ;0;M;NA; ; ; ; ; ; ; ; ; ;Amicacina;R;8;0.06;0.09
+ ;0;M;NA; ; ; ;1;RN; ; ; ;Klebsiella oxytoca;Ampicilina/Sulbactam;S; ;0.0;0.04
+ ;0;M;NA; ; ; ;13;RS; ; ; ;Klebsiella pneumoniae subsp. pneumoniae;Nitrofurantoina; ; ;0.22;0.81
+ ;0;M;NA; ; ;R; ; ; ; ; ; ; ; ;13;21.66;50.2
+ ;0;M;NA; ; ;R;7;RJ; ; ; ;Acinetobacter baumannii;Meropenem; ; ;0.0;0.12
+ ;0;M;NA; ;Cefepime;S; ;AP; ; ; ;Acinetobacter baumannii; ; ;13;0.01;2.02
+ ;0;M;NA; ;Meropenem; ; ; ; ; ; ; ; ; ; ;0;0
+ ;0;M;NA; ;Trimetoprim/Sulfametoxazol; ;13;RS; ; ; ;Klebsiella pneumoniae subsp. pneumoniae; ;R; ;0.55;52.38
+ ;0;M;NA;Acinetobacter baumannii; ; ; ;RS; ; ; ; ;Ceftazidima;R;13;0.24;1.41
+ ;0;M;NA;Acinetobacter baumannii;Cefoxitina; ; ;MG; ; ; ; ; ;R;7;0.0;0.27
+ ;0;M;NA;Klebsiella oxytoca;Cefazolina;R; ;RS; ; ; ; ; ; ;11;0.01;13.59
+ ;0;M;PRETA; ; ;S;12;RS; ; ; ;Klebsiella pneumoniae subsp. pneumoniae;Gentamicina; ; ;0.0;9.3
+ ;1;M; ;Complexo Acinetobacter baumannii;Ciprofloxacina; ; ; ; ; ;NA; ; ;R;6;0.12;1.81
+ ;1;M; ;Klebsiella pneumoniae subsp. pneumoniae;Gentamicina; ;12;RS; ; ;BRANCA; ; ;R; ;0.11;11.54
+AC; ; ; ; ; ; ;12; ; ; ;NA;Acinetobacter baumannii;Ciprofloxacina;R; ;0.02;3.05
+AC; ; ; ; ; ; ;13; ;0;M;NA;Acinetobacter baumannii;Amicacina;S; ;0.03;1.92
+AC; ; ; ; ; ;R;9; ; ;M;NA;Acinetobacter baumannii;Cefotaxima; ; ;0.01;3.4
+AC; ; ; ; ;Amicacina;S; ; ;0;F;AMARELA;Acinetobacter baumannii; ; ;6;0.0;0.23
+AC; ; ; ; ;Amicacina;S;10; ;0;F;AMARELA;Acinetobacter baumannii; ; ; ;0.0;4.35
+AC; ; ; ; ;Piperacilina/Tazobactam;R;13; ;0;F;NA;Acinetobacter baumannii; ; ; ;0.02;38.46
+AC; ; ; ;Klebsiella oxytoca;Cefoxitina;R;13; ;0;F;BRANCA; ; ; ; ;0.0;5.88
+AC; ; ;NA;Acinetobacter baumannii; ; ; ; ;0; ; ; ;Tetraciclina;S;13;0.04;1.42
+AC; ; ;NA;Acinetobacter baumannii;Ceftazidima;R; ; ;0;M; ; ; ; ;12;0.01;7.66
+AC; ; ;NA;Klebsiella oxytoca;Norfloxacina;S; ; ;0;F; ; ; ; ;4;0.0;6.67
+AC; ;F; ; ; ;S; ; ;0; ;NA;Acinetobacter sp.;Ampicilina/Sulbactam; ;11;0.0;0.13
+AC; ;F;NA; ; ; ;12; ;0; ; ;Acinetobacter baumannii;Piperacilina/Tazobactam;R; ;0.01;3.19
+AC; ;F;NA;Acinetobacter baumannii; ;S;13; ;0; ; ; ;Amicacina; ; ;0.03;16.42
+AC; ;F;NA;Klebsiella oxytoca;Sulfametoxazol/trimetoprim;R; ; ; ; ; ; ; ; ; ;0;0
+AC; ;M; ;Acinetobacter baumannii;Ceftazidima;R; ; ;0; ;NA; ; ; ;13;0.03;28.26
+AC; ;M;NA; ;Ampicilina/Sulbactam; ; ; ;0; ; ;Acinetobacter sp.; ;S;8;0.0;3.28
+AC;0; ; ; ; ; ;12; ; ;F;NA;Acinetobacter sp.;Ceftriaxona;R; ;0.0;0.39
+AC;0; ;NA; ; ; ;7; ; ;M; ;Acinetobacter sp.;Amoxacilina/Acido Clavulanico;R; ;0.01;1.67
+AC;0; ;NA; ;Cefoxitina;R; ; ; ;F; ;Acinetobacter baumannii; ; ;12;0.02;4.1
+AC;0; ;NA;Acinetobacter baumannii;Polimixina B; ;13; ; ;M; ; ; ;S; ;0.03;43.36
+AC;0;F;NA;Acinetobacter baumannii;Aztreonam; ; ; ; ; ; ; ; ;R;11;0.0;4.55
+AC;0;M;NA;Acinetobacter baumannii; ;R; ; ; ; ; ; ;Cefoxitina; ;10;0.01;0.87
+AL; ;M;NA; ; ;R;8; ;0; ; ;Acinetobacter baumannii;Cefuroxima; ; ;0.0;14.29
+AP; ; ; ;Acinetobacter baumannii;Ampicilina; ;13; ;0;M;NA; ; ;R; ;0.02;65.85
+AP; ; ; ;Acinetobacter baumannii;Cefepime; ;3; ;0;F;NA; ; ;R; ;0.0;50.0
+AP;0; ; ; ;Ciprofloxacina;R; ; ; ;F;NA;Acinetobacter baumannii; ; ;10;0.0;0.81
+AP;0; ; ;Klebsiella oxytoca; ; ;1; ; ;M;NA; ;Ciprofloxacina;S; ;0.09;1.97
+AP;0; ;NA;Acinetobacter baumannii; ; ;12; ; ; ; ; ;Ciprofloxacina;R; ;0.02;6.5
+AP;0;F;NA;Acinetobacter baumannii; ; ;4; ; ; ; ; ;Cefepime;S; ;0.0;9.09
+AP;0;M; ; ;Ciprofloxacina; ;1; ; ; ;NA; ; ;S; ;2.02;43.39
+AP;0;M; ;Acinetobacter baumannii; ; ; ; ; ; ;NA; ;Cefepime;S;13;0.01;1.08
+CE; ; ; ; ; ;R;13; ;0;M;NA;Klebsiella pneumoniae subsp. pneumoniae;Meropenem; ; ;0.01;6.11
+CE; ; ; ;Streptococcus sp.; ; ;6; ;0;F;AMARELA; ;Norfloxacina;S; ;0.0;0.95
+CE;0;F;NA;Streptococcus sp.;Gentamicina; ; ; ; ; ; ; ; ;R; ;0.01;37.04
+ES; ;M;NA;Acinetobacter baumannii; ;S;13; ; ; ; ; ;Levofloxacina; ; ;0.0;0.65
+ES; ;M;PARDA; ;Cloranfenicol;R; ; ;0; ; ;Acinetobacter baumannii; ; ; ;0;0
+ES;0; ;NA;Acinetobacter baumannii;Piperacilina/Tazobactam;R; ; ; ;F; ; ; ; ;13;0.01;14.41
+ES;0;F; ; ; ;R; ; ; ; ; ;Acinetobacter baumannii;Acido Nalidixico; ;12;0.0;0.21
+GO; ; ; ; ; ; ;12; ;0;M;NA;Acinetobacter baumannii;Polimixina B;S; ;0.01;3.65
+GO; ; ;NA;Acinetobacter baumannii;Ciprofloxacina; ; ; ;0;M; ; ; ;R;8;0.0;2.33
+GO; ;F; ; ;Ceftazidima; ;12; ;0; ;NA;Acinetobacter baumannii; ;R; ;0.01;88.89
+GO; ;F; ;Acinetobacter lwoffii; ;S;11; ;0; ;NA; ;Meropenem; ; ;0.0;18.18
+GO; ;M; ; ; ; ;9; ;0; ;NA;Acinetobacter baumannii;Ceftazidima;R; ;0.01;6.04
+GO; ;M;NA;Acinetobacter baumannii;Sulfametoxazol/trimetoprim;S; ; ;0; ; ; ; ; ;13;0.01;39.13
+GO;0; ; ; ; ;R; ; ; ;M;NA;Acinetobacter baumannii;Imipenem; ;6;0.01;0.32
+GO;0; ; ; ; ;S;8; ; ;M;BRANCA;Acinetobacter sp.;Gentamicina; ; ;0.0;2.13
+GO;0; ;NA;Acinetobacter sp.;Ampicilina/Sulbactam;R;12; ; ;M; ; ; ; ; ;0.0;75.0
+GO;0;F; ; ; ;S; ; ; ; ;NA;Acinetobacter baumannii;Tigeciclina; ;11;0.0;0.15
+GO;0;F; ;Acinetobacter baumannii;Amicacina; ;11; ; ; ;NA; ; ;R; ;0.01;45.45
+GO;0;M;NA;Acinetobacter baumannii; ;R;10; ; ; ; ; ;Piperacilina/Tazobactam; ; ;0.01;7.39
+MG; ; ;NA; ;Piperacilina/Tazobactam; ;13; ;0;M; ;Acinetobacter baumannii; ;R; ;0.01;40.54
+MG; ;M;NA; ; ;R; ; ;0; ; ;Acinetobacter sp.;Gentamicina; ;13;0.0;0.45
+MG;0; ; ; ;Ciprofloxacina;S; ; ; ;F;BRANCA;Salmonella Enteritidis; ; ;10;0.0;2.5
+MG;0; ;NA;Acinetobacter sp.;Levofloxacina; ; ; ; ; ; ; ; ;R; ;0;0
+MG;1; ; ; ;Ceftazidima;S;6; ; ;F; ;Acinetobacter sp.; ; ; ;0.07;9.45
+MG;1; ; ;Acinetobacter sp.;Gentamicina;R; ; ; ;F;BRANCA; ; ; ;12;0.04;1.0
+MS; ; ; ; ; ;R; ; ;0; ;NA; ; ; ; ;X;99.88
+MS; ; ; ;Acinetobacter baumannii;Piperacilina/Tazobactam; ; ; ;0;M;NA; ; ;R;12;0.0;28.0
+MS; ; ; ;Mycobacterium sp.; ; ; ; ;0; ;NA; ;Etambutol;S;12;0.03;2.57
+MS; ; ;NA; ; ;R; ; ;0; ; ; ; ; ; ;X;99.88
+MS;0; ; ; ; ;R; ; ; ; ;NA; ; ; ; ;X;0
+MS;0; ; ; ;Isoniazida; ;13; ; ;F;NA;Mycobacterium sp.; ;S; ;0.01;30.77
+MS;0; ;NA; ; ; ;8; ; ;M; ;Mycobacterium sp.;Isoniazida; ; ;0.06;18.93
+MS;0; ;NA; ; ;R; ; ; ; ; ; ; ; ; ;X;0
+MS;0; ;NA; ;Etambutol; ;9; ; ; ; ; ; ; ; ;X;0
+MS;0;M; ;Mycobacterium sp.; ;S; ; ; ; ;NA; ;Isoniazida; ;13;0.02;1.65
+MS;0;M;NA;Mycobacterium sp.;Rifampicina; ; ; ; ; ; ; ; ;S;11;0.05;18.41
+PI; ; ; ;Acinetobacter baumannii;Ceftazidima;R;9; ;0;F;NA; ; ; ; ;0.0;27.78
+PI; ; ;NA;Acinetobacter baumannii; ;S;1; ;0;F; ; ;Colistin; ; ;0.05;1.17
+PI; ;F;NA; ;Ceftriaxona; ; ; ;0; ; ;Acinetobacter baumannii; ;R;11;0.0;3.92
+PI;0; ; ; ; ;R;1; ; ;F;NA;Acinetobacter baumannii;Ampicilina; ; ;0.02;0.33
+PI;0; ;NA; ; ; ; ; ; ;F; ;Acinetobacter baumannii;Tigeciclina;S;13;0.01;0.47
+PI;0; ;NA; ;Gentamicina;S; ; ; ;M; ;Acinetobacter baumannii; ; ;9;0.0;2.02
+PI;0;F; ; ;Amicacina;S; ; ; ; ;NA;Acinetobacter baumannii; ; ;7;0.01;10.67
+PR; ; ; ; ; ; ;13; ;0; ;NA;Complexo Acinetobacter baumannii; ;S; ;0.38;4.04
+PR; ; ; ; ; ; ;9; ;0; ;NA; ; ; ; ;0.55;93.99
+PR; ; ; ;Klebsiella pneumoniae subsp. pneumoniae;Ceftazidima; ; ; ; ;F;NA; ; ; ;13;0.18;23.65
+PR; ; ; ;Klebsiella pneumoniae subsp. pneumoniae;Ertapenem; ;13; ;0;F;NA; ; ;R; ;0.18;42.95
+PR; ; ;NA; ; ; ; ; ;0;F; ;Klebsiella pneumoniae subsp. pneumoniae;Ciprofloxacina;R;13;0.2;1.07
+PR; ; ;NA; ; ; ;11; ;0;F; ;Klebsiella pneumoniae subsp. pneumoniae;Ciprofloxacina; ; ;0.04;1.92
+PR; ; ;NA; ; ; ;13; ;0;M; ;Acinetobacter baumannii;Tobramicina; ; ;0.03;0.31
+PR; ; ;NA; ; ; ;13; ;0;M; ;Klebsiella pneumoniae subsp. pneumoniae;Gentamicina;R; ;0.2;2.12
+PR; ; ;NA; ;Ceftriaxona; ;13; ; ;F; ; ; ;R; ;0.15;45.35
+PR; ; ;NA; ;Colistin; ; ; ;0;M; ;Klebsiella pneumoniae subsp. pneumoniae; ;S; ;0.39;33.1
+PR; ; ;NA;Complexo Acinetobacter baumannii;Gentamicina; ; ; ;0;M; ; ; ;S;13;0.02;9.62
+PR; ; ;NA;Klebsiella pneumoniae subsp. pneumoniae; ; ; ; ; ; ; ; ;Piperacilina/Tazobactam;R; ;0.76;5.86
+PR; ; ;NA;Klebsiella pneumoniae subsp. pneumoniae; ; ;13; ;0;F; ; ;Ciprofloxacina;R; ;0.2;2.91
+PR; ; ;NA;Klebsiella pneumoniae subsp. pneumoniae; ; ;13; ;0;F; ; ;Gentamicina;S; ;0.06;0.95
+PR; ;F; ; ; ;R; ; ;0; ; ;Klebsiella pneumoniae subsp. pneumoniae;Cefuroxima; ;11;0.0;0.05
+PR; ;F;NA;Klebsiella pneumoniae subsp. pneumoniae; ; ;13; ;0; ; ; ;Amicacina;S; ;0.1;3.4
+PR; ;F;NA;Klebsiella pneumoniae subsp. pneumoniae;Amicacina; ; ; ;0; ; ; ; ;S;12;0.02;6.14
+PR; ;F;NA;Klebsiella pneumoniae subsp. pneumoniae;Ampicilina/Sulbactam;R; ; ;0; ; ; ; ; ;12;0.05;17.27
+PR; ;M; ; ; ; ;13; ;0; ; ;Klebsiella pneumoniae subsp. pneumoniae;Meropenem;R; ;0.24;4.5
+PR; ;M; ; ; ;R; ; ; ; ;NA; ;Gentamicina; ; ;0.53;6.18
+PR; ;M; ;Klebsiella pneumoniae subsp. pneumoniae; ;R; ; ; ; ; ; ; ; ; ;0;0
+PR; ;M; ;Klebsiella pneumoniae subsp. pneumoniae;Cefoxitina;R; ; ; ; ;NA; ; ; ;11;0.01;8.14
+PR; ;M;NA; ;Amicacina; ; ; ;0; ; ;Klebsiella pneumoniae subsp. pneumoniae; ;R;7;0.01;1.7
+PR; ;M;NA; ;Ciprofloxacina; ; ; ;0; ; ;Klebsiella pneumoniae subsp. pneumoniae; ;R;13;0.25;33.39
+PR; ;M;NA;Klebsiella pneumoniae subsp. pneumoniae; ;R;3; ;0; ; ; ;Ceftriaxona; ; ;0.0;7.69
+PR;0; ; ; ; ; ; ; ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae;Gentamicina;R;12;0.11;0.6
+PR;0; ; ; ;Tigeciclina; ;13; ; ;F;NA;Klebsiella pneumoniae subsp. pneumoniae; ;S; ;0.07;11.94
+PR;0; ; ;Complexo Acinetobacter baumannii;Tigeciclina;S;13; ; ;M;NA; ; ; ; ;0.04;60.0
+PR;0; ; ;Klebsiella pneumoniae subsp. pneumoniae; ; ;13; ; ;F;NA; ;Ciprofloxacina;R; ;0.2;2.91
+PR;0; ; ;Klebsiella pneumoniae subsp. pneumoniae; ;S; ; ; ;M;NA; ; ; ; ;1.11;58.55
+PR;0; ; ;Klebsiella pneumoniae subsp. pneumoniae;Aztreonam;R; ; ; ;F;NA; ; ; ;13;0.11;23.49
+PR;0; ;NA; ; ; ; ; ; ;F; ;Klebsiella oxytoca;Ampicilina/Sulbactam;R;13;0.0;0.01
+PR;0; ;NA; ;Ampicilina/Sulbactam; ; ; ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae; ; ;1;0;0
+PR;0; ;NA; ;Ciprofloxacina;R;12; ; ;F; ;Klebsiella pneumoniae subsp. pneumoniae; ; ; ;0.05;29.58
+PR;0; ;NA; ;Ertapenem; ;12; ; ;M; ;Klebsiella pneumoniae subsp. pneumoniae; ;R; ;0.06;51.87
+PR;0; ;NA; ;Gentamicina;R; ; ; ;F; ;Klebsiella pneumoniae subsp. pneumoniae; ; ;7;0.01;1.37
+PR;0; ;NA;Acinetobacter baumannii; ; ; ; ; ;M; ; ;Minociclina;S;13;0.03;1.4
+PR;0; ;NA;Complexo Acinetobacter baumannii;Levofloxacina; ;13; ; ;F; ; ; ;R; ;0.01;43.48
+PR;0; ;NA;Klebsiella pneumoniae subsp. pneumoniae; ;S; ; ; ;F; ; ;Colistin; ;13;0.15;7.75
+PR;0; ;NA;Klebsiella pneumoniae subsp. pneumoniae;Ceftazidima;S;10; ; ;M; ; ; ; ; ;0;0
+PR;0;F; ;Klebsiella pneumoniae subsp. pneumoniae;Ampicilina/Sulbactam;R; ; ; ; ;NA; ; ; ;13;0.18;58.42
+PR;0;F;NA;Klebsiella pneumoniae subsp. pneumoniae; ; ; ; ; ; ; ; ;Meropenem;R;13;0.19;3.61
+PR;0;M; ; ; ;R; ; ; ; ; ; ;Aztreonam; ;13;0.16;1.9
+PR;0;M; ;Klebsiella pneumoniae subsp. pneumoniae; ; ; ; ; ; ;NA; ;Meropenem;R;13;0.23;3.15
+PR;0;M; ;Klebsiella pneumoniae subsp. pneumoniae; ;R;13; ; ; ;NA; ;Aztreonam; ; ;0.15;4.92
+PR;1; ; ; ;Amicacina;S; ; ; ;F;NA;Complexo Acinetobacter baumannii; ; ;9;0.02;0.11
+PR;1;M;BRANCA; ; ;I; ; ; ; ; ;Complexo Acinetobacter baumannii;Ampicilina/Sulbactam; ;8;0.01;0.21
+RJ; ; ; ; ;Ciprofloxacina; ;13; ;0;M;NA;Acinetobacter baumannii; ;R; ;0.03;37.27
+RJ; ; ;AMARELA; ; ; ; ; ;0;M; ;Acinetobacter baumannii;Amicacina;R;13;0.0;2.41
+RJ; ;F; ;Acinetobacter baumannii; ; ;9; ;0; ; ; ;Levofloxacina; ; ;0.0;7.14
+RJ; ;F;NA; ;Meropenem;R; ; ; ; ; ;Acinetobacter baumannii; ; ;9;0.0;3.64
+RJ; ;F;NA; ;Sulfametoxazol/trimetoprim; ; ; ;0; ; ;Acinetobacter baumannii; ;R;13;0.01;40.0
+RJ; ;M; ; ;Cefotaxima;R;13; ;0; ;NA;Acinetobacter baumannii; ; ; ;0.01;60.0
+RJ; ;M; ; ;Ceftriaxona;R; ; ;0; ;NA;Klebsiella oxytoca; ; ;12;0.0;3.12
+RJ; ;M;NA;Klebsiella oxytoca; ; ; ; ;0; ; ; ;Gentamicina;R;7;0.0;0.23
+RJ;0;M;NA;Acinetobacter baumannii; ; ; ; ; ; ; ; ;Imipenem;R;13;0.03;3.27
+RN; ; ; ; ;Imipenem;R;13; ;0;F;NA;Acinetobacter baumannii; ; ; ;0.02;32.71
+RN; ; ; ;Acinetobacter baumannii; ;R; ; ;0; ;NA; ; ; ;13;0.47;56.83
+RN; ; ; ;Acinetobacter baumannii; ;R;10; ;0;M;NA; ; ; ; ;0;0
+RN; ; ; ;Klebsiella pneumoniae subsp. pneumoniae;Gentamicina;R; ; ;0;M;NA; ; ; ;13;0.02;24.46
+RN; ; ;NA; ; ; ; ; ;0;M; ;Acinetobacter baumannii;Ceftriaxona;R;13;0.03;0.58
+RN; ; ;NA;Acinetobacter baumannii; ;R;13; ; ;M; ; ;Ampicilina/Sulbactam; ; ;0.01;2.87
+RN; ;F; ; ; ; ; ; ;0; ;NA;Klebsiella pneumoniae subsp. pneumoniae;Gentamicina;S;12;0.0;0.17
+RN; ;F; ; ;Meropenem; ; ; ; ; ; ; ; ; ; ;0;0
+RN; ;M; ; ;Cefepime;S;13; ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae; ; ; ;0.01;62.07
+RN; ;M; ;Klebsiella pneumoniae subsp. pneumoniae;Ertapenem; ; ; ;0; ;PARDA; ; ;S;13;0.0;3.3
+RN;0; ;NA; ; ;R; ; ; ;F; ;Acinetobacter lwoffii;Cefotaxima; ;7;0.0;0.03
+RN;0; ;NA;Klebsiella pneumoniae subsp. pneumoniae;Ampicilina;R; ; ; ;M; ; ; ; ;12;0.01;5.59
+RN;0;F; ; ;Cefepime; ;13; ; ; ;PRETA; ; ;R; ;0.0;0.93
+RN;0;F; ; ;Cefepime;S; ; ; ; ;NA;Klebsiella pneumoniae subsp. pneumoniae; ; ;12;0.01;8.42
+RN;0;M; ; ; ; ;2; ; ; ;NA;Klebsiella pneumoniae subsp. pneumoniae;Piperacilina/Tazobactam;S; ;0.0;2.56
+RN;0;M; ; ;Amicacina; ; ; ; ; ;PARDA;Klebsiella pneumoniae subsp. pneumoniae; ;S;13;0.01;2.64
+RN;0;M;NA; ;Cefepime; ;13; ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae; ;R; ;0.03;37.96
+RO; ; ; ; ;Cefoxitina;R; ; ;0;M;NA;Acinetobacter baumannii; ; ; ;0.03;65.06
+RO;0;F;PARDA; ; ;R;10; ; ; ; ; ;Cefuroxima; ; ;0.0;12.5
+RO;0;M;PARDA; ;Cefuroxima;R; ; ; ; ; ;Acinetobacter baumannii; ; ;8;0.0;10.0
+RS; ; ; ; ; ; ; ; ; ; ;NA; ; ; ; ;X;0
+RS; ; ; ; ; ; ; ; ; ; ;NA; ;Ampicilina; ; ;X;4.55
+RS; ; ; ; ; ; ; ; ; ; ;NA;Klebsiella pneumoniae subsp. pneumoniae; ; ;13;X;44.57
+RS; ; ; ; ; ; ; ; ; ;F;NA; ; ; ; ;X;42.19
+RS; ; ; ; ; ; ; ; ;0; ; ; ; ;R; ;43.64;82.83
+RS; ; ; ; ; ; ; ; ;0; ; ; ; ;R; ;43.65;82.83
+RS; ; ; ; ; ; ; ; ;0; ;BRANCA;Acinetobacter baumannii;Tobramicina;R;13;0.08;0.15
+RS; ; ; ; ; ; ; ; ;0; ;NA; ; ; ; ;52.42;99.56
+RS; ; ; ; ; ; ; ; ;0; ;NA; ; ; ; ;52.45;99.56
+RS; ; ; ; ; ; ; ; ;0;F;NA; ;Cefepime;R;13;0.72;1.37
+RS; ; ; ; ; ; ; ; ;0;M;NA;Acinetobacter baumannii;Trimetoprim/Sulfametoxazol;R; ;0.44;0.83
+RS; ; ; ; ; ; ;12; ;0; ;BRANCA;Acinetobacter baumannii;Trimetoprim/Sulfametoxazol;R; ;0.04;0.45
+RS; ; ; ; ; ; ;13; ;0; ; ; ;Ampicilina;R; ;X;4.56
+RS; ; ; ; ; ; ;13; ;0;M;NA;Klebsiella pneumoniae subsp. pneumoniae;Cefotaxima;R; ;0.4;1.32
+RS; ; ; ; ; ;R; ; ; ; ; ; ; ; ; ;X;0
+RS; ; ; ; ; ;R; ; ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae;Ampicilina; ;13;X;3.08
+RS; ; ; ; ; ;R; ; ; ; ;NA;Klebsiella pneumoniae subsp. pneumoniae; ; ;13;X;44.29
+RS; ; ; ; ; ;R; ; ; ;F; ;Klebsiella pneumoniae subsp. pneumoniae;Nitrofurantoina; ; ;0.31;0.71
+RS; ; ; ; ; ;R; ; ; ;M; ; ;Tobramicina; ; ;0.84;1.92
+RS; ; ; ; ; ;R; ; ; ;M;NA; ; ; ;13;X;32.22
+RS; ; ; ; ; ;R; ; ;0; ; ; ; ; ; ;43.63;99.75
+RS; ; ; ; ; ;R; ; ;0; ; ; ; ; ; ;43.67;99.75
+RS; ; ; ; ; ;R; ; ;0; ; ;Klebsiella pneumoniae subsp. pneumoniae; ; ; ;32.38;74.02
+RS; ; ; ; ; ;R; ; ;0; ;NA; ; ; ; ;43.63;99.75
+RS; ; ; ; ; ;R; ; ;0;F; ; ;Levofloxacina; ; ;1.2;2.75
+RS; ; ; ; ; ;R;12; ; ;M; ; ;Ampicilina; ; ;X;3.27
+RS; ; ; ; ; ;R;12; ; ;M; ;Acinetobacter baumannii;Gentamicina; ; ;0.08;1.03
+RS; ; ; ; ; ;R;13; ; ; ; ; ; ; ; ;0;0
+RS; ; ; ; ; ;R;13; ; ; ;NA; ; ; ; ;X;0
+RS; ; ; ; ; ;R;13; ; ; ;NA; ;Cefoxitina; ; ;1.16;4.56
+RS; ; ; ; ; ;R;13; ;0; ; ; ; ; ; ;X;99.91
+RS; ; ; ; ; ;R;13; ;0;F;NA;Acinetobacter baumannii; ; ; ;1.95;7.7
+RS; ; ; ; ; ;R;13; ;0;F;NA;Klebsiella pneumoniae subsp. pneumoniae;Meropenem; ; ;0.56;2.19
+RS; ; ; ; ; ;R;13; ;0;M;NA;Klebsiella oxytoca;Cefuroxima; ; ;0.01;0.03
+RS; ; ; ; ; ;R;13; ;0;M;NA;Klebsiella pneumoniae subsp. pneumoniae;Ertapenem; ; ;0.68;2.69
+RS; ; ; ; ;Amicacina; ; ; ;0; ;NA; ; ;S;13;1.35;41.38
+RS; ; ; ; ;Ampicilina; ; ; ; ; ; ; ; ; ;13;X;58.19
+RS; ; ; ; ;Ampicilina; ; ; ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae; ;R; ;X;94.95
+RS; ; ; ; ;Ampicilina; ; ; ; ; ;NA; ; ; ;13;X;58.19
+RS; ; ; ; ;Ampicilina; ; ; ;0;M;NA; ; ; ; ;X;55.88
+RS; ; ; ; ;Ampicilina; ;13; ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae; ;R; ;X;96.69
+RS; ; ; ; ;Cefepime; ; ; ; ; ; ; ; ; ; ;0;0
+RS; ; ; ; ;Cefoxitina; ; ; ;0; ;NA; ; ;R; ;1.97;82.31
+RS; ; ; ; ;Cefoxitina; ;13; ;0;M;NA; ; ; ; ;X;54.21
+RS; ; ; ; ;Imipenem;S;12; ;0;M;NA;Acinetobacter baumannii; ; ; ;0.0;1.22
+RS; ; ; ; ;Levofloxacina; ; ; ;0; ;NA;Klebsiella pneumoniae subsp. pneumoniae; ; ;13;X;41.61
+RS; ; ; ; ;Levofloxacina; ;13; ;0; ; ; ; ; ; ;X;99.86
+RS; ; ; ; ;Levofloxacina; ;13; ;0; ;NA; ; ;R; ;X;91.46
+RS; ; ; ; ;Levofloxacina;R;13; ;0; ; ; ; ; ; ;X;99.92
+RS; ; ; ; ;Levofloxacina;R;13; ;0; ;NA; ; ; ; ;X;99.92
+RS; ; ; ; ;Meropenem; ; ; ;0;F;NA;Klebsiella pneumoniae subsp. pneumoniae; ;R;12;0.13;4.13
+RS; ; ; ; ;Meropenem;R;12; ;0;M;NA;Klebsiella oxytoca; ; ; ;0.01;2.67
+RS; ; ; ; ;Trimetoprim/Sulfametoxazol; ; ; ; ; ; ; ; ; ; ;X;0
+RS; ; ; ; ;Trimetoprim/Sulfametoxazol;R; ; ;0; ; ; ; ; ;13;X;57.82
+RS; ; ; ;Acinetobacter baumannii; ;R; ; ;0;F;BRANCA; ;Ampicilina/Sulbactam; ;12;0.01;0.1
+RS; ; ; ;Klebsiella pneumoniae subsp. pneumoniae; ; ; ; ; ; ;PRETA; ;Amicacina; ; ;0.04;0.09
+RS; ; ; ;Klebsiella pneumoniae subsp. pneumoniae; ; ; ; ; ;M; ; ;Ampicilina;R; ;X;3.2
+RS; ; ; ;Klebsiella pneumoniae subsp. pneumoniae; ; ; ; ;0; ;NA; ; ; ;13;X;59.32
+RS; ; ; ;Klebsiella pneumoniae subsp. pneumoniae; ; ; ; ;0;F;NA; ;Cefotaxima;R;12;0.09;0.23
+RS; ; ; ;Klebsiella pneumoniae subsp. pneumoniae; ; ;13; ; ; ; ; ; ;R; ;X;82.5
+RS; ; ; ;Klebsiella pneumoniae subsp. pneumoniae; ; ;13; ; ; ; ; ;Ampicilina;R; ;X;5.74
+RS; ; ; ;Klebsiella pneumoniae subsp. pneumoniae; ; ;13; ; ; ; ; ;Cefotaxima; ; ;0.76;3.25
+RS; ; ; ;Klebsiella pneumoniae subsp. pneumoniae; ; ;13; ;0;F; ; ; ;R; ;X;38.16
+RS; ; ; ;Klebsiella pneumoniae subsp. pneumoniae; ;R; ; ; ; ; ; ; ; ;13;19.37;59.71
+RS; ; ; ;Klebsiella pneumoniae subsp. pneumoniae; ;R; ; ; ; ; ; ;Ciprofloxacina; ; ;X;6.48
+RS; ; ; ;Klebsiella pneumoniae subsp. pneumoniae; ;R; ; ;0;F; ; ;Levofloxacina; ;13;0.57;1.76
+RS; ; ; ;Klebsiella pneumoniae subsp. pneumoniae; ;R;13; ;0; ; ; ; ; ; ;X;99.89
+RS; ; ; ;Klebsiella pneumoniae subsp. pneumoniae;Ampicilina; ; ; ; ; ; ; ; ; ; ;X;0
+RS; ; ; ;Klebsiella pneumoniae subsp. pneumoniae;Ampicilina; ; ; ; ; ; ; ; ;R; ;X;99.94
+RS; ; ; ;Klebsiella pneumoniae subsp. pneumoniae;Ampicilina; ; ; ; ; ;NA; ; ;R; ;X;99.94
+RS; ; ; ;Klebsiella pneumoniae subsp. pneumoniae;Ampicilina; ;13; ; ; ; ; ; ;R; ;X;99.95
+RS; ; ; ;Klebsiella pneumoniae subsp. pneumoniae;Ampicilina; ;13; ; ; ;NA; ; ;R; ;X;99.95
+RS; ; ; ;Klebsiella pneumoniae subsp. pneumoniae;Ampicilina; ;13; ; ;M;NA; ; ;R; ;X;53.74
+RS; ; ; ;Klebsiella pneumoniae subsp. pneumoniae;Ampicilina;R; ; ; ; ; ; ; ; ; ;X;0
+RS; ; ; ;Klebsiella pneumoniae subsp. pneumoniae;Ampicilina;R;13; ; ;M; ; ; ; ; ;X;53.76
+RS; ; ; ;Klebsiella pneumoniae subsp. pneumoniae;Cefepime;R;13; ;0;F;BRANCA; ; ; ; ;0.08;6.75
+RS; ; ; ;Klebsiella pneumoniae subsp. pneumoniae;Levofloxacina; ; ; ;0;M;NA; ; ;R;13;0.64;28.34
+RS; ; ; ;Klebsiella pneumoniae subsp. pneumoniae;Nitrofurantoina; ; ; ;0;F;PRETA; ; ;R;11;0.0;0.09
+RS; ; ; ;Klebsiella pneumoniae subsp. pneumoniae;Trimetoprim/Sulfametoxazol;R; ; ; ; ;NA; ; ; ;13;X;59.42
+RS; ; ;BRANCA; ; ; ; ; ;0;M; ; ; ;R;13;3.27;27.45
+RS; ; ;BRANCA; ; ; ;13; ;0;M; ;Klebsiella pneumoniae subsp. pneumoniae;Cefazolina;R; ;0.06;0.85
+RS; ; ;BRANCA;Acinetobacter baumannii;Gentamicina; ; ; ; ;M; ; ; ; ;12;0.03;9.86
+RS; ; ;NA; ; ; ; ; ;0; ; ; ; ; ;13;X;57.72
+RS; ; ;NA; ; ; ; ; ;0; ; ;Klebsiella pneumoniae subsp. pneumoniae; ; ; ;39.32;74.69
+RS; ; ;NA; ; ; ; ; ;0;M; ;Klebsiella pneumoniae subsp. pneumoniae;Amoxacilina/Acido Clavulanico;R;13;0.66;1.27
+RS; ; ;NA; ; ; ;13; ; ; ; ; ; ;R; ;X;83.67
+RS; ; ;NA; ; ; ;13; ;0; ; ; ; ;R; ;X;83.59
+RS; ; ;NA; ; ;R; ; ; ; ; ; ; ; ; ;0;0
+RS; ; ;NA; ; ;R; ; ; ; ; ; ;Cefepime; ; ;X;6.44
+RS; ; ;NA; ; ;R; ; ;0; ; ; ; ; ; ;43.63;99.75
+RS; ; ;NA; ; ;R; ; ;0; ; ; ; ; ; ;43.64;99.75
+RS; ; ;NA; ; ;R; ; ;0; ; ; ; ; ;13;X;58.18
+RS; ; ;NA; ; ;R; ; ;0;F; ;Klebsiella pneumoniae subsp. pneumoniae;Ertapenem; ;13;0.58;1.33
+RS; ; ;NA; ; ;R;13; ; ; ; ; ; ; ; ;0;0
+RS; ; ;NA; ; ;S;13; ;0;M; ;Klebsiella pneumoniae subsp. pneumoniae;Amicacina; ; ;0.67;17.0
+RS; ; ;NA; ; ;S;3; ; ;F; ;Klebsiella pneumoniae subsp. pneumoniae;Amicacina; ; ;0.0;10.81
+RS; ; ;NA; ;Ampicilina; ; ; ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae; ;R; ;X;94.95
+RS; ; ;NA; ;Ampicilina; ;13; ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae; ;R; ;X;96.69
+RS; ; ;NA; ;Ampicilina;R; ; ; ; ; ; ; ; ; ;X;0
+RS; ; ;NA; ;Ampicilina;R;13; ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae; ; ; ;X;96.96
+RS; ; ;NA; ;Cefazolina; ;12; ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae; ;R; ;0.23;91.26
+RS; ; ;NA; ;Imipenem;R;10; ;0;M; ;Klebsiella pneumoniae subsp. pneumoniae; ; ; ;0.03;36.84
+RS; ; ;NA; ;Levofloxacina;R;13; ;0; ; ; ; ; ; ;X;99.92
+RS; ; ;NA; ;Meropenem;R; ; ; ;M; ;Klebsiella pneumoniae subsp. pneumoniae; ; ;13;0.65;21.8
+RS; ; ;NA;Acinetobacter baumannii; ; ; ; ;0;M; ; ;Levofloxacina;R;13;0.25;2.49
+RS; ; ;NA;Klebsiella oxytoca; ; ; ; ;0;F; ; ;Trimetoprim/Sulfametoxazol;R;12;0.01;0.33
+RS; ; ;NA;Klebsiella pneumoniae subsp. pneumoniae; ; ; ; ;0; ; ; ; ; ; ;X;99.57
+RS; ; ;NA;Klebsiella pneumoniae subsp. pneumoniae; ; ;13; ; ; ; ; ; ;R; ;X;82.5
+RS; ; ;NA;Klebsiella pneumoniae subsp. pneumoniae; ; ;13; ;0;F; ; ;Imipenem;R; ;0.51;2.17
+RS; ; ;NA;Klebsiella pneumoniae subsp. pneumoniae; ;R; ; ; ; ; ; ; ; ; ;X;0
+RS; ; ;NA;Klebsiella pneumoniae subsp. pneumoniae; ;R; ; ;0; ; ; ; ; ; ;32.22;99.8
+RS; ; ;NA;Klebsiella pneumoniae subsp. pneumoniae; ;R;13; ;0;M; ; ;Cefoxitina; ; ;0.61;3.17
+RS; ; ;NA;Klebsiella pneumoniae subsp. pneumoniae;Ampicilina; ; ; ; ; ; ; ; ;R;13;X;59.22
+RS; ; ;NA;Klebsiella pneumoniae subsp. pneumoniae;Ampicilina; ;13; ; ; ; ; ; ;R; ;X;99.95
+RS; ; ;NA;Klebsiella pneumoniae subsp. pneumoniae;Ampicilina; ;13; ; ;M; ; ; ;R; ;X;53.74
+RS; ; ;NA;Klebsiella pneumoniae subsp. pneumoniae;Ertapenem;R;13; ;0;F; ; ; ; ; ;0.58;45.96
+RS; ; ;NA;Klebsiella pneumoniae subsp. pneumoniae;Meropenem;R; ; ;0;M; ; ; ; ;9;0.04;2.05
+RS; ; ;NA;Klebsiella pneumoniae subsp. pneumoniae;Trimetoprim/Sulfametoxazol; ; ; ;0;F; ; ; ;R;10;0.02;0.84
+RS; ; ;PRETA; ;Ceftriaxona; ; ; ;0; ; ;Klebsiella pneumoniae subsp. pneumoniae; ;R;9;0.0;1.2
+RS; ;F; ; ; ; ; ; ; ; ; ; ; ;R; ;X;82.82
+RS; ;F; ; ; ; ; ; ; ; ;NA;Klebsiella pneumoniae subsp. pneumoniae;Cefoxitina;R;13;0.52;2.35
+RS; ;F; ; ; ; ; ; ;0; ;NA;Acinetobacter baumannii;Ceftriaxona;R; ;0.24;1.11
+RS; ;F; ; ; ; ;13; ;0; ;NA;Klebsiella pneumoniae subsp. pneumoniae;Amicacina;R; ;0.03;0.22
+RS; ;F; ; ; ;R; ; ;0; ;BRANCA;Klebsiella pneumoniae subsp. pneumoniae;Ertapenem; ;13;0.09;0.51
+RS; ;F; ; ; ;S;12; ;0; ;NA;Acinetobacter baumannii;Tetraciclina; ; ;0.01;2.88
+RS; ;F; ; ;Cefoxitina; ; ; ;0; ;NA;Klebsiella pneumoniae subsp. pneumoniae; ;R;8;0.02;1.67
+RS; ;F; ; ;Piperacilina/Tazobactam;R; ; ;0; ;BRANCA;Acinetobacter baumannii; ; ;13;0.06;4.85
+RS; ;F; ; ;Piperacilina/Tazobactam;R; ; ;0; ;NA;Klebsiella pneumoniae subsp. pneumoniae; ; ;10;0.02;1.58
+RS; ;F; ;Acinetobacter baumannii;Ceftriaxona; ; ; ;0; ;NA; ; ;R;12;0.03;12.31
+RS; ;F; ;Acinetobacter baumannii;Ciprofloxacina;R; ; ;0; ; ; ; ; ; ;0.27;99.52
+RS; ;F; ;Klebsiella pneumoniae subsp. pneumoniae; ; ; ; ;0; ; ; ; ;R; ;14.31;81.85
+RS; ;F; ;Klebsiella pneumoniae subsp. pneumoniae; ;R; ; ;0; ;NA; ;Ampicilina; ; ;1.0;6.94
+RS; ;F; ;Klebsiella pneumoniae subsp. pneumoniae; ;R;11; ;0; ; ; ;Ertapenem; ; ;0.08;6.41
+RS; ;F;BRANCA;Acinetobacter baumannii; ;R;9; ;0; ; ; ;Cefepime; ; ;0.0;8.7
+RS; ;F;NA; ; ; ; ; ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae;Piperacilina/Tazobactam; ; ;1.0;4.53
+RS; ;F;NA; ; ; ; ; ;0; ; ;Klebsiella pneumoniae subsp. pneumoniae;Cefazolina;R;13;0.37;1.67
+RS; ;F;NA; ; ; ;13; ;0; ; ;Klebsiella pneumoniae subsp. pneumoniae;Amicacina;S; ;0.57;4.17
+RS; ;F;NA; ; ; ;13; ;0; ; ;Klebsiella pneumoniae subsp. pneumoniae;Ciprofloxacina;R; ;0.58;4.28
+RS; ;F;NA; ; ;I;13; ;0; ; ;Klebsiella pneumoniae subsp. pneumoniae; ; ; ;1.01;55.85
+RS; ;F;NA; ; ;R; ; ;0; ; ;Klebsiella pneumoniae subsp. pneumoniae; ; ;13;8.92;48.68
+RS; ;F;NA; ; ;R;11; ;0; ; ;Klebsiella pneumoniae subsp. pneumoniae;Ampicilina; ; ;0.08;5.24
+RS; ;F;NA; ;Ceftriaxona;R; ; ;0; ; ;Klebsiella pneumoniae subsp. pneumoniae; ; ;13;0.58;46.61
+RS; ;F;NA;Klebsiella pneumoniae subsp. pneumoniae; ; ; ; ;0; ; ; ;Ampicilina;R;13;0.62;3.54
+RS; ;F;NA;Klebsiella pneumoniae subsp. pneumoniae; ; ; ; ;0; ; ; ;Colistin; ;13;0.24;1.39
+RS; ;F;NA;Klebsiella pneumoniae subsp. pneumoniae; ; ; ; ;0; ; ; ;Gentamicina; ;12;0.15;0.85
+RS; ;F;NA;Klebsiella pneumoniae subsp. pneumoniae; ; ;13; ;0; ; ; ;Ampicilina;R; ;X;5.7
+RS; ;F;NA;Klebsiella pneumoniae subsp. pneumoniae; ;R; ; ;0; ; ; ;Cefuroxima; ;1;4.66;32.48
+RS; ;F;NA;Klebsiella pneumoniae subsp. pneumoniae;Ampicilina;R;13; ; ; ; ; ; ; ; ;0;0
+RS; ;F;NA;Klebsiella pneumoniae subsp. pneumoniae;Cefazolina; ; ; ;0; ; ; ; ;R; ;0.61;98.34
+RS; ;F;PRETA;Klebsiella pneumoniae subsp. pneumoniae; ;R;13; ;0; ; ; ;Imipenem; ; ;0.01;5.29
+RS; ;M; ; ; ; ; ; ; ; ;NA;Klebsiella pneumoniae subsp. pneumoniae; ;R; ;X;59.18
+RS; ;M; ; ; ; ;13; ; ; ; ; ; ; ; ;X;0
+RS; ;M; ; ; ;R; ; ; ; ;NA; ; ; ; ;X;0
+RS; ;M; ; ; ;R; ; ;0; ; ; ; ; ; ;25.24;99.82
+RS; ;M; ; ; ;R; ; ;0; ;NA;Acinetobacter baumannii;Trimetoprim/Sulfametoxazol; ; ;0.44;1.74
+RS; ;M; ; ; ;R;12; ; ; ; ; ;Ampicilina; ; ;X;5.26
+RS; ;M; ; ; ;R;13; ;0; ; ; ; ; ; ;X;0
+RS; ;M; ; ; ;R;13; ;0; ;NA;Klebsiella pneumoniae subsp. pneumoniae;Amoxacilina/Acido Clavulanico; ; ;0.66;4.74
+RS; ;M; ; ;Amoxacilina/Acido Clavulanico; ;13; ;0; ;NA;Klebsiella pneumoniae subsp. pneumoniae; ;R; ;0.66;93.61
+RS; ;M; ; ;Cefoxitina; ;8; ;0; ; ; ; ;S; ;0.01;13.56
+RS; ;M; ; ;Levofloxacina;R; ; ;0; ;BRANCA;Acinetobacter baumannii; ; ;13;0.11;6.73
+RS; ;M; ;Acinetobacter baumannii;Trimetoprim/Sulfametoxazol; ; ; ;0; ;NA; ; ;S;11;0.01;1.33
+RS; ;M; ;Klebsiella pneumoniae subsp. pneumoniae; ; ; ; ; ; ; ; ; ; ; ;X;0
+RS; ;M; ;Klebsiella pneumoniae subsp. pneumoniae; ; ;13; ;0; ;NA; ;Ceftriaxona;R; ;0.67;5.35
+RS; ;M; ;Klebsiella pneumoniae subsp. pneumoniae; ;R; ; ; ; ;NA; ;Piperacilina/Tazobactam; ;13;0.71;3.97
+RS; ;M; ;Klebsiella pneumoniae subsp. pneumoniae; ;R; ; ;0; ; ; ; ; ;13;10.38;57.79
+RS; ;M; ;Klebsiella pneumoniae subsp. pneumoniae; ;R;13; ;0; ; ; ;Ampicilina; ; ;X;6.98
+RS; ;M; ;Klebsiella pneumoniae subsp. pneumoniae;Ampicilina; ; ; ; ; ; ; ; ;R; ;X;99.95
+RS; ;M; ;Klebsiella pneumoniae subsp. pneumoniae;Ampicilina; ; ; ; ; ;NA; ; ;R; ;X;99.95
+RS; ;M; ;Klebsiella pneumoniae subsp. pneumoniae;Ampicilina; ;13; ; ; ; ; ; ;R; ;X;99.91
+RS; ;M; ;Klebsiella pneumoniae subsp. pneumoniae;Ampicilina; ;13; ;0; ;NA; ; ;R; ;0.72;99.91
+RS; ;M; ;Klebsiella pneumoniae subsp. pneumoniae;Aztreonam; ;10; ; ; ; ; ; ; ; ;X;0
+RS; ;M; ;Klebsiella pneumoniae subsp. pneumoniae;Imipenem;R; ; ;0; ;NA; ; ; ;8;0.03;3.01
+RS; ;M; ;Klebsiella pneumoniae subsp. pneumoniae;Levofloxacina;R;13; ;0; ;BRANCA; ; ; ; ;0.11;16.6
+RS; ;M;BRANCA; ; ;R;13; ;0; ; ;Klebsiella pneumoniae subsp. pneumoniae;Levofloxacina; ; ;0.11;3.28
+RS; ;M;BRANCA; ;Ampicilina; ;13; ;0; ; ; ; ; ; ;0;0
+RS; ;M;BRANCA; ;Cefepime;R;9; ;0; ; ;Acinetobacter baumannii; ; ; ;0.01;38.1
+RS; ;M;BRANCA;Acinetobacter sp.;Gentamicina;R; ; ;0; ; ; ; ; ;13;0.01;74.07
+RS; ;M;BRANCA;Klebsiella pneumoniae subsp. pneumoniae; ; ; ; ;0; ; ; ;Ceftriaxona;R;13;0.11;2.87
+RS; ;M;NA; ; ; ; ; ;0; ; ; ; ; ; ;30.15;99.72
+RS; ;M;NA; ; ; ; ; ;0; ; ; ; ;R; ;X;83.07
+RS; ;M;NA; ; ; ; ; ;0; ; ;Klebsiella pneumoniae subsp. pneumoniae;Levofloxacina;R;12;0.21;0.68
+RS; ;M;NA; ; ; ;10; ;0; ; ;Klebsiella pneumoniae subsp. pneumoniae;Meropenem;R; ;0.03;3.24
+RS; ;M;NA; ; ; ;12; ;0; ; ;Klebsiella pneumoniae subsp. pneumoniae;Amicacina;S; ;0.2;3.73
+RS; ;M;NA; ; ;R; ; ;0; ; ; ;Cefoxitina; ;13;X;2.49
+RS; ;M;NA; ; ;R; ; ;0; ; ;Klebsiella oxytoca;Meropenem; ;12;0.01;0.05
+RS; ;M;NA; ; ;R;13; ;0; ; ;Klebsiella pneumoniae subsp. pneumoniae;Ertapenem; ; ;0.68;4.85
+RS; ;M;NA; ;Ampicilina; ; ; ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae; ;R; ;X;94.14
+RS; ;M;NA; ;Gentamicina; ; ; ;0; ; ; ; ; ;13;1.04;54.96
+RS; ;M;NA; ;Meropenem; ; ; ;0; ; ;Klebsiella pneumoniae subsp. pneumoniae; ;R;13;0.65;34.27
+RS; ;M;NA;Klebsiella oxytoca; ;I; ; ;0; ; ; ;Amicacina; ;10;0.02;0.41
+RS; ;M;NA;Klebsiella pneumoniae subsp. pneumoniae; ; ; ; ;0; ; ; ;Cefepime;R;13;0.6;2.77
+RS; ;M;NA;Klebsiella pneumoniae subsp. pneumoniae; ; ; ; ;0; ; ; ;Meropenem;R;11;0.1;0.45
+RS; ;M;NA;Klebsiella pneumoniae subsp. pneumoniae; ; ; ; ;0; ; ; ;Piperacilina/Tazobactam;R;13;0.71;3.26
+RS; ;M;NA;Klebsiella pneumoniae subsp. pneumoniae;Amoxacilina/Acido Clavulanico; ; ; ;0; ; ; ; ;R;12;0.21;17.26
+RS;0; ; ; ; ; ; ; ; ; ; ; ; ;R; ;43.62;83.2
+RS;0; ; ; ; ; ; ; ; ;F;NA;Klebsiella pneumoniae subsp. pneumoniae;Imipenem;S;13;0.11;0.21
+RS;0; ; ; ; ; ; ; ; ;F;NA;Klebsiella pneumoniae subsp. pneumoniae;Tigeciclina;I;13;1.81;3.46
+RS;0; ; ; ; ; ;13; ; ; ;BRANCA;Acinetobacter baumannii; ;R; ;2.08;6.86
+RS;0; ; ; ; ; ;13; ; ;M;NA;Klebsiella oxytoca;Tobramicina;R; ;0.02;0.06
+RS;0; ; ; ; ;R; ; ; ; ;NA; ; ; ; ;0;0
+RS;0; ; ; ; ;R; ; ; ;M;NA; ;Cefazolina; ; ;0.8;1.85
+RS;0; ; ; ; ;R;11; ; ; ; ; ;Meropenem; ; ;0.28;7.06
+RS;0; ; ; ; ;R;13; ; ;M;NA;Acinetobacter baumannii;Imipenem; ; ;0.25;1.0
+RS;0; ; ; ; ;S; ; ; ; ;NA; ;Cefepime; ; ;0.26;3.77
+RS;0; ; ; ; ;S;13; ; ;M;NA;Klebsiella pneumoniae subsp. pneumoniae;Trimetoprim/Sulfametoxazol; ; ;0.15;3.85
+RS;0; ; ; ;Aztreonam;R; ; ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae; ; ; ;X;26.92
+RS;0; ; ; ;Cefoxitina; ;13; ; ; ; ; ; ; ; ;X;0
+RS;0; ; ; ;Cefoxitina;R;13; ; ; ; ; ; ; ; ;X;0
+RS;0; ; ; ;Ceftazidima; ; ; ; ; ;NA;Acinetobacter baumannii; ; ;13;0.42;48.8
+RS;0; ; ; ;Imipenem; ;13; ; ;F;NA;Klebsiella pneumoniae subsp. pneumoniae; ;S; ;0.11;5.75
+RS;0; ; ;Acinetobacter baumannii; ; ;13; ; ;M;BRANCA; ; ;R; ;1.33;24.15
+RS;0; ; ;Acinetobacter baumannii;Amicacina; ;12; ; ;F;NA; ; ;R; ;0.03;21.43
+RS;0; ; ;Acinetobacter baumannii;Cefotaxima;R;12; ; ;M;NA; ; ; ; ;0.0;46.67
+RS;0; ; ;Acinetobacter baumannii;Gentamicina; ; ; ; ;M;BRANCA; ; ;R;13;0.1;13.59
+RS;0; ; ;Klebsiella pneumoniae subsp. pneumoniae; ; ; ; ; ; ; ; ;Ampicilina; ;13;X;3.42
+RS;0; ; ;Klebsiella pneumoniae subsp. pneumoniae; ; ; ; ; ; ; ; ;Ertapenem; ;11;X;0.46
+RS;0; ; ;Klebsiella pneumoniae subsp. pneumoniae; ; ; ; ; ; ;BRANCA; ;Cefoxitina;S;13;0.02;0.04
+RS;0; ; ;Klebsiella pneumoniae subsp. pneumoniae; ; ; ; ; ;F;NA; ;Ampicilina;R;1;4.68;11.9
+RS;0; ; ;Klebsiella pneumoniae subsp. pneumoniae; ; ;13; ; ; ;NA; ;Trimetoprim/Sulfametoxazol;R; ;1.0;4.29
+RS;0; ; ;Klebsiella pneumoniae subsp. pneumoniae; ; ;9; ; ;F;NA; ;Piperacilina/Tazobactam;R; ;0.03;2.36
+RS;0; ; ;Klebsiella pneumoniae subsp. pneumoniae; ;R;13; ; ; ; ; ; ; ; ;X;0
+RS;0; ; ;Klebsiella pneumoniae subsp. pneumoniae; ;R;13; ; ;M;NA; ;Amoxacilina/Acido Clavulanico; ; ;0.67;3.45
+RS;0; ; ;Klebsiella pneumoniae subsp. pneumoniae;Ampicilina; ; ; ; ; ; ; ; ;R; ;X;99.94
+RS;0; ; ;Klebsiella pneumoniae subsp. pneumoniae;Ampicilina;R;13; ; ; ; ; ; ; ; ;X;0
+RS;0; ; ;Klebsiella pneumoniae subsp. pneumoniae;Ciprofloxacina; ;13; ; ;F; ; ; ; ; ;X;46.01
+RS;0; ; ;Klebsiella pneumoniae subsp. pneumoniae;Ertapenem; ; ; ; ;F;NA; ; ;R;13;0.58;26.47
+RS;0; ; ;Klebsiella pneumoniae subsp. pneumoniae;Levofloxacina; ;13; ; ;F;NA; ; ;R; ;0.57;42.2
+RS;0; ; ;Klebsiella pneumoniae subsp. pneumoniae;Meropenem; ; ; ; ;M;NA; ; ;R;13;0.65;28.52
+RS;0; ;BRANCA; ; ;S;12; ; ;F; ;Klebsiella oxytoca;Nitrofurantoina; ; ;0.0;0.29
+RS;0; ;BRANCA; ;Cefoxitina;R;9; ; ;F; ;Klebsiella pneumoniae subsp. pneumoniae; ; ; ;0.0;29.41
+RS;0; ;NA; ; ; ; ; ; ; ; ; ;Cefepime;R; ;X;5.36
+RS;0; ;NA; ; ; ; ; ; ; ; ; ;Piperacilina/Tazobactam; ; ;3.21;6.14
+RS;0; ;NA; ; ; ; ; ; ;F; ; ; ; ; ;22.06;42.1
+RS;0; ;NA; ;Ampicilina; ; ; ; ;M; ; ; ;R; ;X;55.72
+RS;0; ;NA; ;Cefepime; ; ; ; ; ; ; ; ;R; ;X;89.4
+RS;0; ;NA; ;Cefepime; ; ; ; ;F; ;Klebsiella pneumoniae subsp. pneumoniae; ; ;13;0.6;19.07
+RS;0; ;NA; ;Cefepime; ;13; ; ; ; ; ; ;R; ;X;89.72
+RS;0; ;NA; ;Ceftriaxona;R; ; ; ;M; ;Acinetobacter baumannii; ; ;11;0.06;1.89
+RS;0; ;NA; ;Meropenem; ;8; ; ;M; ;Klebsiella pneumoniae subsp. pneumoniae; ;R; ;0.03;35.42
+RS;0; ;NA;Klebsiella pneumoniae subsp. pneumoniae; ; ; ; ; ;M; ; ; ;R; ;17.94;45.64
+RS;0; ;NA;Klebsiella pneumoniae subsp. pneumoniae; ; ; ; ; ;M; ; ;Cefoxitina;S;13;0.06;0.16
+RS;0; ;NA;Klebsiella pneumoniae subsp. pneumoniae; ; ;13; ; ;M; ; ;Cefoxitina;S; ;0.06;0.27
+RS;0; ;NA;Klebsiella pneumoniae subsp. pneumoniae; ;R; ; ; ;F; ; ;Cefotaxima; ;13;0.34;1.07
+RS;0; ;NA;Klebsiella pneumoniae subsp. pneumoniae;Ertapenem;R; ; ; ; ; ; ; ; ; ;X;0
+RS;0; ;NA;Klebsiella pneumoniae subsp. pneumoniae;Piperacilina/Tazobactam; ;13; ; ;F; ; ; ;R; ;0.6;44.86
+RS;0; ;PARDA; ;Tigeciclina;I; ; ; ;F; ; ; ; ;13;0.79;21.1
+RS;0;F; ; ; ; ;8; ; ; ; ; ; ; ; ;0;0
+RS;0;F; ; ; ;R;13; ; ; ;PRETA;Acinetobacter baumannii;Imipenem; ; ;0.0;0.01
+RS;0;F; ; ;Amicacina;S; ; ; ; ;NA;Klebsiella pneumoniae subsp. pneumoniae; ; ;13;0.57;57.74
+RS;0;F; ; ;Ampicilina; ; ; ; ; ;NA;Klebsiella pneumoniae subsp. pneumoniae; ;R;13;0.62;59.55
+RS;0;F; ; ;Tigeciclina; ;13; ; ; ;NA;Klebsiella pneumoniae subsp. pneumoniae; ;R; ;0.09;37.2
+RS;0;F; ;Acinetobacter baumannii; ;R; ; ; ; ; ; ; ; ;13;1.95;62.13
+RS;0;F; ;Klebsiella oxytoca; ;R; ; ; ; ;NA; ;Nitrofurantoina; ;13;0.0;0.5
+RS;0;F; ;Klebsiella pneumoniae subsp. pneumoniae; ; ;13; ; ; ;NA; ;Ciprofloxacina;R; ;0.58;5.38
+RS;0;F; ;Klebsiella pneumoniae subsp. pneumoniae; ;S; ; ; ; ;NA; ;Amicacina; ;13;0.57;22.4
+RS;0;F; ;Klebsiella pneumoniae subsp. pneumoniae;Ertapenem; ; ; ; ; ;NA; ; ;R;12;0.14;14.27
+RS;0;F;BRANCA; ; ;R; ; ; ; ; ;Acinetobacter baumannii;Piperacilina/Tazobactam; ;13;0.06;1.67
+RS;0;F;BRANCA; ; ;R;7; ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae;Trimetoprim/Sulfametoxazol; ; ;0.0;4.65
+RS;0;F;NA; ; ;R; ; ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae;Ceftriaxona; ; ;0.94;5.17
+RS;0;F;NA; ; ;R;11; ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae;Ciprofloxacina; ; ;0.08;4.99
+RS;0;F;NA; ;Ciprofloxacina; ;13; ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae; ;S; ;0.03;3.47
+RS;0;F;NA;Klebsiella pneumoniae subsp. pneumoniae; ; ;13; ; ; ; ; ;Cefazolina;R; ;0.37;3.43
+RS;0;M; ; ; ; ; ; ; ; ;BRANCA;Acinetobacter baumannii;Ciprofloxacina;R;8;0.01;0.03
+RS;0;M; ; ; ; ; ; ; ; ;BRANCA;Klebsiella pneumoniae subsp. pneumoniae;Amoxacilina/Acido Clavulanico;I;13;1.8;5.98
+RS;0;M; ; ; ; ; ; ; ; ;NA;Klebsiella pneumoniae subsp. pneumoniae;Ceftriaxona;R;13;0.67;2.22
+RS;0;M; ; ; ; ;13; ; ; ;BRANCA;Acinetobacter baumannii;Ceftriaxona;R; ;0.11;0.65
+RS;0;M; ; ; ;S;13; ; ; ;NA;Klebsiella pneumoniae subsp. pneumoniae;Colistin; ; ;0.23;10.52
+RS;0;M; ; ;Cefotaxima; ;7; ; ; ;NA;Klebsiella pneumoniae subsp. pneumoniae; ;R; ;0.02;78.95
+RS;0;M; ; ;Meropenem;R; ; ; ; ;BRANCA;Acinetobacter baumannii; ; ;12;0.03;1.8
+RS;0;M; ; ;Tigeciclina; ;1; ; ; ;NA;Klebsiella pneumoniae subsp. pneumoniae; ;I; ;0.01;0.11
+RS;0;M; ;Acinetobacter baumannii; ; ;6; ; ; ;BRANCA; ;Amicacina;R; ;0.0;2.79
+RS;0;M;NA; ; ; ; ; ; ; ; ; ; ;I; ;3.78;12.46
+RS;0;M;NA; ; ; ;12; ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae;Imipenem;R; ;0.19;3.64
+RS;0;M;NA; ; ;R;9; ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae;Nitrofurantoina; ; ;0.01;1.1
+RS;0;M;NA; ;Colistin;S; ; ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae; ; ;9;0.01;2.56
+RS;0;M;NA;Klebsiella pneumoniae subsp. pneumoniae; ; ; ; ; ; ; ; ;Cefoxitina;I;7;0.14;0.63
+RS;0;M;NA;Klebsiella pneumoniae subsp. pneumoniae;Amicacina; ; ; ; ; ; ; ; ;S;9;0.04;3.32
+RS;0;M;NA;Klebsiella pneumoniae subsp. pneumoniae;Ciprofloxacina; ; ; ; ; ; ; ; ;R;11;0.09;7.53
+RS;0;M;NA;Klebsiella pneumoniae subsp. pneumoniae;Ciprofloxacina; ; ; ; ; ; ; ; ;R;13;0.69;54.54
+TO; ; ; ; ; ;I;13; ;0; ;NA; ;Ciprofloxacina; ; ;0.05;2.76
+TO; ; ; ;Klebsiella oxytoca; ;S;12; ;0;F;NA; ; ; ; ;0.02;34.62
+TO; ; ; ;Klebsiella pneumoniae subsp. pneumoniae;Colistin;R;12; ;0;F;NA; ; ; ; ;0.0;22.22
+TO; ; ;NA;Klebsiella pneumoniae subsp. pneumoniae; ; ; ; ;0;M; ; ;Amicacina;S;7;0.0;0.23
+TO; ;F; ; ; ; ; ; ;0; ; ; ;Ampicilina/Sulbactam; ; ;0.05;5.23
+TO; ;F; ; ;Tigeciclina;I; ; ;0; ;NA;Klebsiella pneumoniae subsp. pneumoniae; ; ;13;1.01;26.82
+TO; ;F;NA; ; ;I; ; ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae; ; ;13;1.01;26.89
+TO; ;F;NA;Klebsiella pneumoniae subsp. pneumoniae; ;R;13; ;0; ; ; ;Ciprofloxacina; ; ;0.01;5.19
+TO; ;M; ; ; ;R; ; ;0; ;NA;Klebsiella pneumoniae subsp. pneumoniae;Ampicilina/Sulbactam; ;4;0.0;0.15
+TO; ;M; ;Klebsiella pneumoniae subsp. pneumoniae; ;R;13; ;0; ;NA; ;Ampicilina; ; ;0.02;8.53
+TO;0; ; ;Klebsiella pneumoniae subsp. pneumoniae; ;R;13; ; ;M;NA; ;Cefotaxima; ; ;0.01;1.5
+TO;0; ;NA;Klebsiella pneumoniae subsp. pneumoniae; ; ; ; ; ;F; ; ;Ceftazidima;R;13;0.02;1.16
+TO;0;M;NA;Acinetobacter baumannii; ;S; ; ; ; ; ; ;Tetraciclina; ;11;0.0;0.73
