@@ -1,0 +1,12 @@
+Antecedentes; ; ; ; ; ; ; ;Consequentes; ; ; ; ; ; ; ;Suporte;Confianca
+Estado;Agravo;Sexo;RacaCor;Agente;Antibiotico;Resistencia;FaixaEtaria;Estado;Agravo;Sexo;RacaCor;Agente;Antibiotico;Resistencia;FaixaEtaria
+RS; ; ;NA;Klebsiella pneumoniae subsp. pneumoniae;Meropenem;R; ; ;0;M; ; ; ; ;9;0.04;2.05
+RS; ;F; ; ;Piperacilina/Tazobactam;R; ; ;0; ;NA;Klebsiella pneumoniae subsp. pneumoniae; ; ;10;0.02;1.58
+ ; ; ;NA; ;Cefepime; ; ;RS;0;M; ;Klebsiella pneumoniae subsp. pneumoniae; ;R; ;1.05;16.36
+RS; ;F; ; ;Piperacilina/Tazobactam;R; ; ;0; ;BRANCA;Acinetobacter baumannii; ; ;13;0.06;4.85
+ ;0; ; ; ; ;R; ;PR; ;M;NA;Klebsiella pneumoniae subsp. pneumoniae;Piperacilina/Tazobactam; ;11;0.05;0.06
+RS;0;M;NA;Klebsiella pneumoniae subsp. pneumoniae;Ciprofloxacina; ; ; ; ; ; ; ; ;R;11;0.09;7.53
+ ;0; ; ;Acinetobacter baumannii;Amicacina; ;10;RS; ;F;NA; ; ;R; ;0.01;5.92
+PR; ;M; ;Klebsiella pneumoniae subsp. pneumoniae; ;R; ; ; ; ; ; ; ; ; ;0;0
+RS; ;F;NA; ; ; ;13; ;0; ; ;Klebsiella pneumoniae subsp. pneumoniae;Ciprofloxacina;R; ;0.58;4.28
+AP;0;M; ;Acinetobacter baumannii; ; ; ; ; ; ;NA; ;Cefepime;S;13;0.01;1.08

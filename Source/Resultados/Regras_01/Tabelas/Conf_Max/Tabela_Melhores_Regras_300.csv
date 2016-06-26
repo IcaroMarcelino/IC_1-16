@@ -1,0 +1,12 @@
+Antecedentes; ; ; ; ; ; ; ;Consequentes; ; ; ; ; ; ; ;Suporte;Confianca
+Estado;Agravo;Sexo;RacaCor;Agente;Antibiotico;Resistencia;FaixaEtaria;Estado;Agravo;Sexo;RacaCor;Agente;Antibiotico;Resistencia;FaixaEtaria
+ ; ; ; ; ;Trimetoprim/Sulfametoxazol;R;13; ;0; ; ; ; ; ; ;X;99.96
+ ; ; ; ; ;Trimetoprim/Sulfametoxazol;R;13; ;0; ;NA; ; ; ; ;X;99.96
+ ; ; ; ; ;Trimetoprim/Sulfametoxazol;R;13; ;0; ;NA; ; ; ; ;X;99.96
+ ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae;Trimetoprim/Sulfametoxazol;R; ;RS; ; ; ; ; ; ; ;X;98.37
+ ;0; ; ;Klebsiella pneumoniae subsp. pneumoniae;Trimetoprim/Sulfametoxazol; ; ; ; ; ; ; ; ;R; ;X;77.72
+ ; ; ;NA; ;Trimetoprim/Sulfametoxazol;R;13; ;0; ; ;Klebsiella pneumoniae subsp. pneumoniae; ; ; ;X;68.15
+ ; ; ; ; ;Trimetoprim/Sulfametoxazol; ;13; ;0;M; ; ; ;R; ;X;45.11
+ ; ; ; ; ;Trimetoprim/Sulfametoxazol;R;13; ;0; ; ; ; ; ; ;X;99.96
+ ; ;M; ; ;Trimetoprim/Sulfametoxazol;R; ; ; ; ; ; ; ; ; ;X;0
+ ;0; ;NA;Klebsiella pneumoniae subsp. pneumoniae;Trimetoprim/Sulfametoxazol;R; ; ; ; ; ; ; ; ;13;X;59.66

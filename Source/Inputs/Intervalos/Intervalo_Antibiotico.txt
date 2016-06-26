@@ -1,0 +1,65 @@
+Acido Nalidixico|50|111
+Acido Pipemidico|96|111
+Amicacina|50|111
+Amoxacilina/Acido Clavulanico|50|111
+Ampicilina|51|111
+Ampicilina/Sulbactam|50|112
+Azitromicina|56|91
+Aztreonam|51|111
+Carbenicilina|57|93
+Cefaclor|73|73
+Cefalotina|51|111
+Cefazolina|51|109
+Cefepime|50|111
+Cefotaxima|50|111
+Cefoxitina|51|111
+Ceftaroline|104|104
+Ceftazidima|50|111
+Ceftriaxona|50|111
+Cefuroxima|51|111
+Cicloserina|80|80
+Ciprofloxacina|50|111
+Claritromicina|64|91
+Clindamicina|50|111
+Cloranfenicol|50|111
+Colistin|50|111
+Doxiciclina|50|110
+Eritromicina|50|111
+Ertapenem|51|112
+Estreptomicina|48|107
+Estreptomicina 300 mcg|96|96
+Etambutol|48|107
+Gentamicina|50|111
+Gentamicina 120 mg|71|108
+Imipenem|50|112
+Isoniazida|48|107
+Kanamicina|63|72
+Levofloxacina|50|111
+Linezolida|56|111
+Lomefloxacina|57|80
+Meropenem|50|112
+Minociclina|50|110
+Moxifloxacina|56|111
+Nitrofurantoina|52|111
+Norfloxacina|55|111
+Ofloxacina|56|109
+Outro Antibiotico 1|63|65
+Outro Antibiotico 2|63|63
+Oxacilina|64|109
+Penicilina|54|111
+Piperacilina|50|109
+Piperacilina/Tazobactam|50|111
+Pirazinamida|72|72
+Polimixina B|50|112
+Quinupristina/dalfopristina|84|84
+Rifampicina|48|108
+Sulfametoxazol/trimetoprim|50|111
+Sulfazotrim|55|107
+Teicoplanina|69|111
+Tetraciclina|50|111
+Ticarcilina|65|103
+Ticarcilina/Acido Clavulanico|50|101
+Tigeciclina|50|111
+Tobramicina|50|111
+Trimetoprim/Sulfametoxazol|52|111
+Vancomicina|50|111

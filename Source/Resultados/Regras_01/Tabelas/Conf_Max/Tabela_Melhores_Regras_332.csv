@@ -1,0 +1,12 @@
+Antecedentes; ; ; ; ; ; ; ;Consequentes; ; ; ; ; ; ; ;Suporte;Confianca
+Estado;Agravo;Sexo;RacaCor;Agente;Antibiotico;Resistencia;FaixaEtaria;Estado;Agravo;Sexo;RacaCor;Agente;Antibiotico;Resistencia;FaixaEtaria
+ ; ; ;NA; ; ;R; ;MS; ; ; ;Mycobacterium sp.; ; ;9;X;0.02
+MS;0; ;NA; ; ;R; ; ; ; ; ; ; ; ; ;X;0
+MS; ; ;NA; ; ;R; ; ;0; ; ; ; ; ; ;X;99.88
+MS; ; ; ; ; ;R; ; ;0; ;NA; ; ; ; ;X;99.88
+MS; ; ;NA; ; ;R; ; ;0; ; ; ; ; ; ;X;99.88
+MS; ; ; ; ; ;R; ; ;0; ;NA; ; ; ; ;X;99.88
+MS;0; ; ; ; ;R; ; ; ; ;NA; ; ; ; ;X;0
+MS;0; ;NA; ;Etambutol; ;9; ; ; ; ; ; ; ; ;X;0
+MS; ; ; ; ; ;R; ; ;0; ;NA; ; ; ; ;X;99.88
+MS; ; ; ; ; ;R; ; ;0; ;NA; ; ; ; ;X;99.88

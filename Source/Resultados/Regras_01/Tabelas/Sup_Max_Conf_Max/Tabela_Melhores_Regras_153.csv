@@ -1,0 +1,12 @@
+Antecedentes; ; ; ; ; ; ; ;Consequentes; ; ; ; ; ; ; ;Suporte;Confianca
+Estado;Agravo;Sexo;RacaCor;Agente;Antibiotico;Resistencia;FaixaEtaria;Estado;Agravo;Sexo;RacaCor;Agente;Antibiotico;Resistencia;FaixaEtaria
+ ; ; ; ; ; ;R; ; ;0; ; ; ; ; ; ;73.49;99.08
+ ; ; ;NA; ; ;R; ; ;0; ; ; ; ; ; ;73.49;99.08
+ ; ; ;NA; ; ;R; ; ;0; ; ; ; ; ; ;73.49;99.08
+ ; ; ; ; ; ;R; ; ;0; ; ; ; ; ; ;73.49;99.08
+ ; ; ;NA; ; ;R; ; ;0; ; ; ; ; ; ;73.49;99.08
+ ; ; ; ; ; ;R; ; ;0; ;NA; ; ; ; ;73.49;99.08
+ ; ; ; ; ; ;R; ; ;0; ;NA; ; ; ; ;73.49;99.08
+RS; ; ; ; ; ; ; ; ;0; ;NA; ; ; ; ;52.45;99.56
+ ; ; ; ; ;Levofloxacina; ; ; ;0; ; ; ; ; ; ;4.29;98.96
+ ; ; ; ; ; ;R; ; ;0; ;NA; ; ; ; ;73.49;99.08

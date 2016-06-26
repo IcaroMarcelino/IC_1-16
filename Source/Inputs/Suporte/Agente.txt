@@ -1,0 +1,10 @@
+Acinetobacter baumannii|50,51,52,53,54,55,56,57,58
+Acinetobacter lwoffii|51,52,53,54,55,56,57,58,59
+Acinetobacter sp.|50,51,52,53,54,55,56,57,58
+Complexo Acinetobacter baumannii|53,54,55,56,57,58,59,60,61
+Klebsiella oxytoca|50,51,52,53,54,55,56,57,58
+Klebsiella pneumoniae subsp. pneumoniae|55,56,57,58,59,60,61,62,63
+Mycobacterium sp.|48,51,52,53,54,55,56,57,58
+Salmonella Enteritidis|55,56,57,58,59,60,62,66,67
+Streptococcus agalactiae hemolitico|61,62,63,65,67,69,70,74,75
+Streptococcus sp.|50,51,53,54,55,56,57,59,60

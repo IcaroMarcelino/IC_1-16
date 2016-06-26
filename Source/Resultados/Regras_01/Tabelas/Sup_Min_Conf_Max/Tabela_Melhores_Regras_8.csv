@@ -1,0 +1,12 @@
+Antecedentes; ; ; ; ; ; ; ;Consequentes; ; ; ; ; ; ; ;Suporte;Confianca
+Estado;Agravo;Sexo;RacaCor;Agente;Antibiotico;Resistencia;FaixaEtaria;Estado;Agravo;Sexo;RacaCor;Agente;Antibiotico;Resistencia;FaixaEtaria
+RS;0; ;NA;Klebsiella pneumoniae subsp. pneumoniae; ;R; ; ; ;F; ; ;Cefotaxima; ;13;0.34;1.07
+ ; ;M; ; ;Imipenem;R; ;PR;0; ;NA;Klebsiella pneumoniae subsp. pneumoniae; ; ;5;0.01;0.2
+ ;0; ;NA; ; ;R; ;RS; ;M; ;Klebsiella pneumoniae subsp. pneumoniae;Piperacilina/Tazobactam; ;13;0.71;0.97
+ ; ;M; ; ;Cefuroxima;R;6;AP; ; ;NA; ; ; ; ;0.0;18.18
+AC;0; ;NA; ;Cefoxitina;R; ; ; ;F; ;Acinetobacter baumannii; ; ;12;0.02;4.1
+ ;0; ;NA; ; ;R; ;CE; ;M; ;Klebsiella pneumoniae subsp. pneumoniae;Meropenem; ;13;0.01;0.01
+ ; ;F;NA;Acinetobacter baumannii;Cefepime;R;13;RS;0; ; ; ; ; ; ;0.17;47.87
+ ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae; ; ;9;RS;0;M;NA; ;Amoxacilina/Acido Clavulanico;R; ;0.04;2.23
+RS; ;M; ; ; ;R;13; ;0; ;NA;Klebsiella pneumoniae subsp. pneumoniae;Amoxacilina/Acido Clavulanico; ; ;0.66;4.74
+RS;0;M;NA; ; ; ;12; ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae;Imipenem;R; ;0.19;3.64

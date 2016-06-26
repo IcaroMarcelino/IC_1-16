@@ -1,0 +1,33 @@
+ES;0;F;PARDA;104;Acinetobacter baumannii;Gentamicina;S;13
+TO;0;F;NA;69;Acinetobacter baumannii;Levofloxacina;S;11
+MG;1;F;BRANCA;76;Salmonella Enteritidis;Ampicilina;S;7
+RS;0;F;NA;82;Klebsiella pneumoniae subsp. pneumoniae;Amicacina;S;13
+RO;0;M;PARDA;105;Acinetobacter baumannii;Ampicilina/Sulbactam;I;12
+PR;0;M;NA;77;Klebsiella pneumoniae subsp. pneumoniae;Amicacina;S;13
+PR;0;F;NA;101;Complexo Acinetobacter baumannii;Ampicilina/Sulbactam;S;13
+AC;0;M;NA;70;Acinetobacter sp.;Meropenem;S;13
+GO;0;M;NA;62;Acinetobacter baumannii;Ciprofloxacina;S;10
+PR;0;F;NA;58;Klebsiella pneumoniae subsp. pneumoniae;Meropenem;S;13
+AC;0;F;NA;71;Acinetobacter sp.;Amicacina;S;13
+AP;0;M;NA;86;Klebsiella oxytoca;Sulfametoxazol/trimetoprim;S;1
+RN;0;F;NA;81;Klebsiella pneumoniae subsp. pneumoniae;Cefuroxima;S;2
+PI;0;M;NA;98;Acinetobacter baumannii;Amicacina;S;12
+RO;0;F;PARDA;105;Acinetobacter sp.;Meropenem;S;10
+GO;0;F;NA;85;Acinetobacter baumannii;Colistin;S;13
+PR;0;M;NA;71;Klebsiella pneumoniae subsp. pneumoniae;Tigeciclina;S;10
+PB;0;M;NA;89;Klebsiella oxytoca;Piperacilina/Tazobactam;S;13
+RS;0;F;NA;101;Klebsiella pneumoniae subsp. pneumoniae;Tigeciclina;S;13
+RN;0;M;NA;80;Klebsiella pneumoniae subsp. pneumoniae;Meropenem;S;1
+PR;0;F;NA;100;Complexo Acinetobacter baumannii;Amicacina;S;13
+AC;0;M;NA;94;Acinetobacter baumannii;Tetraciclina;S;13
+PR;0;M;NA;81;Klebsiella pneumoniae subsp. pneumoniae;Colistin;S;12
+MS;0;M;NA;53;Mycobacterium sp.;Isoniazida;S;8
+CE;0;F;NA;106;Acinetobacter sp.;Amicacina;S;13
+RS;0;M;NA;79;Klebsiella pneumoniae subsp. pneumoniae;Amoxacilina/Acido Clavulanico;S;13
+PI;0;M;PARDA;86;Streptococcus agalactiae hemolitico;Vancomicina;S;7
+RS;0;F;NA;102;Klebsiella pneumoniae subsp. pneumoniae;Amicacina;S;13
+MS;0;M;INDIGENA;57;Mycobacterium sp.;Estreptomicina;S;6
+RS;0;M;NA;101;Klebsiella pneumoniae subsp. pneumoniae;Meropenem;S;7
+RS;0;M;NA;82;Klebsiella pneumoniae subsp. pneumoniae;Cefoxitina;S;13
+RS;0;F;NA;74;Klebsiella pneumoniae subsp. pneumoniae;Amicacina;S;12
+PR;0;M;NA;77;Acinetobacter baumannii;Colistin;S;13

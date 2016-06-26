@@ -1,0 +1,18 @@
+RS;0;M;PRETA;89;Klebsiella pneumoniae subsp. pneumoniae;Cefepime;R;10
+TO;0;F;NA;69;Acinetobacter baumannii;Amicacina;S;11
+AC;0;F;NA;72;Acinetobacter sp.;Aztreonam;S;13
+PR;0;M;NA;72;Klebsiella oxytoca;Meropenem;S;13
+MS;0;M;NA;55;Mycobacterium sp.;Isoniazida;S;9
+ES;0;F;PARDA;106;Acinetobacter baumannii;Doxiciclina;S;13
+AC;0;M;NA;90;Acinetobacter baumannii;Ciprofloxacina;S;13
+AC;0;M;NA;107;Acinetobacter baumannii;Polimixina B;S;12
+GO;0;M;NA;74;Acinetobacter baumannii;Gentamicina;S;11
+TO;0;F;NA;57;Acinetobacter baumannii;Ceftriaxona;S;8
+CE;0;M;NA;88;Streptococcus sp.;Rifampicina;S;4
+RR;0;F;NA;107;Acinetobacter baumannii;Piperacilina/Tazobactam;S;1
+AP;0;F;NA;103;Acinetobacter baumannii;Colistin;S;9
+PR;0;M;NA;72;Acinetobacter lwoffii;Levofloxacina;S;3
+PI;0;F;NA;69;Streptococcus sp.;Clindamicina;S;4
+SE;0;F;NA;80;Acinetobacter baumannii;Ciprofloxacina;S;2
+MS;0;M;NA;60;Mycobacterium sp.;Isoniazida;S;11
+AP;0;F;NA;101;Acinetobacter baumannii;Ampicilina/Sulbactam;S;11

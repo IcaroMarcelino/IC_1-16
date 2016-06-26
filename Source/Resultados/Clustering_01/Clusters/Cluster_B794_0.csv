@@ -1,0 +1,9 @@
+RS;0;F;NA;108;Klebsiella pneumoniae subsp. pneumoniae;Piperacilina/Tazobactam;I;13
+PR;0;M;BRANCA;96;Klebsiella pneumoniae subsp. pneumoniae;Tigeciclina;I;13
+RS;0;M;NA;99;Klebsiella pneumoniae subsp. pneumoniae;Tigeciclina;I;13
+CE;0;M;NA;93;Acinetobacter baumannii;Amicacina;R;12
+PI;0;M;PARDA;96;Acinetobacter baumannii;Ceftazidima;I;10
+AP;0;F;NA;88;Acinetobacter baumannii;Ampicilina/Sulbactam;I;12
+RS;0;M;NA;97;Klebsiella pneumoniae subsp. pneumoniae;Tigeciclina;I;13
+RS;0;F;BRANCA;91;Acinetobacter baumannii;Tobramicina;I;10
+RS;0;M;BRANCA;81;Klebsiella pneumoniae subsp. pneumoniae;Imipenem;S;1

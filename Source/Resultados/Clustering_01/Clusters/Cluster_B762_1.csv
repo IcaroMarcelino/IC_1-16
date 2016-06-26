@@ -1,0 +1,35 @@
+PR;0;M;NA;78;Acinetobacter baumannii;Doxiciclina;S;13
+PR;0;F;BRANCA;80;Klebsiella pneumoniae subsp. pneumoniae;Colistin;S;13
+RS;0;F;NA;102;Klebsiella pneumoniae subsp. pneumoniae;Amicacina;S;11
+GO;0;M;NA;56;Acinetobacter baumannii;Tetraciclina;S;12
+PR;0;F;NA;63;Acinetobacter baumannii;Colistin;S;12
+PR;0;F;NA;72;Klebsiella pneumoniae subsp. pneumoniae;Colistin;S;13
+AL;0;M;NA;68;Acinetobacter baumannii;Tigeciclina;S;9
+AC;0;M;NA;87;Klebsiella oxytoca;Meropenem;S;13
+MS;0;M;NA;72;Mycobacterium sp.;Estreptomicina;S;13
+PI;0;M;NA;92;Acinetobacter baumannii;Colistin;S;13
+RS;0;M;NA;80;Klebsiella pneumoniae subsp. pneumoniae;Amicacina;S;10
+SE;0;M;NA;84;Acinetobacter lwoffii;Cefepime;S;12
+PA;0;F;NA;110;Acinetobacter baumannii;Piperacilina/Tazobactam;S;11
+RS;0;M;NA;103;Klebsiella oxytoca;Trimetoprim/Sulfametoxazol;S;10
+RS;0;M;NA;85;Klebsiella pneumoniae subsp. pneumoniae;Imipenem;S;13
+MG;0;M;NA;63;Klebsiella oxytoca;Amicacina;S;13
+GO;0;F;NA;62;Acinetobacter baumannii;Cefepime;S;13
+PR;0;M;NA;84;Acinetobacter baumannii;Tobramicina;S;13
+PR;0;F;NA;78;Complexo Acinetobacter baumannii;Minociclina;S;13
+MG;1;F;PARDA;87;Streptococcus agalactiae hemolitico;Ampicilina;S;1
+PR;0;M;NA;98;Acinetobacter baumannii;Tigeciclina;S;12
+AC;0;M;NA;79;Acinetobacter sp.;Piperacilina/Tazobactam;S;13
+RS;0;M;NA;98;Klebsiella pneumoniae subsp. pneumoniae;Tigeciclina;S;13
+RS;0;M;NA;81;Acinetobacter baumannii;Tobramicina;S;13
+MS;0;M;NA;65;Mycobacterium sp.;Isoniazida;S;9
+PE;0;F;NA;60;Acinetobacter lwoffii;Ceftazidima;I;6
+PR;0;M;NA;76;Klebsiella pneumoniae subsp. pneumoniae;Imipenem;S;13
+AC;0;M;NA;111;Acinetobacter baumannii;Levofloxacina;S;13
+PR;1;M;PARDA;56;Streptococcus sp.;Eritromicina;S;11
+GO;0;M;NA;54;Acinetobacter baumannii;Sulfametoxazol/trimetoprim;S;10
+RN;0;M;NA;90;Klebsiella pneumoniae subsp. pneumoniae;Meropenem;S;13
+PA;0;F;PARDA;91;Klebsiella pneumoniae subsp. pneumoniae;Cefalotina;S;6
+RS;0;F;NA;97;Klebsiella pneumoniae subsp. pneumoniae;Cefoxitina;S;13
+RS;0;F;NA;103;Klebsiella pneumoniae subsp. pneumoniae;Colistin;S;13
+GO;0;M;NA;106;Acinetobacter baumannii;Ciprofloxacina;S;13

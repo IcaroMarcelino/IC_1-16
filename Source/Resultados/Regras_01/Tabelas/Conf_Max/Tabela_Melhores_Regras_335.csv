@@ -1,0 +1,12 @@
+Antecedentes; ; ; ; ; ; ; ;Consequentes; ; ; ; ; ; ; ;Suporte;Confianca
+Estado;Agravo;Sexo;RacaCor;Agente;Antibiotico;Resistencia;FaixaEtaria;Estado;Agravo;Sexo;RacaCor;Agente;Antibiotico;Resistencia;FaixaEtaria
+ ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae;Ertapenem;R; ; ;0; ; ; ; ; ; ;X;99.98
+ ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae;Ertapenem;R; ; ;0; ; ; ; ; ; ;X;99.98
+ ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae;Ertapenem;R; ; ;0; ; ; ; ; ; ;X;99.98
+ ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae;Ertapenem; ;11; ;0; ; ; ; ;R; ;X;89.66
+ ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae; ; ; ; ;0; ; ; ; ; ; ;X;99.62
+ ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae; ;R; ; ; ; ; ; ; ; ; ;X;0
+ ; ; ;NA;Klebsiella pneumoniae subsp. pneumoniae;Ertapenem;R; ; ;0; ; ; ; ; ; ;X;99.98
+ ; ; ;NA; ; ; ; ; ;0; ; ;Klebsiella pneumoniae subsp. pneumoniae; ;R; ;X;0
+RS;0; ; ;Klebsiella pneumoniae subsp. pneumoniae; ; ; ; ; ; ; ; ;Ertapenem; ;11;X;0.46
+ ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae;Ertapenem;R; ; ;0; ; ; ; ; ; ;X;99.98

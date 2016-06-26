@@ -1,0 +1,10 @@
+RN;0;F;NA;74;Acinetobacter baumannii;Tetraciclina;I;13
+GO;0;M;NA;106;Acinetobacter baumannii;Tetraciclina;S;2
+RS;0;M;NA;68;Klebsiella pneumoniae subsp. pneumoniae;Imipenem;I;13
+MS;0;M;NA;64;Mycobacterium sp.;Rifampicina;R;11
+GO;0;M;NA;109;Acinetobacter baumannii;Colistin;S;13
+PI;0;F;NA;92;Acinetobacter baumannii;Amicacina;S;13
+GO;0;F;NA;105;Acinetobacter baumannii;Colistin;S;11
+AC;0;M;NA;105;Acinetobacter baumannii;Amicacina;S;11
+RS;0;F;NA;98;Salmonella Enteritidis;Estreptomicina;S;8
+PR;0;M;NA;96;Complexo Acinetobacter baumannii;Colistin;S;9

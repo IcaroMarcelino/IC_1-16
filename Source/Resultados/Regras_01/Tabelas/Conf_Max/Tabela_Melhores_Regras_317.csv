@@ -1,0 +1,12 @@
+Antecedentes; ; ; ; ; ; ; ;Consequentes; ; ; ; ; ; ; ;Suporte;Confianca
+Estado;Agravo;Sexo;RacaCor;Agente;Antibiotico;Resistencia;FaixaEtaria;Estado;Agravo;Sexo;RacaCor;Agente;Antibiotico;Resistencia;FaixaEtaria
+ ; ;M;NA; ; ; ; ;RS; ; ; ; ;Ceftriaxona;R;13;X;1.63
+ ; ; ; ; ;Ceftriaxona; ; ; ;0; ; ; ; ; ; ;X;98.9
+ ; ; ;NA; ;Ceftriaxona; ; ;RS; ;M; ; ; ;R;13;X;18.73
+ ; ; ;NA; ;Ceftriaxona; ; ;RS; ; ; ; ; ;R;13;X;33.8
+ ; ; ;NA; ; ;R; ; ;0; ; ; ;Ceftriaxona; ;13;X;3.31
+ ; ; ;NA; ;Ceftriaxona;R; ;RS; ; ; ; ; ; ;13;X;37.37
+ ; ;M; ; ; ; ;13; ;0; ; ; ;Ceftriaxona;R; ;X;4.93
+ ;0; ; ; ; ;R;13; ; ; ;NA; ;Ceftriaxona; ; ;X;6.31
+ ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae;Ceftriaxona; ;13; ;0; ; ; ; ; ; ;X;99.92
+ ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae; ;R; ; ;0; ; ; ; ; ;13;X;57.33

@@ -1,0 +1,33 @@
+AC;0;M;NA;99;Acinetobacter baumannii;Levofloxacina;S;4
+CE;0;F;NA;101;Streptococcus sp.;Nitrofurantoina;S;7
+PI;0;F;NA;92;Acinetobacter baumannii;Ampicilina/Sulbactam;S;6
+PE;0;F;NA;55;Acinetobacter sp.;Imipenem;S;12
+RS;1;F;BRANCA;98;Klebsiella pneumoniae subsp. pneumoniae;Amicacina;S;11
+PR;0;F;NA;61;Complexo Acinetobacter baumannii;Colistin;S;13
+RS;0;M;BRANCA;101;Klebsiella pneumoniae subsp. pneumoniae;Ciprofloxacina;R;12
+RS;0;F;NA;102;Klebsiella pneumoniae subsp. pneumoniae;Tigeciclina;S;13
+TO;0;M;NA;73;Klebsiella oxytoca;Meropenem;S;13
+MG;1;M;NA;102;Klebsiella pneumoniae subsp. pneumoniae;Tigeciclina;S;12
+RS;0;F;NA;83;Klebsiella oxytoca;Gentamicina;S;13
+RS;0;M;BRANCA;104;Klebsiella pneumoniae subsp. pneumoniae;Colistin;S;13
+MS;0;M;NA;59;Mycobacterium sp.;Rifampicina;S;10
+RS;0;M;NA;79;Klebsiella pneumoniae subsp. pneumoniae;Tobramicina;S;10
+PR;0;F;NA;81;Klebsiella pneumoniae subsp. pneumoniae;Ciprofloxacina;S;1
+RS;0;F;NA;85;Klebsiella pneumoniae subsp. pneumoniae;Amicacina;S;12
+RO;0;M;AMARELA;107;Acinetobacter baumannii;Colistin;S;6
+RS;0;M;NA;66;Klebsiella pneumoniae subsp. pneumoniae;Cefoxitina;S;10
+PR;0;F;BRANCA;102;Complexo Acinetobacter baumannii;Tigeciclina;S;10
+PE;0;F;NA;53;Acinetobacter sp.;Imipenem;S;7
+PI;0;F;NA;91;Acinetobacter baumannii;Ampicilina/Sulbactam;S;10
+GO;0;M;NA;64;Acinetobacter baumannii;Sulfametoxazol/trimetoprim;S;9
+MS;0;F;NA;69;Mycobacterium sp.;Rifampicina;S;12
+RS;0;M;NA;85;Klebsiella pneumoniae subsp. pneumoniae;Tobramicina;S;13
+PR;0;M;NA;100;Klebsiella pneumoniae subsp. pneumoniae;Colistin;S;13
+PR;1;M;PARDA;56;Streptococcus sp.;Clindamicina;S;11
+RS;0;F;NA;93;Klebsiella pneumoniae subsp. pneumoniae;Nitrofurantoina;S;13
+GO;0;M;NA;59;Acinetobacter lwoffii;Tetraciclina;S;10
+PI;0;M;NA;93;Acinetobacter baumannii;Gentamicina;S;13
+RN;0;F;NA;78;Klebsiella oxytoca;Cefoxitina;S;12
+RS;0;F;NA;110;Klebsiella pneumoniae subsp. pneumoniae;Colistin;S;6
+PR;0;M;NA;98;Acinetobacter baumannii;Amicacina;S;12
+RN;0;F;NA;101;Klebsiella pneumoniae subsp. pneumoniae;Amicacina;S;12

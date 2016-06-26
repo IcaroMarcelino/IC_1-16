@@ -1,0 +1,12 @@
+Antecedentes; ; ; ; ; ; ; ;Consequentes; ; ; ; ; ; ; ;Suporte;Confianca
+Estado;Agravo;Sexo;RacaCor;Agente;Antibiotico;Resistencia;FaixaEtaria;Estado;Agravo;Sexo;RacaCor;Agente;Antibiotico;Resistencia;FaixaEtaria
+ ; ; ; ; ; ; ; ; ;0; ; ; ; ;R; ;0;0
+ ;0; ; ; ;Levofloxacina; ; ;RS; ; ;NA; ; ;R; ;2.91;67.75
+ ; ; ; ; ; ;R; ; ;0; ;NA; ; ; ; ;73.47;99.08
+ ; ; ; ; ; ;R; ; ;0; ;NA; ; ; ; ;73.47;99.08
+ ; ; ;NA; ; ;R; ; ;0; ; ; ; ; ; ;73.47;99.08
+ ; ; ; ; ; ;R; ; ;0; ;NA; ; ; ; ;73.47;99.08
+RS; ; ;NA; ; ;R;13; ; ; ; ; ; ; ; ;0;0
+ ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae; ; ; ; ; ; ; ; ; ; ; ;0;0
+ ; ; ; ; ; ;R; ; ; ; ; ; ; ; ; ;0;0
+ ; ; ;NA; ; ; ; ;RS;0; ; ; ; ; ; ;0;0

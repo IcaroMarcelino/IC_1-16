@@ -1,0 +1,36 @@
+AC;0;M;NA;78;Acinetobacter sp.;Imipenem;S;11
+RN;0;M;NA;100;Klebsiella pneumoniae subsp. pneumoniae;Cefepime;S;11
+PI;0;M;NA;97;Acinetobacter baumannii;Cefepime;S;13
+RJ;0;M;NA;106;Klebsiella oxytoca;Amicacina;S;13
+RS;0;M;BRANCA;107;Klebsiella pneumoniae subsp. pneumoniae;Colistin;S;13
+AP;0;F;NA;100;Acinetobacter baumannii;Ciprofloxacina;S;5
+PR;0;M;NA;77;Klebsiella pneumoniae subsp. pneumoniae;Colistin;S;13
+RS;0;F;BRANCA;100;Acinetobacter baumannii;Amicacina;R;13
+MS;0;F;NA;75;Mycobacterium sp.;Estreptomicina;S;5
+AP;0;M;NA;83;Klebsiella oxytoca;Piperacilina/Tazobactam;S;1
+RS;0;M;NA;75;Klebsiella pneumoniae subsp. pneumoniae;Amicacina;S;13
+RS;0;F;NA;91;Klebsiella pneumoniae subsp. pneumoniae;Imipenem;S;13
+AC;0;M;NA;64;Klebsiella oxytoca;Amicacina;S;10
+AC;0;M;NA;87;Acinetobacter baumannii;Levofloxacina;S;9
+RS;0;F;NA;80;Klebsiella pneumoniae subsp. pneumoniae;Trimetoprim/Sulfametoxazol;S;13
+RS;0;F;BRANCA;95;Klebsiella pneumoniae subsp. pneumoniae;Cefepime;S;13
+RS;0;F;NA;89;Klebsiella pneumoniae subsp. pneumoniae;Gentamicina;S;7
+RS;0;F;NA;108;Klebsiella pneumoniae subsp. pneumoniae;Colistin;S;12
+AP;0;F;BRANCA;105;Streptococcus agalactiae hemolitico;Penicilina;S;8
+RS;0;M;BRANCA;88;Acinetobacter lwoffii;Amicacina;S;9
+AC;0;F;AMARELA;107;Klebsiella oxytoca;Amoxacilina/Acido Clavulanico;S;8
+PE;0;F;NA;69;Streptococcus agalactiae hemolitico;Ciprofloxacina;S;6
+RN;0;M;NA;102;Acinetobacter baumannii;Ciprofloxacina;S;2
+AP;0;F;NA;85;Acinetobacter baumannii;Imipenem;S;1
+AC;0;F;NA;103;Acinetobacter baumannii;Polimixina B;S;13
+AC;0;F;NA;88;Acinetobacter baumannii;Acido Nalidixico;S;9
+RS;0;M;PRETA;102;Klebsiella pneumoniae subsp. pneumoniae;Amicacina;S;7
+RS;0;F;NA;98;Klebsiella pneumoniae subsp. pneumoniae;Amicacina;S;13
+RN;0;F;NA;94;Klebsiella pneumoniae subsp. pneumoniae;Amicacina;S;2
+RS;0;F;NA;88;Salmonella Enteritidis;Cefoxitina;S;3
+RO;0;M;PRETA;104;Acinetobacter baumannii;Tigeciclina;S;13
+PR;0;M;NA;76;Klebsiella pneumoniae subsp. pneumoniae;Meropenem;S;13
+PR;0;F;NA;84;Streptococcus agalactiae hemolitico;Quinupristina/dalfopristina;S;12
+RS;0;F;BRANCA;99;Acinetobacter baumannii;Trimetoprim/Sulfametoxazol;S;13
+RS;0;F;NA;75;Acinetobacter baumannii;Tobramicina;S;12
+PR;0;F;NA;65;Acinetobacter baumannii;Tobramicina;S;5

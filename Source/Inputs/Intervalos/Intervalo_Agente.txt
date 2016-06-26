@@ -1,0 +1,10 @@
+Acinetobacter baumannii|50|112
+Acinetobacter lwoffii|51|111
+Acinetobacter sp.|50|111
+Complexo Acinetobacter baumannii|53|109
+Klebsiella oxytoca|50|111
+Klebsiella pneumoniae subsp. pneumoniae|55|111
+Mycobacterium sp.|48|107
+Salmonella Enteritidis|55|109
+Streptococcus agalactiae hemolitico|61|111
+Streptococcus sp.|50|111

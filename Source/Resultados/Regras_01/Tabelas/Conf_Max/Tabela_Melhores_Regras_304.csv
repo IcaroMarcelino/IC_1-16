@@ -1,0 +1,12 @@
+Antecedentes; ; ; ; ; ; ; ;Consequentes; ; ; ; ; ; ; ;Suporte;Confianca
+Estado;Agravo;Sexo;RacaCor;Agente;Antibiotico;Resistencia;FaixaEtaria;Estado;Agravo;Sexo;RacaCor;Agente;Antibiotico;Resistencia;FaixaEtaria
+ ; ; ;NA; ;Cefoxitina;R;13; ;0; ; ; ; ; ; ;X;99.96
+ ; ; ; ; ;Cefoxitina;R;13; ;0; ;NA; ; ; ; ;X;99.96
+ ; ; ; ; ;Cefoxitina;R;13; ;0; ;NA; ; ; ; ;X;99.96
+ ; ; ;NA; ;Cefoxitina;R;13; ;0; ; ; ; ; ; ;X;99.96
+ ; ; ; ; ;Cefoxitina;R;13; ;0; ; ; ; ; ; ;X;99.96
+ ; ; ; ; ;Cefoxitina;R;13; ;0; ;NA; ; ; ; ;X;99.96
+ ; ; ; ; ;Cefoxitina;R;13; ;0; ;NA; ; ; ; ;X;99.96
+ ; ; ; ; ;Cefoxitina;R;13; ;0; ;NA; ; ; ; ;X;99.96
+ ; ; ; ; ;Cefoxitina;R;13; ;0; ; ; ; ; ; ;X;99.96
+ ; ; ; ; ; ; ; ; ;0; ;NA; ;Cefoxitina;R;13;X;0

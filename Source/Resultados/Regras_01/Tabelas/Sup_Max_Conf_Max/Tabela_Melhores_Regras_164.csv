@@ -1,0 +1,12 @@
+Antecedentes; ; ; ; ; ; ; ;Consequentes; ; ; ; ; ; ; ;Suporte;Confianca
+Estado;Agravo;Sexo;RacaCor;Agente;Antibiotico;Resistencia;FaixaEtaria;Estado;Agravo;Sexo;RacaCor;Agente;Antibiotico;Resistencia;FaixaEtaria
+ ; ; ; ; ; ;R; ; ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae; ; ; ;46.03;62.1
+ ; ; ; ; ; ;R;12; ;0; ; ; ;Cefotaxima; ; ;0.35;2.96
+ ; ; ; ; ; ; ; ; ;0; ;NA; ; ;R; ;0;0
+ ; ; ; ; ; ;R; ; ;0; ; ; ; ; ; ;73.45;99.08
+ ; ; ; ; ; ;R; ; ;0; ; ; ; ; ; ;73.45;99.08
+ ; ; ; ; ; ;R; ; ; ; ; ; ; ; ; ;0;0
+ ; ; ; ; ; ;R; ; ;0; ;NA; ; ; ; ;73.45;99.08
+ ; ; ; ; ; ;R; ; ;0; ; ; ; ; ; ;73.45;99.08
+ ; ; ; ; ; ;R; ; ;0; ; ; ; ; ; ;73.45;99.08
+ ; ; ; ; ; ;R; ; ;0; ; ; ; ; ; ;73.45;99.08

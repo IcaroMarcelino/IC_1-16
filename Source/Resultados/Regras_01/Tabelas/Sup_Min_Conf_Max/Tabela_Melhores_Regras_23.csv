@@ -1,0 +1,12 @@
+Antecedentes; ; ; ; ; ; ; ;Consequentes; ; ; ; ; ; ; ;Suporte;Confianca
+Estado;Agravo;Sexo;RacaCor;Agente;Antibiotico;Resistencia;FaixaEtaria;Estado;Agravo;Sexo;RacaCor;Agente;Antibiotico;Resistencia;FaixaEtaria
+ ; ;F; ; ; ;R;9;RS;0; ; ;Klebsiella pneumoniae subsp. pneumoniae;Gentamicina; ; ;0.02;1.93
+ ;0;F;BRANCA;Klebsiella pneumoniae subsp. pneumoniae; ; ; ;RS; ; ; ; ;Cefalotina;R;12;0.0;0.08
+RS; ;M; ; ;Amoxacilina/Acido Clavulanico; ;13; ;0; ;NA;Klebsiella pneumoniae subsp. pneumoniae; ;R; ;0.66;93.61
+RS;0;F; ; ;Tigeciclina; ;13; ; ; ;NA;Klebsiella pneumoniae subsp. pneumoniae; ;R; ;0.09;37.2
+ ; ;M; ; ; ; ; ;RS;0; ;NA;Klebsiella pneumoniae subsp. pneumoniae;Amicacina;I;1;0.01;0.01
+ ;0; ; ;Klebsiella oxytoca; ; ;12;TO; ;F;NA; ;Gentamicina; ; ;0.0;0.2
+ ; ;F; ;Acinetobacter sp.; ; ; ;AC;0; ; ; ;Cefoxitina;R;2;0.0;0.18
+TO; ; ; ;Klebsiella oxytoca; ;S;12; ;0;F;NA; ; ; ; ;0.02;34.62
+ ; ;M;NA; ; ; ; ;PR;0; ; ;Klebsiella pneumoniae subsp. pneumoniae;Imipenem;R;13;0.21;0.35
+RS;0;F;BRANCA; ; ;R; ; ; ; ; ;Acinetobacter baumannii;Piperacilina/Tazobactam; ;13;0.06;1.67

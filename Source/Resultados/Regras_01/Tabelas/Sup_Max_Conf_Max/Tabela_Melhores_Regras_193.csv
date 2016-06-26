@@ -1,0 +1,12 @@
+Antecedentes; ; ; ; ; ; ; ;Consequentes; ; ; ; ; ; ; ;Suporte;Confianca
+Estado;Agravo;Sexo;RacaCor;Agente;Antibiotico;Resistencia;FaixaEtaria;Estado;Agravo;Sexo;RacaCor;Agente;Antibiotico;Resistencia;FaixaEtaria
+ ;0; ; ; ; ;R; ; ; ; ; ; ;Meropenem; ; ;5.21;7.09
+ ;0; ; ; ; ;R; ; ; ; ; ; ;Meropenem; ; ;5.21;7.09
+ ; ; ;NA; ; ;R; ; ;0; ; ; ; ; ; ;73.48;99.08
+ ; ; ; ; ; ;R; ; ;0; ; ; ; ; ; ;73.48;99.08
+ ; ; ;NA; ; ; ;13; ;0; ; ; ;Meropenem; ; ;3.16;6.37
+ ; ; ; ; ; ;R; ; ; ; ; ; ; ; ; ;0;0
+ ; ; ; ; ; ;R; ; ;0; ; ; ; ; ; ;73.48;99.08
+ ; ; ; ; ;Meropenem;R; ; ;0;F; ; ; ; ; ;2.09;39.83
+ ; ; ; ; ; ;R; ; ; ; ; ; ; ; ; ;0;0
+ ; ; ; ; ; ;R; ; ;0; ; ; ; ; ; ;73.48;99.08

@@ -1,0 +1,12 @@
+Antecedentes; ; ; ; ; ; ; ;Consequentes; ; ; ; ; ; ; ;Suporte;Confianca
+Estado;Agravo;Sexo;RacaCor;Agente;Antibiotico;Resistencia;FaixaEtaria;Estado;Agravo;Sexo;RacaCor;Agente;Antibiotico;Resistencia;FaixaEtaria
+ ; ; ; ; ;Ampicilina;R; ;RS;0; ; ;Klebsiella pneumoniae subsp. pneumoniae; ; ; ;X;55.47
+RS; ; ; ;Klebsiella pneumoniae subsp. pneumoniae;Ampicilina; ;13; ; ; ; ; ; ;R; ;X;99.95
+ ; ; ; ; ; ;R;13; ; ; ; ; ; ; ; ;X;0
+ ; ; ;NA; ; ;R; ; ;0; ; ;Klebsiella pneumoniae subsp. pneumoniae; ; ; ;X;61.98
+ ;0; ; ; ; ; ; ;RS; ; ; ;Klebsiella pneumoniae subsp. pneumoniae;Ampicilina;R;13;X;1.35
+ ; ; ; ; ; ; ; ; ;0; ; ;Klebsiella pneumoniae subsp. pneumoniae;Ampicilina;R;13;X;0
+RS; ; ; ;Klebsiella pneumoniae subsp. pneumoniae;Ampicilina; ;13; ; ; ; ; ; ;R; ;X;99.95
+ ; ; ; ; ;Ampicilina; ;13; ;0; ; ; ; ;R; ;X;98.97
+RS; ; ; ; ; ; ; ; ; ; ;NA;Klebsiella pneumoniae subsp. pneumoniae; ; ;13;X;44.57
+ ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae;Ampicilina; ;13; ;0; ; ; ; ;R; ;X;99.79

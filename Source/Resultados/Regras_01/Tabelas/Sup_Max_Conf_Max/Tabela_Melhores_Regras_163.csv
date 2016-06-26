@@ -1,0 +1,12 @@
+Antecedentes; ; ; ; ; ; ; ;Consequentes; ; ; ; ; ; ; ;Suporte;Confianca
+Estado;Agravo;Sexo;RacaCor;Agente;Antibiotico;Resistencia;FaixaEtaria;Estado;Agravo;Sexo;RacaCor;Agente;Antibiotico;Resistencia;FaixaEtaria
+ ; ;M; ; ; ; ; ; ;0; ;NA; ; ; ; ;58.62;98.82
+ ; ;M;NA; ; ; ; ; ;0; ; ; ; ; ; ;58.62;98.82
+ ;0; ; ; ; ; ; ; ; ; ; ; ; ; ; ;0;0
+ ; ; ; ; ;Cefepime; ;13; ; ; ; ; ; ;I; ;0;0
+ ; ;M; ; ; ; ; ; ;0; ; ; ; ; ; ;58.62;98.82
+ ; ;M; ; ; ; ; ; ;0; ; ; ; ; ; ;58.62;98.82
+ ; ;M; ; ;Cefepime; ; ; ;0; ; ; ; ; ; ;3.74;98.74
+ ; ; ; ; ; ; ; ; ;0; ;NA; ; ; ; ;0;0
+RS;0;M;NA; ; ; ; ; ; ; ; ; ; ;I; ;3.78;12.46
+ ;0;M; ; ; ; ; ; ; ; ; ; ; ; ; ;0;0

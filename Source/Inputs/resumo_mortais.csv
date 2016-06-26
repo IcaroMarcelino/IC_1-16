@@ -1,0 +1,11 @@
+Resumo da Base Nacional sem Medicamentos - 10 agentes mais mortais;;;;;;;
+Variavel;Missing Values(%);Niveis;Variacao;Valor menos frequente;Ocorrencias;Valor mais frequente;Ocorrencias2
+Estado;0;22;AC ~ TO;MT;5;RS;80945
+Agravo;0;2;0 ~ 1;1;1868;0;153239
+Sexo;0;3;F ~ M;I;414;M;90955
+RacaCor;81;5;AMARELA ~ PRETA;INDIGENA;155;BRANCA;21479
+Meses;0;64;48 ~ 112;48;4;93;5775
+Agente;0;10;Acinetobacter baumannii ~ Streptococcus sp.;Streptococcus agalactiae hemolitico;439;Klebsiella pneumoniae subsp. pneumoniae;88976
+Antibiotico;0;65;Acido Nalidixico ~ Vancomicina;Cefaclor;1;Ciprofloxacina;10059
+Resistencia;0;3;I ~ S;I;5801;R;113960
+FaixaEtaria;0;13;1 ~ 13;2;1150;13;76277

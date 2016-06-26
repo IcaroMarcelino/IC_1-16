@@ -1,0 +1,12 @@
+Antecedentes; ; ; ; ; ; ; ;Consequentes; ; ; ; ; ; ; ;Suporte;Confianca
+Estado;Agravo;Sexo;RacaCor;Agente;Antibiotico;Resistencia;FaixaEtaria;Estado;Agravo;Sexo;RacaCor;Agente;Antibiotico;Resistencia;FaixaEtaria
+ ; ; ; ;Acinetobacter baumannii; ; ; ; ; ; ;NA; ; ;R; ;19.87;72.28
+ ; ;F;BRANCA;Klebsiella pneumoniae subsp. pneumoniae; ;R; ;RS;1; ; ; ;Ciprofloxacina; ;13;0;0
+RS; ; ; ; ; ;R;13; ; ; ;NA; ;Cefoxitina; ; ;1.16;4.56
+AC; ;M; ;Acinetobacter baumannii;Ceftazidima;R; ; ;0; ;NA; ; ; ;13;0.03;28.26
+MG; ; ;NA; ;Piperacilina/Tazobactam; ;13; ;0;M; ;Acinetobacter baumannii; ;R; ;0.01;40.54
+ ;0; ;BRANCA; ; ; ;13;RS; ;F; ;Klebsiella pneumoniae subsp. pneumoniae;Cefepime;R; ;0.08;1.02
+PR; ;M;NA; ;Ciprofloxacina; ; ; ;0; ; ;Klebsiella pneumoniae subsp. pneumoniae; ;R;13;0.25;33.39
+ ;0; ; ;Acinetobacter baumannii; ; ; ; ; ; ;NA; ; ; ;12;3.97;14.62
+ ;0;F;BRANCA;Klebsiella pneumoniae subsp. pneumoniae;Amicacina; ;13;PR; ; ; ; ; ;S; ;0.0;3.01
+ ;0; ; ; ; ;S;3; ; ;M;NA;Klebsiella pneumoniae subsp. pneumoniae; ; ; ;0.02;5.92

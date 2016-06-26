@@ -1,0 +1,10 @@
+Acinetobacter baumannii|42433|2100|30671|9662
+Acinetobacter lwoffii|1025|49|314|662
+Acinetobacter sp.|6830|151|4416|2263
+Complexo Acinetobacter baumannii|5338|329|3463|1546
+Klebsiella oxytoca|6361|194|3797|2370
+Klebsiella pneumoniae subsp. pneumoniae|88976|2937|70764|15275
+Mycobacterium sp.|2112|0|190|1922
+Salmonella Enteritidis|605|6|86|513
+Streptococcus agalactiae hemolitico|439|5|52|382
+Streptococcus sp.|988|30|207|751

@@ -1,0 +1,12 @@
+Antecedentes; ; ; ; ; ; ; ;Consequentes; ; ; ; ; ; ; ;Suporte;Confianca
+Estado;Agravo;Sexo;RacaCor;Agente;Antibiotico;Resistencia;FaixaEtaria;Estado;Agravo;Sexo;RacaCor;Agente;Antibiotico;Resistencia;FaixaEtaria
+ ; ; ; ; ; ; ; ; ;0; ;NA; ; ;R; ;0;0
+ ; ; ;NA; ; ;R; ; ; ; ; ; ; ; ; ;0;0
+ ; ; ; ; ; ;R; ; ;0; ; ; ; ; ; ;73.49;99.08
+ ; ; ; ; ; ;R; ; ;0; ; ; ; ; ; ;73.49;99.08
+ ; ; ;NA; ; ;R; ; ;0; ; ; ; ; ; ;73.49;99.08
+ ; ; ; ; ; ;R; ; ;0; ;NA; ; ; ; ;73.49;99.08
+ ; ; ; ; ; ;R; ; ;0; ; ; ; ; ; ;73.49;99.08
+ ;0; ;NA; ;Ampicilina; ;13; ; ; ; ; ; ;R; ;2.12;99.09
+ ; ; ;NA; ; ; ; ; ;0; ; ; ; ; ; ;0;0
+ ; ; ; ; ; ;R; ; ;0; ;NA; ; ; ; ;73.49;99.08

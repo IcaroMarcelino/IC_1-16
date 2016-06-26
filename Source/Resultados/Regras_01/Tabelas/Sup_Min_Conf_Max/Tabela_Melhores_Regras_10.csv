@@ -1,0 +1,12 @@
+Antecedentes; ; ; ; ; ; ; ;Consequentes; ; ; ; ; ; ; ;Suporte;Confianca
+Estado;Agravo;Sexo;RacaCor;Agente;Antibiotico;Resistencia;FaixaEtaria;Estado;Agravo;Sexo;RacaCor;Agente;Antibiotico;Resistencia;FaixaEtaria
+TO; ; ; ; ; ;I;13; ;0; ;NA; ;Ciprofloxacina; ; ;0.05;2.76
+ ; ; ;NA; ;Tobramicina;R; ;RS; ;M; ; ; ; ; ;0.84;49.79
+RS; ; ;NA;Klebsiella pneumoniae subsp. pneumoniae;Trimetoprim/Sulfametoxazol; ; ; ;0;F; ; ; ;R;10;0.02;0.84
+RS; ; ; ; ; ;R; ; ; ;M; ; ;Tobramicina; ; ;0.84;1.92
+ ; ; ;NA;Acinetobacter baumannii; ;R;13;RS;0;M; ; ;Tobramicina; ; ;0.11;1.14
+ ;0; ; ;Klebsiella pneumoniae subsp. pneumoniae; ; ;13;RS; ;F;NA; ;Ceftriaxona;R; ;0.58;1.8
+ ; ;M; ; ; ; ;13;RS;0; ;NA; ; ; ; ;16.73;60.81
+RS;0; ;NA; ;Ceftriaxona;R; ; ; ;M; ;Acinetobacter baumannii; ; ;11;0.06;1.89
+ ;0; ;NA; ;Ceftriaxona;I;13;AP; ;M; ;Acinetobacter baumannii; ; ; ;0.25;0.5
+TO; ;F;NA; ; ;I; ; ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae; ; ;13;1.01;26.89

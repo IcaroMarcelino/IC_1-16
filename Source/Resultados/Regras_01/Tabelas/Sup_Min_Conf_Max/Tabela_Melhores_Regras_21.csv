@@ -1,0 +1,12 @@
+Antecedentes; ; ; ; ; ; ; ;Consequentes; ; ; ; ; ; ; ;Suporte;Confianca
+Estado;Agravo;Sexo;RacaCor;Agente;Antibiotico;Resistencia;FaixaEtaria;Estado;Agravo;Sexo;RacaCor;Agente;Antibiotico;Resistencia;FaixaEtaria
+ ; ;M;NA; ; ; ; ;AP;0; ; ;Klebsiella oxytoca;Sulfametoxazol/trimetoprim;R;1;4.66;7.91
+ ;0; ;NA;Klebsiella pneumoniae subsp. pneumoniae;Ampicilina;R; ; ; ; ; ; ; ; ;13;1.89;56.04
+RS; ;M; ;Klebsiella pneumoniae subsp. pneumoniae; ;R; ; ; ; ;NA; ;Piperacilina/Tazobactam; ;13;0.71;3.97
+ ; ; ;NA;Klebsiella pneumoniae subsp. pneumoniae; ; ; ;PR;0;M; ; ;Ampicilina/Sulbactam; ;12;0.06;0.11
+ ;0; ; ; ; ; ;8;RS; ;M;NA;Klebsiella pneumoniae subsp. pneumoniae;Ertapenem;R; ;0.03;0.91
+ ;0;F; ; ; ;R; ;TO; ; ;NA;Klebsiella pneumoniae subsp. pneumoniae;Ciprofloxacina; ;6;0.0;0.01
+PI;0; ;NA; ; ; ; ; ; ;F; ;Acinetobacter baumannii;Tigeciclina;S;13;0.01;0.47
+ ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae; ;S;11; ;0;M;BRANCA; ;Tobramicina; ; ;0.0;0.23
+RS; ;M;NA;Klebsiella pneumoniae subsp. pneumoniae; ; ; ; ;0; ; ; ;Piperacilina/Tazobactam;R;13;0.71;3.26
+ ; ;M;NA; ;Ampicilina; ;13;RS;0; ; ;Klebsiella pneumoniae subsp. pneumoniae; ;R; ;0.72;61.55

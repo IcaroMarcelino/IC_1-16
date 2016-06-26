@@ -1,0 +1,13 @@
+RS;0;F;NA;76;Klebsiella pneumoniae subsp. pneumoniae;Amicacina;S;5
+PR;0;M;NA;82;Acinetobacter baumannii;Amicacina;S;1
+RS;0;M;NA;101;Klebsiella pneumoniae subsp. pneumoniae;Colistin;S;13
+RN;0;M;NA;110;Acinetobacter baumannii;Tigeciclina;S;11
+RN;0;M;NA;83;Acinetobacter baumannii;Colistin;S;13
+PR;0;M;NA;66;Acinetobacter baumannii;Colistin;S;13
+PR;0;F;NA;102;Complexo Acinetobacter baumannii;Doxiciclina;S;6
+GO;0;M;NA;105;Acinetobacter baumannii;Amicacina;S;3
+PI;0;M;NA;92;Acinetobacter baumannii;Amicacina;S;4
+PR;0;M;NA;104;Complexo Acinetobacter baumannii;Polimixina B;S;12
+PR;0;M;NA;77;Acinetobacter baumannii;Tigeciclina;S;13
+TO;0;F;NA;83;Klebsiella pneumoniae subsp. pneumoniae;Colistin;S;10
+PI;0;M;NA;99;Acinetobacter baumannii;Amicacina;S;1

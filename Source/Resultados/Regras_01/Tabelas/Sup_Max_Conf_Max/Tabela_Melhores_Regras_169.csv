@@ -1,0 +1,12 @@
+Antecedentes; ; ; ; ; ; ; ;Consequentes; ; ; ; ; ; ; ;Suporte;Confianca
+Estado;Agravo;Sexo;RacaCor;Agente;Antibiotico;Resistencia;FaixaEtaria;Estado;Agravo;Sexo;RacaCor;Agente;Antibiotico;Resistencia;FaixaEtaria
+ ; ; ; ; ; ;R; ; ;0; ; ; ; ; ; ;73.49;99.08
+ ; ;M; ; ; ;R; ; ;0; ;NA; ; ; ; ;43.15;99.05
+ ; ; ; ; ; ;R; ; ;0; ; ; ; ; ; ;73.49;99.08
+ ; ; ; ; ; ;R; ; ;0; ; ; ; ; ; ;73.49;99.08
+ ; ; ; ; ; ;R; ; ;0; ;NA; ; ; ; ;73.49;99.08
+RS; ; ; ; ; ; ; ; ;0; ; ; ; ;R; ;43.64;82.83
+ ; ; ; ; ; ; ; ; ;0; ;NA; ;Ertapenem; ; ;0;0
+ ; ; ; ; ; ;R; ; ;0; ; ; ; ; ; ;73.49;99.08
+ ; ; ; ; ; ;R; ; ;0; ;NA; ; ; ; ;73.49;99.08
+ ; ; ; ; ; ;R; ; ;0; ; ; ; ; ; ;73.49;99.08

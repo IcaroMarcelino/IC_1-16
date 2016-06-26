@@ -1,0 +1,34 @@
+PR;0;F;NA;101;Klebsiella pneumoniae subsp. pneumoniae;Meropenem;S;12
+RS;0;F;NA;102;Klebsiella pneumoniae subsp. pneumoniae;Ciprofloxacina;S;11
+PR;0;F;NA;81;Klebsiella pneumoniae subsp. pneumoniae;Tigeciclina;S;13
+AC;0;M;NA;105;Acinetobacter baumannii;Polimixina B;S;8
+RS;1;F;BRANCA;98;Klebsiella pneumoniae subsp. pneumoniae;Ertapenem;S;11
+TO;0;M;NA;60;Klebsiella oxytoca;Cefepime;S;12
+AP;0;M;NA;103;Acinetobacter baumannii;Tigeciclina;S;6
+PR;0;F;NA;83;Klebsiella oxytoca;Amicacina;S;8
+RS;0;F;NA;86;Klebsiella pneumoniae subsp. pneumoniae;Gentamicina;S;11
+TO;0;F;NA;55;Klebsiella oxytoca;Amicacina;S;12
+PR;0;F;NA;84;Acinetobacter baumannii;Amicacina;S;6
+MS;0;M;NA;54;Mycobacterium sp.;Etambutol;S;12
+RS;0;F;NA;109;Klebsiella pneumoniae subsp. pneumoniae;Colistin;S;13
+RN;0;F;BRANCA;104;Acinetobacter baumannii;Tigeciclina;S;13
+RS;0;F;NA;68;Klebsiella pneumoniae subsp. pneumoniae;Meropenem;S;13
+AC;0;F;PARDA;95;Acinetobacter baumannii;Ceftazidima;S;13
+RN;0;M;NA;87;Acinetobacter baumannii;Ampicilina/Sulbactam;S;13
+PI;0;M;NA;98;Acinetobacter baumannii;Amicacina;S;12
+MS;0;M;NA;74;Mycobacterium sp.;Etambutol;S;11
+RS;0;M;BRANCA;110;Klebsiella pneumoniae subsp. pneumoniae;Amicacina;S;13
+PR;0;M;NA;98;Klebsiella pneumoniae subsp. pneumoniae;Amicacina;S;13
+GO;0;M;NA;86;Acinetobacter baumannii;Amicacina;S;13
+RS;0;F;BRANCA;99;Klebsiella oxytoca;Amicacina;S;13
+GO;0;M;NA;88;Klebsiella oxytoca;Amicacina;S;1
+GO;0;M;NA;99;Acinetobacter baumannii;Polimixina B;S;11
+PR;0;F;NA;81;Klebsiella pneumoniae subsp. pneumoniae;Amicacina;S;12
+RS;0;M;NA;111;Klebsiella pneumoniae subsp. pneumoniae;Colistin;S;12
+RS;0;F;NA;88;Klebsiella pneumoniae subsp. pneumoniae;Amicacina;S;13
+PR;0;F;NA;83;Klebsiella pneumoniae subsp. pneumoniae;Amicacina;S;13
+RS;0;M;NA;66;Klebsiella pneumoniae subsp. pneumoniae;Gentamicina;S;13
+RS;0;F;BRANCA;67;Klebsiella pneumoniae subsp. pneumoniae;Sulfametoxazol/trimetoprim;S;1
+RS;1;F;BRANCA;87;Klebsiella pneumoniae subsp. pneumoniae;Cefuroxima;S;13
+RS;0;M;NA;104;Klebsiella pneumoniae subsp. pneumoniae;Trimetoprim/Sulfametoxazol;S;1
+RN;0;F;NA;84;Klebsiella pneumoniae subsp. pneumoniae;Ertapenem;S;13

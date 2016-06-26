@@ -1,0 +1,7 @@
+PR;0;F;BRANCA;61;Klebsiella pneumoniae subsp. pneumoniae;Cefalotina;R;1
+PR;0;F;NA;99;Klebsiella pneumoniae subsp. pneumoniae;Ceftazidima;I;12
+RS;0;M;NA;85;Klebsiella pneumoniae subsp. pneumoniae;Nitrofurantoina;R;13
+PR;0;M;BRANCA;63;Klebsiella pneumoniae subsp. pneumoniae;Imipenem;R;13
+AP;0;M;NA;101;Acinetobacter baumannii;Cefepime;R;13
+RS;0;F;NA;100;Klebsiella pneumoniae subsp. pneumoniae;Amicacina;R;13
+GO;0;M;NA;96;Acinetobacter sp.;Polimixina B;S;1

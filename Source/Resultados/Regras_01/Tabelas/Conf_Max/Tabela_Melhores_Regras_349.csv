@@ -1,0 +1,12 @@
+Antecedentes; ; ; ; ; ; ; ;Consequentes; ; ; ; ; ; ; ;Suporte;Confianca
+Estado;Agravo;Sexo;RacaCor;Agente;Antibiotico;Resistencia;FaixaEtaria;Estado;Agravo;Sexo;RacaCor;Agente;Antibiotico;Resistencia;FaixaEtaria
+ ; ; ; ; ;Cefoxitina; ; ; ; ; ; ; ; ;R; ;X;81.25
+ ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae; ; ; ;RS;0; ; ; ; ; ; ;X;67.94
+RS; ; ; ; ; ;R;13; ;0; ; ; ; ; ; ;X;99.91
+RS;0; ; ; ;Cefoxitina;R;13; ; ; ; ; ; ; ; ;X;0
+ ;0; ; ; ;Cefoxitina;R;13; ; ; ; ; ; ; ; ;X;0
+ ; ; ; ; ;Cefoxitina; ; ; ; ; ; ; ; ; ; ;X;0
+ ; ; ; ; ;Cefoxitina; ;13; ;0; ; ; ; ; ; ;X;99.86
+ ; ; ; ; ;Cefoxitina;R;13; ;0; ; ; ; ; ; ;X;99.96
+ ;0; ; ; ;Cefoxitina;R;13; ; ; ; ; ; ; ; ;X;0
+ ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae;Cefoxitina; ;13; ;0; ; ; ; ;R; ;X;83.14

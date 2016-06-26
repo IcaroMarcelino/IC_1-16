@@ -1,0 +1,7 @@
+AL;0;M;NA;68;Acinetobacter baumannii;Amicacina;S;9
+AC;0;F;NA;96;Acinetobacter baumannii;Polimixina B;R;12
+GO;0;F;NA;55;Klebsiella oxytoca;Aztreonam;S;8
+AC;0;M;NA;81;Acinetobacter sp.;Piperacilina/Tazobactam;S;3
+RS;0;F;NA;64;Klebsiella pneumoniae subsp. pneumoniae;Ampicilina;R;13
+RS;0;F;NA;106;Klebsiella pneumoniae subsp. pneumoniae;Cefepime;R;3
+RS;0;F;BRANCA;109;Klebsiella pneumoniae subsp. pneumoniae;Ertapenem;R;13

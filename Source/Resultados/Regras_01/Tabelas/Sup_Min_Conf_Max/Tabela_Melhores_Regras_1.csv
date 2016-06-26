@@ -1,0 +1,12 @@
+Antecedentes; ; ; ; ; ; ; ;Consequentes; ; ; ; ; ; ; ;Suporte;Confianca
+Estado;Agravo;Sexo;RacaCor;Agente;Antibiotico;Resistencia;FaixaEtaria;Estado;Agravo;Sexo;RacaCor;Agente;Antibiotico;Resistencia;FaixaEtaria
+ ; ;M;NA; ;Imipenem; ; ;PR;0; ; ;Klebsiella pneumoniae subsp. pneumoniae; ;R;13;0.21;5.68
+ ;0; ;NA; ; ;R; ;GO; ;M; ;Acinetobacter baumannii;Piperacilina/Tazobactam; ;10;0.01;0.01
+RJ; ; ;AMARELA; ; ; ; ; ;0;M; ;Acinetobacter baumannii;Amicacina;R;13;0.0;2.41
+ ; ; ; ;Acinetobacter baumannii;Ampicilina/Sulbactam;R;12;RS;0;F;BRANCA; ; ; ; ;0.01;6.9
+RS; ; ; ;Acinetobacter baumannii; ;R; ; ;0;F;BRANCA; ;Ampicilina/Sulbactam; ;12;0.01;0.1
+PR; ;F;NA;Klebsiella pneumoniae subsp. pneumoniae; ; ;13; ;0; ; ; ;Amicacina;S; ;0.1;3.4
+RS; ; ;NA; ;Cefazolina; ;12; ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae; ;R; ;0.23;91.26
+ ;0;M; ;Klebsiella pneumoniae subsp. pneumoniae;Amoxacilina/Acido Clavulanico; ;13; ; ; ;NA; ; ;R; ;0.68;96.25
+GO;0;M;NA;Acinetobacter baumannii; ;R;10; ; ; ; ; ;Piperacilina/Tazobactam; ; ;0.01;7.39
+PR; ;F;NA;Klebsiella pneumoniae subsp. pneumoniae;Amicacina; ; ; ;0; ; ; ; ;S;12;0.02;6.14

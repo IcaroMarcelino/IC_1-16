@@ -1,0 +1,33 @@
+TO;0;M;NA;62;Acinetobacter lwoffii;Cefepime;S;13
+RS;0;M;BRANCA;63;Klebsiella pneumoniae subsp. pneumoniae;Levofloxacina;S;13
+RS;0;M;NA;75;Klebsiella oxytoca;Levofloxacina;S;9
+RS;0;F;NA;85;Klebsiella pneumoniae subsp. pneumoniae;Tobramicina;S;13
+CE;0;M;NA;110;Klebsiella pneumoniae subsp. pneumoniae;Piperacilina/Tazobactam;S;9
+RS;0;M;BRANCA;96;Klebsiella pneumoniae subsp. pneumoniae;Levofloxacina;S;13
+AC;0;F;NA;75;Klebsiella oxytoca;Nitrofurantoina;S;13
+RR;0;F;INDIGENA;88;Klebsiella oxytoca;Levofloxacina;S;1
+RS;0;M;NA;60;Klebsiella pneumoniae subsp. pneumoniae;Ertapenem;S;12
+RS;0;M;BRANCA;79;Acinetobacter baumannii;Tobramicina;S;13
+GO;0;M;NA;61;Acinetobacter lwoffii;Ceftazidima;S;12
+RS;0;F;PRETA;90;Klebsiella oxytoca;Amicacina;S;13
+AC;0;M;NA;105;Acinetobacter baumannii;Imipenem;S;8
+AC;0;F;AMARELA;104;Acinetobacter baumannii;Ciprofloxacina;S;6
+RO;0;F;PARDA;105;Acinetobacter sp.;Colistin;S;10
+PR;1;F;BRANCA;98;Acinetobacter lwoffii;Gentamicina;S;3
+RN;0;M;NA;95;Acinetobacter baumannii;Colistin;S;9
+RS;0;M;NA;102;Klebsiella pneumoniae subsp. pneumoniae;Amicacina;S;13
+RN;0;F;NA;82;Klebsiella pneumoniae subsp. pneumoniae;Amoxacilina/Acido Clavulanico;S;1
+GO;0;M;NA;65;Acinetobacter baumannii;Gentamicina;S;8
+PR;0;F;BRANCA;58;Complexo Acinetobacter baumannii;Polimixina B;S;13
+AC;0;M;NA;100;Acinetobacter baumannii;Amicacina;S;11
+RS;0;M;NA;84;Klebsiella pneumoniae subsp. pneumoniae;Imipenem;S;13
+RS;0;F;NA;75;Klebsiella pneumoniae subsp. pneumoniae;Amicacina;S;9
+MS;0;M;NA;74;Mycobacterium sp.;Rifampicina;S;12
+GO;0;F;NA;75;Acinetobacter baumannii;Tetraciclina;S;13
+RO;0;M;PARDA;99;Acinetobacter sp.;Ceftazidima;S;2
+RS;0;F;NA;79;Klebsiella pneumoniae subsp. pneumoniae;Meropenem;S;11
+PR;0;F;NA;58;Klebsiella pneumoniae subsp. pneumoniae;Tigeciclina;S;13
+RS;0;F;BRANCA;87;Acinetobacter sp.;Trimetoprim/Sulfametoxazol;S;8
+PR;0;M;NA;94;Klebsiella pneumoniae subsp. pneumoniae;Amicacina;S;7
+PI;0;F;AMARELA;104;Streptococcus agalactiae hemolitico;Clindamicina;S;11
+TO;0;F;NA;100;Acinetobacter baumannii;Tigeciclina;S;1

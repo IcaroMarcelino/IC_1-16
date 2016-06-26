@@ -1,0 +1,65 @@
+Acido Nalidixico|50,52,53,54,55,56,57,58,59
+Acido Pipemidico|96,97,98,100,101,102,103,104,106
+Amicacina|50,51,52,53,54,55,56,57,58
+Amoxacilina/Acido Clavulanico|50,51,52,53,54,55,56,57,58
+Ampicilina|51,52,53,54,55,56,57,58,59
+Ampicilina/Sulbactam|50,51,52,53,54,55,56,57,58
+Azitromicina|56,57,62,64,65,66,71,87,91
+Aztreonam|51,52,53,54,55,56,57,58,59
+Carbenicilina|57,73,74,75,76,77,78,80,81
+Cefaclor|73,NA,NA,NA,NA,NA,NA,NA,NA
+Cefalotina|51,52,53,54,55,56,57,58,59
+Cefazolina|51,52,53,55,56,57,58,59,60
+Cefepime|50,51,52,53,54,55,56,57,58
+Cefotaxima|50,51,52,53,54,55,56,57,58
+Cefoxitina|51,52,53,54,55,56,57,58,59
+Ceftaroline|104,NA,NA,NA,NA,NA,NA,NA,NA
+Ceftazidima|50,51,52,53,54,55,56,57,58
+Ceftriaxona|50,51,52,53,54,55,56,57,58
+Cefuroxima|51,52,53,55,56,57,60,61,62
+Cicloserina|80,NA,NA,NA,NA,NA,NA,NA,NA
+Ciprofloxacina|50,51,52,53,54,55,56,57,58
+Claritromicina|64,87,91,NA,NA,NA,NA,NA,NA
+Clindamicina|50,51,54,56,59,60,62,64,65
+Cloranfenicol|50,51,52,54,55,56,57,58,59
+Colistin|50,51,53,54,55,56,57,58,59
+Doxiciclina|50,53,54,55,56,57,58,59,60
+Eritromicina|50,51,54,55,56,57,59,60,61
+Ertapenem|51,52,53,54,55,56,57,58,59
+Estreptomicina|48,51,52,53,54,55,56,57,58
+Estreptomicina 300 mcg|96,NA,NA,NA,NA,NA,NA,NA,NA
+Etambutol|48,51,52,53,54,55,56,57,58
+Gentamicina|50,51,52,53,54,55,56,57,58
+Gentamicina 120 mg|71,77,80,91,95,96,102,103,107
+Imipenem|50,51,52,53,54,55,56,57,58
+Isoniazida|48,51,52,53,54,55,56,57,58
+Kanamicina|63,65,70,72,NA,NA,NA,NA,NA
+Levofloxacina|50,51,52,53,54,55,56,57,58
+Linezolida|56,57,61,62,63,70,75,78,81
+Lomefloxacina|57,60,65,69,80,NA,NA,NA,NA
+Meropenem|50,51,52,53,54,55,56,57,58
+Minociclina|50,53,54,55,56,57,58,59,60
+Moxifloxacina|56,62,69,70,77,81,88,89,95
+Nitrofurantoina|52,53,54,55,56,57,58,59,60
+Norfloxacina|55,56,57,58,59,60,61,63,64
+Ofloxacina|56,60,63,65,70,73,74,75,76
+Outro Antibiotico 1|63,65,NA,NA,NA,NA,NA,NA,NA
+Outro Antibiotico 2|63,NA,NA,NA,NA,NA,NA,NA,NA
+Oxacilina|64,75,78,84,88,90,91,94,104
+Penicilina|54,57,61,62,63,65,67,68,69
+Piperacilina|50,51,52,53,55,56,57,58,59
+Piperacilina/Tazobactam|50,51,52,53,54,55,56,57,58
+Pirazinamida|72,NA,NA,NA,NA,NA,NA,NA,NA
+Polimixina B|50,53,54,55,56,57,58,59,60
+Quinupristina/dalfopristina|84,NA,NA,NA,NA,NA,NA,NA,NA
+Rifampicina|48,51,52,53,54,55,56,57,58
+Sulfametoxazol/trimetoprim|50,51,52,53,54,55,56,57,58
+Sulfazotrim|55,56,58,59,60,64,65,66,67
+Teicoplanina|69,70,75,76,78,80,81,82,83
+Tetraciclina|50,51,52,53,54,55,56,57,58
+Ticarcilina|65,72,81,89,91,97,98,101,103
+Ticarcilina/Acido Clavulanico|50,51,52,53,55,56,57,58,60
+Tigeciclina|50,51,52,53,54,55,56,57,58
+Tobramicina|50,51,52,53,54,55,56,57,58
+Trimetoprim/Sulfametoxazol|52,63,67,68,69,70,71,72,73
+Vancomicina|50,51,53,55,56,57,60,61,62

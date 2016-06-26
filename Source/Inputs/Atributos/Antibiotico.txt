@@ -1,0 +1,65 @@
+Acido Nalidixico|277|3|179|95
+Acido Pipemidico|24|0|15|9
+Amicacina|9906|546|3003|6357
+Amoxacilina/Acido Clavulanico|4215|78|3958|179
+Ampicilina|6474|14|6275|185
+Ampicilina/Sulbactam|4725|541|3489|695
+Azitromicina|15|2|9|4
+Aztreonam|1604|20|1449|135
+Carbenicilina|23|1|20|2
+Cefaclor|1|0|1|0
+Cefalotina|1633|5|1563|65
+Cefazolina|2365|6|2318|41
+Cefepime|9856|260|8310|1286
+Cefotaxima|3609|85|3311|213
+Cefoxitina|5750|298|4672|780
+Ceftaroline|1|0|0|1
+Ceftazidima|5694|166|4734|794
+Ceftriaxona|7922|287|7167|468
+Cefuroxima|2769|15|2589|165
+Cicloserina|1|0|0|1
+Ciprofloxacina|10059|186|8436|1437
+Claritromicina|3|0|0|3
+Clindamicina|106|0|28|78
+Cloranfenicol|250|1|100|149
+Colistin|4096|2|663|3431
+Doxiciclina|471|9|46|416
+Eritromicina|119|2|39|78
+Ertapenem|5676|17|4950|709
+Estreptomicina|562|0|99|463
+Estreptomicina 300 mcg|1|0|0|1
+Etambutol|521|0|11|510
+Gentamicina|9530|322|6414|2794
+Gentamicina 120 mg|14|0|8|6
+Imipenem|9622|135|7595|1892
+Isoniazida|522|0|61|461
+Kanamicina|5|0|1|4
+Levofloxacina|6661|138|5395|1128
+Linezolida|66|1|1|64
+Lomefloxacina|5|0|0|5
+Meropenem|9832|92|8072|1668
+Minociclina|357|13|20|324
+Moxifloxacina|21|0|2|19
+Nitrofurantoina|1456|57|1252|147
+Norfloxacina|341|11|209|121
+Ofloxacina|32|1|13|18
+Outro Antibiotico 1|3|0|0|3
+Outro Antibiotico 2|1|0|0|1
+Oxacilina|15|0|7|8
+Penicilina|119|2|15|102
+Piperacilina|202|14|155|33
+Piperacilina/Tazobactam|8956|112|7900|944
+Pirazinamida|1|0|1|0
+Polimixina B|1008|3|87|918
+Quinupristina/dalfopristina|1|0|0|1
+Rifampicina|568|0|23|545
+Sulfametoxazol/trimetoprim|1551|6|1039|506
+Sulfazotrim|34|1|23|10
+Teicoplanina|58|2|25|31
+Tetraciclina|2239|471|658|1110
+Ticarcilina|9|4|1|4
+Ticarcilina/Acido Clavulanico|113|14|58|41
+Tigeciclina|4048|1454|876|1718
+Tobramicina|3833|403|2595|835
+Trimetoprim/Sulfametoxazol|5021|1|4018|1002
+Vancomicina|135|0|2|133

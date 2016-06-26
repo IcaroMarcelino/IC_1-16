@@ -1,0 +1,12 @@
+Antecedentes; ; ; ; ; ; ; ;Consequentes; ; ; ; ; ; ; ;Suporte;Confianca
+Estado;Agravo;Sexo;RacaCor;Agente;Antibiotico;Resistencia;FaixaEtaria;Estado;Agravo;Sexo;RacaCor;Agente;Antibiotico;Resistencia;FaixaEtaria
+ ; ; ;NA; ; ; ;13; ; ; ; ; ; ;R; ;39.1;78.68
+ ; ; ; ; ; ; ;13; ; ; ;NA; ; ;R; ;39.1;78.68
+ ; ; ; ; ; ; ; ; ; ; ;NA; ; ;R; ;0;0
+ ;0; ; ;Complexo Acinetobacter baumannii; ;R; ; ; ; ;NA; ;Tigeciclina; ; ;0.02;0.85
+ ; ; ;NA; ; ; ;13; ; ; ; ; ; ;R; ;39.1;78.68
+ ; ; ; ; ; ;R;13; ;0; ;NA;Complexo Acinetobacter baumannii; ; ; ;0.88;2.24
+ ; ; ; ; ; ;R; ;RS; ; ;NA;Complexo Acinetobacter baumannii;Tigeciclina; ; ;0;0
+ ; ;M; ; ; ; ;13; ; ; ;NA; ; ;R; ;21.75;78.6
+ ;0; ; ;Complexo Acinetobacter baumannii;Tigeciclina; ; ; ; ; ;NA; ; ; ; ;0;0
+ ; ; ; ; ; ; ; ; ; ; ;NA; ; ;R;13;0;0

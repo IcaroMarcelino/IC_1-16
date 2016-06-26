@@ -1,0 +1,12 @@
+Antecedentes; ; ; ; ; ; ; ;Consequentes; ; ; ; ; ; ; ;Suporte;Confianca
+Estado;Agravo;Sexo;RacaCor;Agente;Antibiotico;Resistencia;FaixaEtaria;Estado;Agravo;Sexo;RacaCor;Agente;Antibiotico;Resistencia;FaixaEtaria
+ ; ; ; ;Klebsiella oxytoca; ;R;13; ;0; ; ; ; ; ; ;X;0
+RS;0; ;NA; ;Cefepime; ; ; ; ; ; ; ; ;R; ;X;89.4
+ ;0; ;NA; ;Cefepime;R;13;RS; ; ; ; ; ; ; ;X;58.54
+ ; ; ; ;Klebsiella oxytoca; ;R;13; ;0; ;NA; ; ; ; ;X;0
+RS;0; ;NA; ;Cefepime; ;13; ; ; ; ; ; ;R; ;X;89.72
+RS; ; ;NA; ; ;R; ; ; ; ; ; ;Cefepime; ; ;X;6.44
+ ; ; ; ; ; ; ; ; ; ; ;NA; ;Cefepime; ;13;X;0
+ ;0; ;NA; ;Cefepime;R; ;RS; ; ; ; ; ; ;13;X;30.48
+RS;0; ;NA; ; ; ; ; ; ; ; ; ;Cefepime;R; ;X;5.36
+ ;0; ; ; ;Cefepime;R; ;RS; ; ;NA; ; ; ;13;X;30.48

@@ -1,0 +1,12 @@
+Antecedentes; ; ; ; ; ; ; ;Consequentes; ; ; ; ; ; ; ;Suporte;Confianca
+Estado;Agravo;Sexo;RacaCor;Agente;Antibiotico;Resistencia;FaixaEtaria;Estado;Agravo;Sexo;RacaCor;Agente;Antibiotico;Resistencia;FaixaEtaria
+RS;0;F;BRANCA; ; ;R;7; ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae;Trimetoprim/Sulfametoxazol; ; ;0.0;4.65
+ ; ; ; ; ;Imipenem;R;13; ;0;M; ;Acinetobacter baumannii; ; ; ;0.44;17.38
+ ;0;M; ;Acinetobacter baumannii; ; ;9;PI; ; ;NA; ;Amicacina;R; ;0.0;0.17
+ ;0; ; ;Complexo Acinetobacter baumannii;Amicacina; ;12;PR; ;M;NA; ; ;R; ;0.01;40.0
+GO;0;F; ; ; ;S; ; ; ; ;NA;Acinetobacter baumannii;Tigeciclina; ;11;0.0;0.15
+AC; ;F;NA; ; ; ;12; ;0; ; ;Acinetobacter baumannii;Piperacilina/Tazobactam;R; ;0.01;3.19
+RS; ;M;NA;Klebsiella pneumoniae subsp. pneumoniae; ; ; ; ;0; ; ; ;Cefepime;R;13;0.6;2.77
+RO;0;M;PARDA; ;Cefuroxima;R; ; ; ; ; ;Acinetobacter baumannii; ; ;8;0.0;10.0
+PR;1;M;BRANCA; ; ;I; ; ; ; ; ;Complexo Acinetobacter baumannii;Ampicilina/Sulbactam; ;8;0.01;0.21
+ ; ;F; ; ;Levofloxacina;R; ;RS;0; ;BRANCA;Klebsiella pneumoniae subsp. pneumoniae; ; ;13;0.09;6.28

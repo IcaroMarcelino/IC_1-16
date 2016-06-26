@@ -1,0 +1,12 @@
+Antecedentes; ; ; ; ; ; ; ;Consequentes; ; ; ; ; ; ; ;Suporte;Confianca
+Estado;Agravo;Sexo;RacaCor;Agente;Antibiotico;Resistencia;FaixaEtaria;Estado;Agravo;Sexo;RacaCor;Agente;Antibiotico;Resistencia;FaixaEtaria
+ ; ; ; ; ; ;R; ; ;0; ; ; ; ; ; ;73.57;99.08
+RS; ; ;NA; ; ;R; ; ; ; ; ; ; ; ; ;0;0
+ ; ; ; ; ; ;R; ; ;0; ;NA; ; ; ; ;73.57;99.08
+ ;0; ;NA; ;Ciprofloxacina; ; ; ; ; ; ; ; ; ; ;0;0
+ ; ; ; ; ;Ciprofloxacina;R; ; ;0; ;NA; ; ; ; ;5.45;99.18
+ ; ; ; ; ; ;R; ; ;0; ; ; ; ; ; ;73.57;99.08
+ ; ; ; ; ; ;R; ; ;0; ; ; ; ; ; ;73.57;99.08
+ ; ; ; ; ; ;R; ; ;0; ; ; ; ; ; ;73.57;99.08
+ ; ; ; ; ; ;R; ; ;0; ; ; ; ; ; ;73.57;99.08
+ ; ; ; ; ; ;R; ; ;0; ; ; ; ; ; ;73.57;99.08

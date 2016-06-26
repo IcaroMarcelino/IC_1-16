@@ -1,0 +1,9 @@
+ES
+0
+M|F
+PARDA|NA
+112
+Acinetobacter baumannii
+Ampicilina/Sulbactam|Ertapenem|Imipenem|Meropenem|Polimixina B
+I|R|S
+11|12

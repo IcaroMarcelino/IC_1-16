@@ -1,0 +1,16 @@
+GO;0;M;NA;57;Acinetobacter baumannii;Amicacina;I;13
+RS;0;F;NA;61;Klebsiella pneumoniae subsp. pneumoniae;Tobramicina;R;13
+RS;0;F;AMARELA;103;Klebsiella pneumoniae subsp. pneumoniae;Tigeciclina;I;13
+PR;0;F;NA;79;Klebsiella pneumoniae subsp. pneumoniae;Ampicilina/Sulbactam;R;12
+RS;0;F;NA;109;Klebsiella pneumoniae subsp. pneumoniae;Tigeciclina;R;12
+PR;0;F;BRANCA;80;Klebsiella pneumoniae subsp. pneumoniae;Ampicilina/Sulbactam;R;13
+RJ;0;M;AMARELA;104;Acinetobacter baumannii;Ceftriaxona;I;12
+CE;0;F;NA;111;Streptococcus sp.;Norfloxacina;I;9
+RO;0;M;PARDA;105;Acinetobacter baumannii;Tigeciclina;I;13
+PR;0;F;NA;77;Klebsiella pneumoniae subsp. pneumoniae;Ampicilina/Sulbactam;R;13
+MG;0;F;NA;52;Acinetobacter sp.;Ampicilina/Sulbactam;R;13
+PR;0;M;NA;81;Complexo Acinetobacter baumannii;Tetraciclina;I;13
+RS;0;M;NA;111;Klebsiella pneumoniae subsp. pneumoniae;Tigeciclina;I;12
+RS;0;F;BRANCA;90;Acinetobacter baumannii;Tobramicina;I;9
+RS;0;F;BRANCA;88;Acinetobacter baumannii;Tobramicina;R;12
+PR;0;M;NA;63;Klebsiella pneumoniae subsp. pneumoniae;Ampicilina/Sulbactam;R;13

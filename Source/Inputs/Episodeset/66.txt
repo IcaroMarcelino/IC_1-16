@@ -1,0 +1,9 @@
+CE|RN|GO|TO|PE|RS|MS|AC|PR|PB|MG
+0|1
+M|F
+NA|BRANCA
+66
+Acinetobacter baumannii|Klebsiella pneumoniae subsp. pneumoniae|Mycobacterium sp.|Acinetobacter sp.|Salmonella Enteritidis|Klebsiella oxytoca
+Amicacina|Ampicilina/Sulbactam|Aztreonam|Cefepime|Cefotaxima|Ceftazidima|Ciprofloxacina|Gentamicina|Imipenem|Meropenem|Piperacilina/Tazobactam|Tigeciclina|Ceftriaxona|Levofloxacina|Piperacilina|Sulfametoxazol/trimetoprim|Tetraciclina|Ticarcilina/Acido Clavulanico|Tobramicina|Polimixina B|Ampicilina|Cefalotina|Cefoxitina|Colistin|Ertapenem|Acido Nalidixico|Nitrofurantoina|Amoxacilina/Acido Clavulanico|Cefazolina|Estreptomicina|Etambutol|Isoniazida|Rifampicina|Cloranfenicol|Norfloxacina|Azitromicina|Doxiciclina|Minociclina|Cefuroxima|Sulfazotrim
+S|R|I
+13|11|9|12|3|8|10|7|5|1|6

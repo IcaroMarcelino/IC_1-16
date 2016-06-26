@@ -1,0 +1,12 @@
+Antecedentes; ; ; ; ; ; ; ;Consequentes; ; ; ; ; ; ; ;Suporte;Confianca
+Estado;Agravo;Sexo;RacaCor;Agente;Antibiotico;Resistencia;FaixaEtaria;Estado;Agravo;Sexo;RacaCor;Agente;Antibiotico;Resistencia;FaixaEtaria
+ ; ; ; ; ;Ciprofloxacina; ; ;RS;0; ; ; ; ; ; ;X;49.51
+ ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae;Ciprofloxacina;R;13; ; ; ; ; ; ; ; ;X;0
+ ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae;Ciprofloxacina;R; ; ;0; ; ; ; ; ; ;X;99.75
+ ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae;Ciprofloxacina;R;13; ;0; ; ; ; ; ; ;X;99.93
+ ;0; ; ;Klebsiella pneumoniae subsp. pneumoniae;Ciprofloxacina;R; ; ; ;F; ; ; ; ;13;X;26.42
+ ; ; ; ; ;Ciprofloxacina;R;13; ;0; ; ; ; ; ; ;X;99.69
+ ; ; ; ; ;Ciprofloxacina;R;13; ;0; ; ; ; ; ; ;X;99.69
+ ; ; ; ; ;Ciprofloxacina; ;13; ;0; ; ; ; ; ; ;X;99.65
+ ; ; ; ;Klebsiella pneumoniae subsp. pneumoniae; ; ; ; ; ; ; ; ; ;R;13;X;45.63
+RS;0; ; ;Klebsiella pneumoniae subsp. pneumoniae;Ciprofloxacina; ;13; ; ;F; ; ; ; ; ;X;46.01

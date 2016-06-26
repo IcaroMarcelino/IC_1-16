@@ -1,0 +1,12 @@
+Antecedentes; ; ; ; ; ; ; ;Consequentes; ; ; ; ; ; ; ;Suporte;Confianca
+Estado;Agravo;Sexo;RacaCor;Agente;Antibiotico;Resistencia;FaixaEtaria;Estado;Agravo;Sexo;RacaCor;Agente;Antibiotico;Resistencia;FaixaEtaria
+ ;0;M;NA; ; ; ; ; ; ; ; ; ; ; ; ;0;0
+ ; ;M; ; ; ; ; ; ;0; ; ; ; ; ; ;58.47;98.82
+ ; ;M; ; ; ; ; ; ;0; ; ; ; ; ; ;58.47;98.82
+ ;0; ; ; ;Amoxacilina/Acido Clavulanico; ; ; ; ; ; ; ; ;S; ;0.11;4.1
+ ;0; ;NA; ; ;S; ; ; ;M; ; ; ; ; ;13.12;58.36
+ ; ;M;NA; ; ;S; ; ;0; ; ;Klebsiella pneumoniae subsp. pneumoniae; ; ; ;5.5;41.04
+ ; ; ; ; ; ; ; ; ;0;M;NA; ; ; ; ;0;0
+ ; ;M;NA; ; ; ; ; ;0; ; ; ; ; ; ;58.47;98.82
+ ; ;M;NA; ; ; ; ; ;0; ; ; ; ; ; ;58.47;98.82
+ ; ; ; ; ; ;S; ; ;0;M; ; ; ; ; ;13.12;57.08

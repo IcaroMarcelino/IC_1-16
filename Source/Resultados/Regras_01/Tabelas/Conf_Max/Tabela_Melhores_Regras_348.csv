@@ -1,0 +1,12 @@
+Antecedentes; ; ; ; ; ; ; ;Consequentes; ; ; ; ; ; ; ;Suporte;Confianca
+Estado;Agravo;Sexo;RacaCor;Agente;Antibiotico;Resistencia;FaixaEtaria;Estado;Agravo;Sexo;RacaCor;Agente;Antibiotico;Resistencia;FaixaEtaria
+RS; ; ;NA; ; ;R; ; ;0; ; ; ; ; ;13;X;58.18
+ ;0; ; ;Klebsiella pneumoniae subsp. pneumoniae;Cefazolina;R; ; ; ; ; ; ; ; ;13;X;59.08
+ ; ; ;NA; ; ;R; ; ; ; ; ; ; ; ;13;X;52.66
+ ;0; ; ; ; ; ; ; ; ; ;NA; ; ;R; ;X;73.69
+ ; ; ;NA; ; ; ; ; ; ; ; ; ; ;R; ;X;0
+ ; ; ; ; ; ; ; ; ;0;F;NA; ;Cefazolina; ; ;X;0
+ ;0; ; ; ; ; ; ;RS; ; ;NA; ; ; ; ;X;52.59
+ ; ; ;NA; ; ; ; ;RS; ; ; ; ; ;R;13;X;0
+ ; ; ;NA;Klebsiella pneumoniae subsp. pneumoniae; ;R;13; ;0; ; ; ; ; ; ;X;99.92
+ ; ; ;NA; ;Cefazolina;R; ; ;0; ; ; ; ; ;13;X;57.72

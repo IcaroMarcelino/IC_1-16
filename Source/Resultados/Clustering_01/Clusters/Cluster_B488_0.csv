@@ -1,0 +1,18 @@
+RS;0;F;NA;101;Klebsiella pneumoniae subsp. pneumoniae;Amicacina;R;13
+PR;0;F;NA;76;Klebsiella pneumoniae subsp. pneumoniae;Amicacina;I;1
+RS;0;M;NA;91;Klebsiella pneumoniae subsp. pneumoniae;Cefoxitina;S;13
+RS;0;F;NA;92;Acinetobacter sp.;Ampicilina/Sulbactam;I;13
+PR;0;M;NA;72;Acinetobacter baumannii;Tetraciclina;R;13
+PR;0;F;NA;74;Klebsiella pneumoniae subsp. pneumoniae;Amicacina;R;10
+CE;0;F;NA;98;Streptococcus sp.;Amicacina;R;8
+RS;0;M;NA;94;Acinetobacter baumannii;Tobramicina;I;13
+PR;0;F;NA;77;Klebsiella pneumoniae subsp. pneumoniae;Amicacina;R;10
+PB;0;M;NA;91;Klebsiella oxytoca;Ticarcilina/Acido Clavulanico;R;12
+PR;0;M;NA;91;Complexo Acinetobacter baumannii;Tigeciclina;I;10
+RS;0;M;NA;79;Klebsiella pneumoniae subsp. pneumoniae;Tobramicina;I;13
+RJ;0;F;NA;75;Acinetobacter baumannii;Amicacina;R;13
+PR;0;M;NA;74;Acinetobacter baumannii;Tetraciclina;I;11
+PR;0;F;NA;71;Klebsiella pneumoniae subsp. pneumoniae;Amicacina;R;13
+PR;0;M;NA;100;Klebsiella pneumoniae subsp. pneumoniae;Polimixina B;R;13
+RS;0;M;NA;108;Klebsiella pneumoniae subsp. pneumoniae;Ciprofloxacina;I;1
+AC;0;M;NA;111;Acinetobacter baumannii;Imipenem;I;13

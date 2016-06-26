@@ -1,0 +1,45 @@
+RS;0;F;NA;86;Klebsiella pneumoniae subsp. pneumoniae;Gentamicina;S;13
+PR;0;F;NA;69;Klebsiella pneumoniae subsp. pneumoniae;Tigeciclina;S;12
+RS;0;F;NA;94;Klebsiella pneumoniae subsp. pneumoniae;Levofloxacina;S;13
+RS;0;M;NA;89;Klebsiella pneumoniae subsp. pneumoniae;Imipenem;S;13
+PR;0;M;NA;54;Complexo Acinetobacter baumannii;Polimixina B;S;12
+PR;0;M;NA;95;Klebsiella pneumoniae subsp. pneumoniae;Colistin;S;12
+PR;0;M;NA;78;Klebsiella pneumoniae subsp. pneumoniae;Ertapenem;S;13
+PR;0;F;BRANCA;67;Acinetobacter baumannii;Doxiciclina;S;12
+MG;0;F;NA;51;Acinetobacter sp.;Meropenem;S;12
+AC;0;F;NA;111;Acinetobacter baumannii;Tetraciclina;S;12
+PR;0;M;NA;97;Complexo Acinetobacter baumannii;Tigeciclina;S;12
+AP;0;M;NA;98;Acinetobacter baumannii;Ciprofloxacina;S;12
+RS;0;M;BRANCA;70;Klebsiella pneumoniae subsp. pneumoniae;Ertapenem;S;12
+PR;0;M;NA;65;Klebsiella pneumoniae subsp. pneumoniae;Colistin;R;13
+RS;0;M;BRANCA;92;Acinetobacter baumannii;Amicacina;I;13
+PR;0;F;NA;50;Acinetobacter baumannii;Colistin;S;13
+PR;0;M;NA;96;Complexo Acinetobacter baumannii;Tigeciclina;S;12
+RN;0;M;NA;92;Klebsiella pneumoniae subsp. pneumoniae;Cefuroxima;S;1
+PI;0;M;NA;97;Acinetobacter baumannii;Colistin;S;11
+MG;0;M;NA;82;Salmonella Enteritidis;Ciprofloxacina;S;3
+MS;0;M;NA;54;Mycobacterium sp.;Etambutol;S;7
+AP;0;F;NA;100;Acinetobacter baumannii;Ceftazidima;S;5
+RN;0;M;NA;87;Acinetobacter baumannii;Ceftriaxona;I;12
+RS;0;F;BRANCA;97;Klebsiella pneumoniae subsp. pneumoniae;Cefoxitina;S;11
+PR;0;M;BRANCA;94;Complexo Acinetobacter baumannii;Tigeciclina;S;12
+AC;0;M;NA;67;Acinetobacter sp.;Piperacilina/Tazobactam;S;13
+PR;0;M;NA;100;Klebsiella pneumoniae subsp. pneumoniae;Colistin;S;13
+AC;0;I;NA;75;Acinetobacter sp.;Aztreonam;S;1
+TO;0;M;NA;57;Klebsiella oxytoca;Sulfametoxazol/trimetoprim;S;7
+RS;0;F;NA;71;Salmonella Enteritidis;Estreptomicina;S;10
+RS;0;M;BRANCA;71;Klebsiella pneumoniae subsp. pneumoniae;Imipenem;S;13
+GO;0;M;NA;82;Acinetobacter baumannii;Colistin;S;10
+GO;0;M;NA;57;Acinetobacter baumannii;Gentamicina;S;13
+RS;0;M;NA;85;Klebsiella pneumoniae subsp. pneumoniae;Trimetoprim/Sulfametoxazol;S;13
+RS;0;F;NA;96;Klebsiella pneumoniae subsp. pneumoniae;Colistin;S;7
+MS;0;M;NA;63;Mycobacterium sp.;Rifampicina;S;8
+PR;0;F;NA;76;Klebsiella pneumoniae subsp. pneumoniae;Ciprofloxacina;S;12
+RS;0;M;PRETA;87;Klebsiella pneumoniae subsp. pneumoniae;Gentamicina;S;13
+MS;0;M;NA;62;Mycobacterium sp.;Etambutol;S;9
+GO;0;F;NA;101;Acinetobacter baumannii;Ceftazidima;S;3
+AC;0;F;NA;96;Acinetobacter baumannii;Ciprofloxacina;S;6
+PR;0;M;NA;93;Complexo Acinetobacter baumannii;Colistin;S;11
+RJ;0;F;NA;110;Klebsiella pneumoniae subsp. pneumoniae;Gentamicina;S;13
+AC;0;M;PARDA;94;Acinetobacter baumannii;Levofloxacina;S;11
+RS;0;F;BRANCA;98;Salmonella Enteritidis;Cloranfenicol;S;6

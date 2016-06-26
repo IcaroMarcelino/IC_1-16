@@ -1,0 +1,12 @@
+Antecedentes; ; ; ; ; ; ; ;Consequentes; ; ; ; ; ; ; ;Suporte;Confianca
+Estado;Agravo;Sexo;RacaCor;Agente;Antibiotico;Resistencia;FaixaEtaria;Estado;Agravo;Sexo;RacaCor;Agente;Antibiotico;Resistencia;FaixaEtaria
+ ; ; ; ; ;Nitrofurantoina; ; ; ;0; ; ; ; ; ; ;X;99.93
+ ; ; ; ; ;Nitrofurantoina; ; ; ;0; ; ; ; ; ; ;X;99.93
+ ; ; ; ; ;Nitrofurantoina; ; ; ;0; ; ; ; ; ; ;X;99.93
+ ; ; ; ; ;Nitrofurantoina; ; ; ;0; ;NA; ; ; ; ;X;99.93
+ ;0; ; ; ;Nitrofurantoina; ; ;RS; ; ; ; ; ; ; ;X;77.87
+ ;0; ; ; ;Nitrofurantoina; ; ; ; ; ; ; ; ; ; ;X;0
+ ; ; ; ; ;Nitrofurantoina; ; ; ;0; ;NA; ; ; ; ;X;99.93
+ ; ; ; ; ;Nitrofurantoina; ; ; ;0; ; ; ; ; ; ;X;99.93
+ ; ; ; ; ; ; ; ; ;0; ; ; ;Nitrofurantoina; ; ;X;0
+ ; ; ; ; ; ; ; ; ;0; ;NA; ;Nitrofurantoina;R; ;X;0

@@ -1,0 +1,36 @@
+PR;0;F;NA;107;Complexo Acinetobacter baumannii;Polimixina B;S;13
+RS;0;M;NA;104;Klebsiella pneumoniae subsp. pneumoniae;Trimetoprim/Sulfametoxazol;S;9
+RN;0;M;NA;94;Acinetobacter baumannii;Gentamicina;S;12
+SE;0;F;NA;105;Acinetobacter baumannii;Tigeciclina;S;3
+TO;0;M;NA;81;Klebsiella oxytoca;Gentamicina;S;1
+GO;0;M;NA;102;Acinetobacter baumannii;Colistin;S;3
+RS;1;M;BRANCA;76;Klebsiella oxytoca;Amicacina;S;1
+MS;0;M;NA;59;Mycobacterium sp.;Etambutol;S;10
+RS;0;M;BRANCA;86;Acinetobacter baumannii;Amicacina;S;11
+RS;0;M;NA;84;Klebsiella pneumoniae subsp. pneumoniae;Amicacina;S;12
+RN;0;F;NA;85;Klebsiella pneumoniae subsp. pneumoniae;Aztreonam;S;13
+AC;0;F;NA;64;Acinetobacter sp.;Meropenem;S;8
+PR;0;M;NA;82;Klebsiella pneumoniae subsp. pneumoniae;Colistin;S;11
+RS;0;M;BRANCA;94;Acinetobacter baumannii;Tetraciclina;S;13
+AC;0;M;NA;103;Acinetobacter baumannii;Polimixina B;S;10
+AP;0;M;NA;91;Acinetobacter baumannii;Colistin;S;6
+AC;0;M;NA;55;Acinetobacter sp.;Ertapenem;S;2
+AC;0;F;NA;102;Acinetobacter baumannii;Meropenem;S;1
+RS;0;F;BRANCA;74;Klebsiella pneumoniae subsp. pneumoniae;Amicacina;S;12
+RS;0;M;BRANCA;111;Klebsiella pneumoniae subsp. pneumoniae;Gentamicina;S;13
+RN;0;M;NA;84;Acinetobacter baumannii;Ciprofloxacina;S;12
+RS;0;F;NA;79;Klebsiella oxytoca;Amicacina;S;13
+AC;0;M;NA;74;Acinetobacter sp.;Piperacilina/Tazobactam;S;4
+PR;0;M;NA;96;Klebsiella pneumoniae subsp. pneumoniae;Meropenem;S;13
+PI;0;F;NA;96;Acinetobacter baumannii;Amoxacilina/Acido Clavulanico;S;6
+AP;0;F;NA;110;Acinetobacter baumannii;Tigeciclina;S;13
+RN;0;M;NA;87;Acinetobacter baumannii;Ampicilina/Sulbactam;S;11
+RS;0;F;NA;106;Klebsiella pneumoniae subsp. pneumoniae;Amicacina;S;13
+RS;0;M;BRANCA;96;Klebsiella pneumoniae subsp. pneumoniae;Amicacina;S;11
+AC;0;F;NA;75;Acinetobacter sp.;Amicacina;S;2
+RS;0;F;BRANCA;80;Salmonella Enteritidis;Tetraciclina;S;8
+PI;0;M;NA;92;Acinetobacter baumannii;Norfloxacina;S;4
+RN;0;M;NA;88;Streptococcus sp.;Ceftriaxona;S;12
+MS;0;M;NA;68;Mycobacterium sp.;Rifampicina;S;12
+GO;0;M;NA;62;Klebsiella oxytoca;Levofloxacina;S;1
+AC;0;M;NA;108;Acinetobacter baumannii;Polimixina B;S;11
