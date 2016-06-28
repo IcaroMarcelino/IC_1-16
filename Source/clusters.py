@@ -4,9 +4,9 @@ import csv
 
 print("Lendo informacoes da base...")
 atributos = HVDM.lerAtributos()
-centroides_I = GAC.lerBase("Inputs/CentroidesI.csv")
-centroides_R = GAC.lerBase("Inputs/CentroidesR.csv")
-centroides_S = GAC.lerBase("Inputs/CentroidesS.csv")
+centroides_I = GAC.lerBase("Inputs/CENTROIDES_I_final.csv")
+centroides_R = GAC.lerBase("Inputs/CENTROIDES_R_final.csv")
+centroides_S = GAC.lerBase("Inputs/CENTROIDES_S_final.csv")
 bd = GAC.lerBase("Inputs/bd_mortais.csv")
 
 print("Encontrando indices dos centroides...")
