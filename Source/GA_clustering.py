@@ -83,8 +83,7 @@ def gerarClusters(cromossomo, base, atributos):
 
 	for i in range(0, len(cromossomo)):
 		if cromossomo[i] == 1:
-			ind1 = int(i/4)
-			centroides.append(base[ind1])
+			centroides.append(base[i])
 			clusters.append([])
 			distancias.append([])
 
