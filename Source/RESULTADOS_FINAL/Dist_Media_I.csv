@@ -1,0 +1,12 @@
+['AL', '0', 'M', 'NA', '96', 'Acinetobacter baumannii', 'Ampicilina/Sulbactam', 'I', '8'];0.4090288767591655
+['CE', '0', 'F', 'PARDA', '105', 'Streptococcus sp.', 'Norfloxacina', 'I', '9'];0.6072964190663359
+['CE', '0', 'M', 'NA', '53', 'Acinetobacter baumannii', 'Tigeciclina', 'I', '11'];0.6097552156115763
+['MG', '0', 'M', 'NA', '64', 'Acinetobacter baumannii', 'Ampicilina/Sulbactam', 'I', '13'];1.0857109671324785
+['PI', '0', 'F', 'NA', '99', 'Acinetobacter baumannii', 'Ceftriaxona', 'I', '1'];0.17597246427275998
+['PR', '0', 'F', 'BRANCA', '58', 'Complexo Acinetobacter baumannii', 'Doxiciclina', 'I', '13'];1.0404682228169189
+['PR', '0', 'F', 'NA', '76', 'Klebsiella pneumoniae subsp. pneumoniae', 'Amicacina', 'I', '1'];0.5134415387567749
+['PR', '0', 'F', 'NA', '79', 'Complexo Acinetobacter baumannii', 'Gentamicina', 'I', '7'];0.13842932924680135
+['PR', '0', 'F', 'NA', '99', 'Klebsiella pneumoniae subsp. pneumoniae', 'Ceftazidima', 'I', '12'];1.1308708136696115
+['PR', '0', 'M', 'BRANCA', '66', 'Klebsiella pneumoniae subsp. pneumoniae', 'Cefepime', 'I', '13'];1.0029604716604517
+['PR', '0', 'M', 'BRANCA', '96', 'Klebsiella pneumoniae subsp. pneumoniae', 'Tigeciclina', 'I', '13'];1.2025954824526168
+['PR', '0', 'M', 'NA', '67', 'Acinetobacter baumannii', 'Gentamicina', 'I', '13'];1.1023892764505931

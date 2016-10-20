@@ -1,0 +1,11 @@
+['AC', '0', 'F', 'NA', '109', 'Acinetobacter baumannii', 'Aztreonam', 'S', '13'];1,4313423980231594
+['MG', '0', 'F', 'NA', '100', 'Salmonella Enteritidis', 'Ceftriaxona', 'S', '13'];1,8549665554307637
+['MG', '1', 'F', 'NA', '76', 'Streptococcus agalactiae hemolitico', 'Ceftriaxona', 'S', '1'];1,30170901401044
+['MS', '0', 'F', 'NA', '101', 'Klebsiella pneumoniae subs pneumoniae', 'Piperacilina/Tazobactam', 'S', '1'];1,514628169878806
+['MS', '0', 'F', 'NA', '102', 'Acinetobacter baumannii', 'Piperacilina/Tazobactam', 'S', '12'];0,7870670846042218
+['MS', '0', 'F', 'NA', '107', 'Klebsiella pneumoniae subs pneumoniae', 'Ciprofloxacina', 'S', '13'];0,8448179106555842
+['MS', '0', 'M', 'AMARELA', '74', 'Mycobacterium s', 'Etambutol', 'S', '9'];1,894618813501316
+['MS', '0', 'M', 'INDIGENA', '67', 'Mycobacterium s', 'Rifampicina', 'S', '13'];1,7797579409251518
+['MS', '0', 'M', 'INDIGENA', '69', 'Mycobacterium s', 'Estreptomicina', 'S', '13'];1,6636053755085947
+['MS', '0', 'M', 'NA', '108', 'Klebsiella pneumoniae subs pneumoniae', 'Imipenem', 'S', '13'];0,6990085940639318
+['MS', '0', 'M', 'NA', '59', 'Mycobacterium s', 'Etambutol', 'S', '10'];1,55090194124551

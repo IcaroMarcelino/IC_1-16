@@ -1,0 +1,6 @@
+['GO', '0', 'M', 'NA', '63', 'Streptococcus agalactiae hemolitico', 'Tetraciclina', 'R', '13'];0.7253443185854488
+['MS', '0', 'F', 'NA', '84', 'Klebsiella pneumoniae subsp. pneumoniae', 'Piperacilina/Tazobactam', 'R', '12'];1.5218330957625759
+['MS', '0', 'M', 'NA', '111', 'Klebsiella pneumoniae subsp. pneumoniae', 'Ceftriaxona', 'R', '8'];1.1658721495465874
+['MS', '0', 'M', 'NA', '63', 'Mycobacterium sp.', 'Estreptomicina', 'R', '8'];1.5240433115087713
+['PA', '0', 'F', 'NA', '111', 'Streptococcus agalactiae hemolitico', 'Norfloxacina', 'R', '11'];0.38302858673665624
+['PR', '0', 'F', 'NA', '84', 'Streptococcus agalactiae hemolitico', 'Eritromicina', 'R', '12'];1.1063771683463732
