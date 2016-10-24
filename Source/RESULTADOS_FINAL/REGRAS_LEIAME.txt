@@ -1,0 +1,27 @@
+	Os arquivos relacionados às regras de associação, contém as regras com
+confiança acima de 60% para as observações que continham o atributo Raça/Cor e
+para as que não tinham. A separação foi feita devido aos muitos missing values
+presentes.
+	Cada linha das tabelas contém uma regra. Devem ser lidas da seguinte
+forma:
+	(Antecedente)
+	SE Estado = X1
+	E Agravo = X2
+	E Sexo = X3
+	E RacaCor = X4
+	E Agente = X5
+	E Antibiotico = X6
+	E Resistencia = X7
+	E FaixaEtaria = X8
+
+	(Consequente)
+	ENTÃO Estado = Y1
+	E Agravo = Y2
+	E Sexo = Y3
+	E RacaCor = Y4
+	E Agente = Y5
+	E Antibiotico = Y6
+	E Resistencia = Y7
+	E FaixaEtaria = Y8
+
+

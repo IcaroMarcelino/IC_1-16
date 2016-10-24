@@ -1,0 +1,3 @@
+	Os arquivos "CENTROIDES_I_final.csv", "CENTROIDES_R_final.csv" e 
+"CENTROIDES_S_final.csv" contém os centroides encontrados para a base de dados no
+fim do processamento.

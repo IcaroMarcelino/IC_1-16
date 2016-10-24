@@ -1,0 +1,2 @@
+	Os arquivos "Dist_Media_I.csv", "Dist_Media_R.csv" e "Dist_Media_S.csv" 
+contém a distância média entre do cluster para o centroide indicado.

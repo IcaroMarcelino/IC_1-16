@@ -1,0 +1,5 @@
+	Os arquivos "BD_MORTAIS_I.csv", "BD_MORTAIS_R.csv" e "BD_MORTAIS_S.csv"
+contém as atribuições de todas as amostras aos clusters intermediários, 
+resistentes e sensíveis, respectivamente.
+	Há uma coluna a mais (Cluster) que indica a qual centroide a observação
+está associada (Veja o arquivo que contém os centroides)
